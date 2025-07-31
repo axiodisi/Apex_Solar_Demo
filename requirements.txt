@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-pinecone-client
+pinecone
 openai
 PyMuPDF
 python-multipart
