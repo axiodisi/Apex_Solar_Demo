@@ -10,10 +10,10 @@ from openai import OpenAI
 import uvicorn
 import uuid
 import time
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv()
+#load_dotenv()
 
 # === Setup ===
 app = FastAPI(title="Apex Solar Demo API")
