@@ -9,6 +9,7 @@ import os
 import re
 import time
 from collections import OrderedDict, defaultdict, deque
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import List, Optional
 
@@ -27,7 +28,8 @@ ROOT = Path(__file__).parent
 ASSISTANTS = json.loads((ROOT / "assistants.json").read_text(encoding="utf-8"))
 
 CANDIDATES = 20      # passages pulled from each search method
-CONTEXT_PASSAGES = 6  # passages given to the model
+CONTEXT_PASSAGES = 8  # passages given to the model
+MAX_PER_DOCUMENT = 3  # passages allowed from any one file
 RRF_K = 60           # standard reciprocal-rank-fusion constant
 
 STOPWORDS = set("""a an and are as at be by can do does for from has have how i if in is it
@@ -98,27 +100,84 @@ class QueryResponse(BaseModel):
 
 
 # === Retrieval ===
-def keyword_search(assistant_id: str, question: str) -> List[str]:
+SPLIT_PROMPT = """Turn the user's question into 1 to 3 short search queries for a document search, one per distinct thing being asked.
+Keep names, numbers, and key terms. When part of the question is about the organization's general rules or policies, write that query WITHOUT the case, client, or person's name.
+If it asks a single thing, return just one query. Reply as JSON: {"queries": ["..."]}
+
+Example: "When is the Smith expert deadline and when do we need it done internally?"
+-> {"queries": ["Smith case expert disclosure deadline", "firm policy internal deadline before court deadlines"]}"""
+
+
+def split_question(question: str) -> List[str]:
+    """Break multi-part questions into separate searches. Falls back to the question itself."""
+    try:
+        kwargs = {"temperature": 0} if CHAT_MODEL.startswith("gpt-4") else {}
+        response = openai_client.chat.completions.create(
+            model=CHAT_MODEL,
+            messages=[{"role": "system", "content": SPLIT_PROMPT}, {"role": "user", "content": question}],
+            response_format={"type": "json_object"},
+            max_completion_tokens=150,
+            **kwargs,
+        )
+        queries = json.loads(response.choices[0].message.content or "{}").get("queries", [])
+        queries = [q.strip() for q in queries if isinstance(q, str) and q.strip()][:3]
+    except Exception as e:
+        print(f"Question split failed, searching the original question only: {e!r}")
+        queries = []
+    return [question] + [q for q in queries if q.lower() != question.lower()]
+
+
+def keyword_search(assistant_id: str, query: str) -> List[str]:
     bm25 = bm25_by_assistant[assistant_id]
-    scores = bm25.get_scores(tokenize(question))
+    scores = bm25.get_scores(tokenize(query))
     ranked = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:CANDIDATES]
     chunks = chunks_by_assistant[assistant_id]
     return [chunks[i]["id"] for i in ranked if scores[i] > 0]
 
 
-def meaning_search(assistant_id: str, question: str) -> List[str]:
-    vector = openai_client.embeddings.create(model=EMBED_MODEL, input=question).data[0].embedding
+def meaning_search(assistant_id: str, vector: List[float]) -> List[str]:
     result = pinecone_index.query(vector=vector, top_k=CANDIDATES, namespace=assistant_id)
     return [m.id for m in result.matches if m.id in chunk_lookup]
 
 
-def hybrid_search(assistant_id: str, question: str) -> List[dict]:
-    fused = defaultdict(float)
-    for ranked_ids in (meaning_search(assistant_id, question), keyword_search(assistant_id, question)):
+def fuse(ranked_lists: List[List[str]]) -> List[str]:
+    """Reciprocal rank fusion: merge several ranked lists into one."""
+    scores = defaultdict(float)
+    for ranked_ids in ranked_lists:
         for rank, chunk_id in enumerate(ranked_ids):
-            fused[chunk_id] += 1.0 / (RRF_K + rank + 1)
-    best = sorted(fused, key=fused.get, reverse=True)[:CONTEXT_PASSAGES]
-    return [chunk_lookup[i] for i in best]
+            scores[chunk_id] += 1.0 / (RRF_K + rank + 1)
+    return sorted(scores, key=scores.get, reverse=True)
+
+
+def hybrid_search(assistant_id: str, question: str) -> List[dict]:
+    queries = split_question(question)
+    vectors = [d.embedding for d in openai_client.embeddings.create(model=EMBED_MODEL, input=queries).data]
+    with ThreadPoolExecutor(max_workers=len(vectors)) as pool:
+        meaning_lists = list(pool.map(lambda v: meaning_search(assistant_id, v), vectors))
+
+    # One merged (meaning + keyword) list per query, then take turns between the
+    # queries, so each part of a multi-part question gets passages, not just the part
+    # whose words appear most often.
+    per_query = [fuse([meaning_lists[i], keyword_search(assistant_id, q)]) for i, q in enumerate(queries)]
+
+    # No more than MAX_PER_DOCUMENT from any one file, so one long document can't
+    # crowd out a short policy that answers part of the question.
+    best, chosen, per_doc = [], set(), defaultdict(int)
+    positions = [0] * len(per_query)
+    while len(best) < CONTEXT_PASSAGES and any(p < len(lst) for p, lst in zip(positions, per_query)):
+        for i, ranked in enumerate(per_query):
+            while positions[i] < len(ranked):
+                chunk_id = ranked[positions[i]]
+                positions[i] += 1
+                filename = chunk_lookup[chunk_id]["filename"]
+                if chunk_id not in chosen and per_doc[filename] < MAX_PER_DOCUMENT:
+                    best.append(chunk_lookup[chunk_id])
+                    chosen.add(chunk_id)
+                    per_doc[filename] += 1
+                    break
+            if len(best) == CONTEXT_PASSAGES:
+                break
+    return best
 
 
 # === Generation ===
@@ -130,8 +189,9 @@ def system_prompt(assistant_id: str) -> str:
     return f"""You are the internal knowledge assistant for {a['company']}, {a['description']}. You help {a['audience']}.
 
 Answer ONLY from the numbered sources provided with each question. Rules:
-- Put a citation like [2] right after every fact, using the source numbers given. Never cite a number that was not given.
-- If the sources do not answer the question, reply exactly: "{NOT_FOUND}." and then one short sentence on who or what to check. Never guess or use outside knowledge.
+- Every sentence that states a fact must end with a citation like [2], using the source numbers given. If you cannot cite it, do not say it. Never cite a number that was not given.
+- If the sources do not answer the question, start with exactly: "{NOT_FOUND}." Then, if the sources contain closely related facts, share them with citations (for example, who holds a related role). Otherwise add one short sentence on who or what to check. Never guess or use outside knowledge.
+- When a question involves a deadline or date, give the actual date from the sources, and mention any firm policy that changes when work is internally due.
 - Firm documents are {a['company']}'s own policies. Public documents are official government publications. If both apply, say which is firm policy and which is the official rule.
 - Be direct and specific: lead with the answer (numbers, dates, names), in 1-4 short sentences or a short bulleted list. No preamble."""
 
@@ -216,7 +276,7 @@ def query(q: Query, request: Request):
         print(f"Query failed: {e!r}")
         raise HTTPException(status_code=502, detail="The assistant is temporarily unavailable. Please try again.")
 
-    sources = [] if answer.startswith(NOT_FOUND) else cited_sources(answer, passages)
+    sources = cited_sources(answer, passages)
     result = {"answer": answer, "sources": sources}
     answer_cache[cache_key] = result
     if len(answer_cache) > 500:

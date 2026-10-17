@@ -1,187 +1,163 @@
 {
  "law-firm": [
   {
+   "title": "Marlowe Kessler LLP — Client & Matter Index (Excerpt)",
+   "location": "Overview to Closed Matters (last 3 years)",
+   "text": "Overview\nFictional sample document for demonstration purposes. Export from Clio of open and recently closed matters, with adverse parties, used for conflict checks. Run date: October 1, 2026.\n\nOpen Matters\n| Matter no. | Client | Adverse / other parties | Matter | Responsible attorney | Opened |\n|---|---|---|---|---|---|\n| 26-BUS-0031 | Henley Outdoor Supply LLC | Redstone Logistics, Inc. | Breach of warehousing and distribution agreement (federal court) | Thomas Marlowe | Jan 22, 2026 |\n| 26-BUS-0057 | Cedar & Pine Bakery Co. | Harlan Mills (seller) | Asset purchase of Harlan Mills Bakery | Andrea Kessler | Mar 9, 2026 |\n| 26-BUS-0088 | Quarry Creek Dental, PLLC | Dr. Owen Feld (departing member) | Member buyout and non-compete dispute | Mei Lin Chow | May 18, 2026 |\n| 26-FAM-0112 | Jessica Albright | Mark Albright | Dissolution of marriage, parenting plan | Gloria Reyes | Jun 2, 2026 |\n| 26-EST-0142 | Robert and Elaine Tsai | — | Joint revocable trust | Samuel Okafor | Jul 14, 2026 |\n| 26-BUS-0150 | Sunline Fitness Studios, LLC | Redwood Equipment Leasing | Equipment lease review | Andrea Kessler | Aug 3, 2026 |\n\nClosed Matters (last 3 years)\n| Matter no. | Client | Adverse / other parties | Matter | Closed |\n|---|---|---|---|---|\n| 23-BUS-0204 | Redstone Logistics, Inc. | — | Review of standard customer warehousing agreement template (Nathan Cole) | Nov 30, 2023 |\n| 24-BUS-0019 | Copper Kettle Catering | Lakeview Event Center | Collection of unpaid invoices | Jun 12, 2024 |\n| 24-FAM-0077 | Paul Herrera | Dana Herrera | Prenuptial agreement | Apr 2, 2024 |\n| 25-BUS-0133 | Henley Outdoor Supply LLC | — | Operating agreement amendment | Sep 15, 2025 |",
+   "id": "law-firm:Client_and_Matter_Index:0",
+   "filename": "Client_and_Matter_Index.md",
+   "public": false
+  },
+  {
+   "title": "Marlowe Kessler LLP — Client & Matter Index (Excerpt)",
+   "location": "Conflicts Note on Redstone Logistics",
+   "text": "Redstone Logistics, Inc. is a **former client** (matter 23-BUS-0204, closed November 2023), and the firm is now adverse to Redstone in Henley Outdoor Supply v. Redstone Logistics (26-BUS-0031). The Conflicts Partner, Andrea Kessler, reviewed this on January 20, 2026 and cleared it: the 2023 work was a general template review, not substantially related to the Henley dispute, and no confidential information from it is relevant to the claims. The 2023 matter was handled by former associate Nathan Cole, who left the firm in 2024, so no current attorney needs to be screened. Redstone was notified of the representation by letter on January 21, 2026. The clearance memo is saved in NetDocuments under 26-BUS-0031 / Conflicts.",
+   "id": "law-firm:Client_and_Matter_Index:1",
+   "filename": "Client_and_Matter_Index.md",
+   "public": false
+  },
+  {
    "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Revised March 1, 2026. Owner: Office Administrator (Dana Whitfield).",
+   "location": "Overview to 3. Conflict Check",
+   "text": "Overview\nFictional sample document for demonstration purposes. Revised March 1, 2026. Owner: Office Administrator (Dana Whitfield).\n\n1. Purpose\nEvery new matter at Marlowe Kessler LLP must clear intake and a conflict check before any attorney gives legal advice, reviews documents, or accepts a retainer. This applies to all three practice groups: Estate Planning, Business & Contracts, and Family Law.\n\n2. Initial Inquiry\n- Prospective clients may contact the firm by phone, the website form, or walk-in. The receptionist records the inquiry in Clio within 2 hours of first contact.\n- Required intake fields: full legal name of the prospective client, all adverse or opposing parties, any related businesses or family members involved, the practice area, and a one-paragraph summary of the issue.\n- Staff must not ask for or record details of the facts beyond the one-paragraph summary until the conflict check is cleared. This protects the firm if a conflict is later found.\n\n3. Conflict Check\n- The intake coordinator runs every name (client, adverse parties, related entities, spouses) through the Clio conflict search and the legacy matter spreadsheet for matters opened before 2019.\n- Results are sent to the responsible attorney within 1 business day of the inquiry.\n- A \"potential conflict\" hit must be reviewed by the Conflicts Partner, currently Andrea Kessler. Only the Conflicts Partner may clear a potential conflict or approve a written conflict waiver.\n- If a conflict cannot be cleared, the coordinator sends the standard non-engagement letter (template NE-2) within 2 business days and does not refer the prospect to a specific outside attorney; instead, they provide the state bar's lawyer referral service information.",
    "id": "law-firm:Client_Intake_and_Conflicts_Procedure:0",
    "filename": "Client_Intake_and_Conflicts_Procedure.md",
    "public": false
   },
   {
    "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "1. Purpose",
-   "text": "Every new matter at Marlowe Kessler LLP must clear intake and a conflict check before any attorney gives legal advice, reviews documents, or accepts a retainer. This applies to all three practice groups: Estate Planning, Business & Contracts, and Family Law.",
+   "location": "4. Free Consultations to 7. Declined Matters",
+   "text": "4. Free Consultations\n- Estate Planning and Business & Contracts offer a free 30-minute initial consultation.\n- Family Law consultations are $150 for 60 minutes. The $150 is credited toward the retainer if the client engages the firm within 14 days of the consultation.\n- Consultations are booked only after the conflict check is cleared.\n\n5. Engagement\n- No work begins until the client has signed the engagement letter AND the retainer (if any) has cleared the trust account.\n- Engagement letters must state: scope of representation, billing method (flat fee or hourly), the responsible attorney, and the client's right to terminate.\n- Matters are opened in Clio with a matter number in the format YY-PRACTICE-#### (for example, 26-EST-0142).\n\n6. Turnaround Targets\n| Step | Target |\n|---|---|\n| Log inquiry in Clio | within 2 hours |\n| Conflict results to attorney | 1 business day |\n| Consultation offered | within 5 business days of clearance |\n| Engagement letter sent after consult | within 1 business day |\n\n7. Declined Matters\nThe firm does not accept criminal defense, personal injury, or immigration matters. Prospects in these areas receive the state bar's lawyer referral information and a non-engagement letter.",
    "id": "law-firm:Client_Intake_and_Conflicts_Procedure:1",
    "filename": "Client_Intake_and_Conflicts_Procedure.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "2. Initial Inquiry",
-   "text": "- Prospective clients may contact the firm by phone, the website form, or walk-in. The receptionist records the inquiry in Clio within 2 hours of first contact.\n- Required intake fields: full legal name of the prospective client, all adverse or opposing parties, any related businesses or family members involved, the practice area, and a one-paragraph summary of the issue.\n- Staff must not ask for or record details of the facts beyond the one-paragraph summary until the conflict check is cleared. This protects the firm if a conflict is later found.",
-   "id": "law-firm:Client_Intake_and_Conflicts_Procedure:2",
-   "filename": "Client_Intake_and_Conflicts_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "3. Conflict Check",
-   "text": "- The intake coordinator runs every name (client, adverse parties, related entities, spouses) through the Clio conflict search and the legacy matter spreadsheet for matters opened before 2019.\n- Results are sent to the responsible attorney within 1 business day of the inquiry.\n- A \"potential conflict\" hit must be reviewed by the Conflicts Partner, currently Andrea Kessler. Only the Conflicts Partner may clear a potential conflict or approve a written conflict waiver.\n- If a conflict cannot be cleared, the coordinator sends the standard non-engagement letter (template NE-2) within 2 business days and does not refer the prospect to a specific outside attorney; instead, they provide the state bar's lawyer referral service information.",
-   "id": "law-firm:Client_Intake_and_Conflicts_Procedure:3",
-   "filename": "Client_Intake_and_Conflicts_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "4. Free Consultations",
-   "text": "- Estate Planning and Business & Contracts offer a free 30-minute initial consultation.\n- Family Law consultations are $150 for 60 minutes. The $150 is credited toward the retainer if the client engages the firm within 14 days of the consultation.\n- Consultations are booked only after the conflict check is cleared.",
-   "id": "law-firm:Client_Intake_and_Conflicts_Procedure:4",
-   "filename": "Client_Intake_and_Conflicts_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "5. Engagement",
-   "text": "- No work begins until the client has signed the engagement letter AND the retainer (if any) has cleared the trust account.\n- Engagement letters must state: scope of representation, billing method (flat fee or hourly), the responsible attorney, and the client's right to terminate.\n- Matters are opened in Clio with a matter number in the format YY-PRACTICE-#### (for example, 26-EST-0142).",
-   "id": "law-firm:Client_Intake_and_Conflicts_Procedure:5",
-   "filename": "Client_Intake_and_Conflicts_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "6. Turnaround Targets",
-   "text": "| Step | Target |\n|---|---|\n| Log inquiry in Clio | within 2 hours |\n| Conflict results to attorney | 1 business day |\n| Consultation offered | within 5 business days of clearance |\n| Engagement letter sent after consult | within 1 business day |",
-   "id": "law-firm:Client_Intake_and_Conflicts_Procedure:6",
-   "filename": "Client_Intake_and_Conflicts_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Client Intake & Conflict Check Procedure",
-   "location": "7. Declined Matters",
-   "text": "The firm does not accept criminal defense, personal injury, or immigration matters. Prospects in these areas receive the state bar's lawyer referral information and a non-engagement letter.",
-   "id": "law-firm:Client_Intake_and_Conflicts_Procedure:7",
-   "filename": "Client_Intake_and_Conflicts_Procedure.md",
-   "public": false
-  },
-  {
    "title": "Marlowe Kessler LLP — Fee Schedule & Billing Policy",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Effective January 1, 2026.",
+   "location": "Overview to 3. Retainers",
+   "text": "Overview\nFictional sample document for demonstration purposes. Effective January 1, 2026.\n\n1. Hourly Rates\n| Timekeeper | Hourly rate |\n|---|---|\n| Senior Partner | $425 |\n| Partner | $375 |\n| Associate (years 1–3) | $260 |\n| Associate (years 4+) | $310 |\n| Paralegal | $145 |\n| Legal assistant | $95 |\nTime is billed in 0.1-hour (6-minute) increments. Rates are reviewed every January; existing clients receive 30 days' written notice of any increase.\n\n2. Flat-Fee Packages (Estate Planning)\n| Package | Fee | Includes |\n|---|---|---|\n| Essential Will Package | $1,250 | Will, financial power of attorney, healthcare directive |\n| Revocable Living Trust — Individual | $2,950 | Trust, pour-over will, POAs, healthcare directive, deed transfer of one primary residence |\n| Revocable Living Trust — Married Couple | $3,750 | Joint trust plus all of the above for both spouses |\n| Trust Amendment | $650 | One amendment to a trust drafted by the firm |\nFlat fees are earned in two stages: 50% at signing of the engagement letter and 50% at the document signing meeting. Additional real-estate deed transfers beyond the first are $275 each.\n\n3. Retainers\n- Family Law matters require a $5,000 retainer, deposited into the IOLTA trust account.\n- Business litigation matters require a $7,500 retainer.\n- Business transactional work (contracts, entity formation) generally requires no retainer for matters under $3,000 of estimated fees.\n- When the trust balance falls below $1,500, the client is asked to replenish it back to the original retainer amount within 10 days. Work may pause if the replenishment is not received.",
    "id": "law-firm:Fee_Schedule_and_Billing_Policy:0",
    "filename": "Fee_Schedule_and_Billing_Policy.md",
    "public": false
   },
   {
    "title": "Marlowe Kessler LLP — Fee Schedule & Billing Policy",
-   "location": "1. Hourly Rates",
-   "text": "| Timekeeper | Hourly rate |\n|---|---|\n| Senior Partner | $425 |\n| Partner | $375 |\n| Associate (years 1–3) | $260 |\n| Associate (years 4+) | $310 |\n| Paralegal | $145 |\n| Legal assistant | $95 |\nTime is billed in 0.1-hour (6-minute) increments. Rates are reviewed every January; existing clients receive 30 days' written notice of any increase.",
+   "location": "4. Invoices and Payment to 6. Billing Disputes",
+   "text": "4. Invoices and Payment\n- Invoices are issued on the 1st business day of each month through Clio and are due within 15 days.\n- Accepted payment methods: ACH, credit card (3% card processing fee for amounts over $2,500), or check.\n- Balances unpaid after 45 days accrue interest at 1% per month, as stated in the engagement letter.\n- The firm does not bill for: the first 30-minute consultation (Estate Planning and Business only), internal conference time under 0.2 hours, or correcting the firm's own errors.\n\n5. Costs Passed Through\nCourt filing fees, recording fees, process server fees, and expert fees are billed at cost with no markup. Photocopying is $0.15 per page for jobs over 100 pages; smaller jobs are not billed.\n\n6. Billing Disputes\nClients who question an invoice should contact the Billing Manager, Luis Ortega, within 30 days. The responsible attorney reviews the dispute and responds in writing within 10 business days. Undisputed portions of the invoice remain due on the normal schedule.",
    "id": "law-firm:Fee_Schedule_and_Billing_Policy:1",
    "filename": "Fee_Schedule_and_Billing_Policy.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Fee Schedule & Billing Policy",
-   "location": "2. Flat-Fee Packages (Estate Planning)",
-   "text": "| Package | Fee | Includes |\n|---|---|---|\n| Essential Will Package | $1,250 | Will, financial power of attorney, healthcare directive |\n| Revocable Living Trust — Individual | $2,950 | Trust, pour-over will, POAs, healthcare directive, deed transfer of one primary residence |\n| Revocable Living Trust — Married Couple | $3,750 | Joint trust plus all of the above for both spouses |\n| Trust Amendment | $650 | One amendment to a trust drafted by the firm |\nFlat fees are earned in two stages: 50% at signing of the engagement letter and 50% at the document signing meeting. Additional real-estate deed transfers beyond the first are $275 each.",
-   "id": "law-firm:Fee_Schedule_and_Billing_Policy:2",
-   "filename": "Fee_Schedule_and_Billing_Policy.md",
+   "title": "Marlowe Kessler LLP — Firm Overview",
+   "location": "Overview to Office",
+   "text": "Overview\nFictional sample document for demonstration purposes. Internal onboarding overview, updated January 2026.\n\nHistory\nMarlowe Kessler LLP was founded in 2009 by Thomas Marlowe and Andrea Kessler, who left a regional firm to start a practice focused on owner-managed businesses and the families behind them. The firm began as a two-attorney business law practice, added Estate Planning in 2013, and added Family Law in 2018 when Senior Partner Gloria Reyes joined.\n\nPeople\n| Name | Role | Practice group |\n|---|---|---|\n| Thomas Marlowe | Founding Partner, Managing Partner | Business & Contracts (litigation) |\n| Andrea Kessler | Founding Partner, Conflicts Partner | Business & Contracts (transactional) |\n| Gloria Reyes | Senior Partner, Family Law group leader | Family Law |\n| Samuel Okafor | Partner, Estate Planning group leader | Estate Planning |\n| Mei Lin Chow | Associate (year 3) | Business & Contracts |\n| Daniel Brandt | Associate (year 5) | Family Law |\n| Priya Natarajan | Litigation Support Manager | All litigated matters |\n| Luis Ortega | Billing Manager | Firm-wide |\n| Dana Whitfield | Office Administrator | Firm-wide |\nThe firm has 6 attorneys, 4 paralegals, and 5 staff.\n\nPractice Groups\n- **Business & Contracts** — entity formation, commercial contracts, asset and stock purchases, and business litigation (breach of contract, partnership disputes). Group leader: Thomas Marlowe.\n- **Estate Planning** — wills, revocable trusts, powers of attorney, trust administration. Group leader: Samuel Okafor.\n- **Family Law** — divorce, custody, support, prenuptial agreements. Group leader: Gloria Reyes.\n\nOffice\nOne office, open 8:30 a.m. – 5:30 p.m. Monday through Friday. The main line is answered by the receptionist; after-hours calls go to voicemail and are returned the next business day. The firm closes on the holidays listed in the staff handbook.",
+   "id": "law-firm:Firm_Overview:0",
+   "filename": "Firm_Overview.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Fee Schedule & Billing Policy",
-   "location": "3. Retainers",
-   "text": "- Family Law matters require a $5,000 retainer, deposited into the IOLTA trust account.\n- Business litigation matters require a $7,500 retainer.\n- Business transactional work (contracts, entity formation) generally requires no retainer for matters under $3,000 of estimated fees.\n- When the trust balance falls below $1,500, the client is asked to replenish it back to the original retainer amount within 10 days. Work may pause if the replenishment is not received.",
-   "id": "law-firm:Fee_Schedule_and_Billing_Policy:3",
-   "filename": "Fee_Schedule_and_Billing_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Fee Schedule & Billing Policy",
-   "location": "4. Invoices and Payment",
-   "text": "- Invoices are issued on the 1st business day of each month through Clio and are due within 15 days.\n- Accepted payment methods: ACH, credit card (3% card processing fee for amounts over $2,500), or check.\n- Balances unpaid after 45 days accrue interest at 1% per month, as stated in the engagement letter.\n- The firm does not bill for: the first 30-minute consultation (Estate Planning and Business only), internal conference time under 0.2 hours, or correcting the firm's own errors.",
-   "id": "law-firm:Fee_Schedule_and_Billing_Policy:4",
-   "filename": "Fee_Schedule_and_Billing_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Fee Schedule & Billing Policy",
-   "location": "5. Costs Passed Through",
-   "text": "Court filing fees, recording fees, process server fees, and expert fees are billed at cost with no markup. Photocopying is $0.15 per page for jobs over 100 pages; smaller jobs are not billed.",
-   "id": "law-firm:Fee_Schedule_and_Billing_Policy:5",
-   "filename": "Fee_Schedule_and_Billing_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Fee Schedule & Billing Policy",
-   "location": "6. Billing Disputes",
-   "text": "Clients who question an invoice should contact the Billing Manager, Luis Ortega, within 30 days. The responsible attorney reviews the dispute and responds in writing within 10 business days. Undisputed portions of the invoice remain due on the normal schedule.",
-   "id": "law-firm:Fee_Schedule_and_Billing_Policy:6",
-   "filename": "Fee_Schedule_and_Billing_Policy.md",
+   "title": "Marlowe Kessler LLP — Firm Overview",
+   "location": "Systems",
+   "text": "| System | Used for |\n|---|---|\n| Clio | Matters, conflict checks, time entry, billing, calendar |\n| NetDocuments | Document management and secure client sharing |\n| LawPay | Card and ACH payments |\n| Firm-approved AI assistant | Searching firm policies and matter files (attorney review required) |",
+   "id": "law-firm:Firm_Overview:1",
+   "filename": "Firm_Overview.md",
    "public": false
   },
   {
    "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Applies to all litigated matters in the Business & Contracts and Family Law groups. Effective April 2026. Owner: Litigation Support Manager (Priya Natarajan).",
+   "location": "Overview to 2. Two-Person Calendaring",
+   "text": "Overview\nFictional sample document for demonstration purposes. Applies to all litigated matters in the Business & Contracts and Family Law groups. Effective April 2026. Owner: Litigation Support Manager (Priya Natarajan).\n\n1. Why This Policy Exists\nA missed deadline is the most common source of malpractice claims. Every deadline in a litigated matter must be calendared by two people and confirmed by the responsible attorney. No one may rely on memory, email flags, or personal calendars.\n\n2. Two-Person Calendaring\n- When any document that triggers a deadline arrives (a served complaint, a court order, a scheduling order, discovery requests), the receiving staff member forwards it to docketing@ within 1 hour.\n- The docketing clerk enters the deadline in the Clio firm calendar within 4 business hours. A second docketing clerk independently calculates the same deadline. If the two calculations differ, the responsible attorney decides and the reason is noted in the matter.\n- Every deadline gets automatic reminders at 14 days, 7 days, 3 days, and 1 day before it falls due, sent to the responsible attorney, the assigned paralegal, and the docketing inbox.",
    "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:0",
    "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
    "public": false
   },
   {
    "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "1. Why This Policy Exists",
-   "text": "A missed deadline is the most common source of malpractice claims. Every deadline in a litigated matter must be calendared by two people and confirmed by the responsible attorney. No one may rely on memory, email flags, or personal calendars.",
+   "location": "3. Common Federal Court Deadlines (reference: Federal Rules of Civil Procedure) to 5. Firm Internal Buffer",
+   "text": "3. Common Federal Court Deadlines (reference: Federal Rules of Civil Procedure)\nDocketing clerks must confirm every deadline against the current Federal Rules of Civil Procedure and the local rules and the judge's standing orders, which can shorten or extend these periods.\n| Event | Typical deadline | FRCP reference |\n|---|---|---|\n| Answer to a complaint after being served | 21 days after service | Rule 12(a)(1)(A)(i) |\n| Answer if the defendant waived service | 60 days after the waiver request was sent (90 days if sent outside the U.S.) | Rule 12(a)(1)(A)(ii) |\n| Responses to interrogatories, document requests, and requests for admission | 30 days after being served | Rules 33(b)(2), 34(b)(2)(A), 36(a)(3) |\n| Interrogatories per party | No more than 25, including discrete subparts, unless the court allows more | Rule 33(a)(1) |\n| Motion for summary judgment | Unless a local rule or order says otherwise, any time until 30 days after the close of all discovery | Rule 56(b) |\nUnanswered requests for admission are treated as admitted (Rule 36(a)(3)). These deadlines are flagged red in Clio.\n\n4. Counting Days\nClerks count time under FRCP Rule 6(a): exclude the day of the triggering event, count every day including weekends and legal holidays, and include the last day. If the last day falls on a Saturday, Sunday, or legal holiday, the period continues to the next day that is not one of those. When service is made by mail, 3 days are added under Rule 6(d).\n\n5. Firm Internal Buffer\nThe firm treats every court deadline as due 2 business days earlier than the actual date. Drafts of any filing must reach the responsible attorney 5 business days before the actual deadline.",
    "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:1",
    "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
    "public": false
   },
   {
    "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "2. Two-Person Calendaring",
-   "text": "- When any document that triggers a deadline arrives (a served complaint, a court order, a scheduling order, discovery requests), the receiving staff member forwards it to docketing@ within 1 hour.\n- The docketing clerk enters the deadline in the Clio firm calendar within 4 business hours. A second docketing clerk independently calculates the same deadline. If the two calculations differ, the responsible attorney decides and the reason is noted in the matter.\n- Every deadline gets automatic reminders at 14 days, 7 days, 3 days, and 1 day before it falls due, sent to the responsible attorney, the assigned paralegal, and the docketing inbox.",
+   "location": "6. Extensions to 7. When a Deadline Is At Risk",
+   "text": "6. Extensions\n- Extension requests to opposing counsel must be confirmed in writing (email is acceptable) and calendared the same day.\n- A stipulated extension of a court deadline is not effective until the court approves it if the rules or the judge's order require approval. Until approval, the original deadline stays on the calendar.\n\n7. When a Deadline Is At Risk\nIf a deadline may be missed, the responsible attorney must notify the Managing Partner, Thomas Marlowe, immediately. The firm's malpractice carrier must be notified of any missed deadline within 24 hours of discovery.",
    "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:2",
    "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "3. Common Federal Court Deadlines (reference: Federal Rules of Civil Procedure)",
-   "text": "Docketing clerks must confirm every deadline against the current Federal Rules of Civil Procedure and the local rules and the judge's standing orders, which can shorten or extend these periods.\n| Event | Typical deadline | FRCP reference |\n|---|---|---|\n| Answer to a complaint after being served | 21 days after service | Rule 12(a)(1)(A)(i) |\n| Answer if the defendant waived service | 60 days after the waiver request was sent (90 days if sent outside the U.S.) | Rule 12(a)(1)(A)(ii) |\n| Responses to interrogatories, document requests, and requests for admission | 30 days after being served | Rules 33(b)(2), 34(b)(2)(A), 36(a)(3) |\n| Interrogatories per party | No more than 25, including discrete subparts, unless the court allows more | Rule 33(a)(1) |\n| Motion for summary judgment | Unless a local rule or order says otherwise, any time until 30 days after the close of all discovery | Rule 56(b) |\nUnanswered requests for admission are treated as admitted (Rule 36(a)(3)). These deadlines are flagged red in Clio.",
-   "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:3",
-   "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
+   "title": "Asset Purchase Agreement (Excerpt) — Cedar & Pine Bakery Co. / Harlan Mills Bakery",
+   "location": "Overview to 8.3 Limitations",
+   "text": "Overview\nFictional sample document for demonstration purposes. Matter 26-BUS-0057. Firm draft v4 dated May 22, 2026, prepared by Andrea Kessler for the Buyer, Cedar & Pine Bakery Co. Seller: Harlan Mills, sole owner of Harlan Mills Bakery. Purchase price: $640,000. This excerpt reproduces Article 8 (Indemnification), which is the firm's standard buyer-side indemnification clause for small business acquisitions.\n\n8.1 Indemnification by Seller\nSeller shall indemnify, defend, and hold harmless Buyer and its officers, members, and employees from and against any and all losses, damages, liabilities, costs, and expenses, including reasonable attorneys' fees (\"Losses\"), arising out of or relating to: (a) any breach of Seller's representations and warranties in Article 4; (b) any breach of Seller's covenants in this Agreement; (c) any Excluded Liability, including all debts, taxes, and obligations of the business arising before the Closing Date; and (d) any claim by an employee of the business relating to the period before the Closing Date.\n\n8.2 Indemnification by Buyer\nBuyer shall indemnify Seller from and against any Losses arising out of (a) any breach of Buyer's representations, warranties, or covenants, and (b) the operation of the business after the Closing Date.\n\n8.3 Limitations\n- Basket: Seller is not liable under Section 8.1(a) until total Losses exceed $10,000 (1.5625% of the purchase price), after which Seller is liable for all Losses from the first dollar (a \"tipping\" basket).\n- Cap: Seller's total liability under Section 8.1(a) shall not exceed $160,000 (25% of the purchase price), except for fraud and breaches of the Fundamental Representations (organization, authority, title to assets, and taxes), which are capped at the full purchase price.\n- Survival: General representations and warranties survive for 18 months after Closing. Fundamental Representations survive until 60 days after the applicable statute of limitations expires.",
+   "id": "law-firm:Cedar_and_Pine_Asset_Purchase_Agreement_Excerpt:0",
+   "filename": "Cedar_and_Pine_Asset_Purchase_Agreement_Excerpt.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "4. Counting Days",
-   "text": "Clerks count time under FRCP Rule 6(a): exclude the day of the triggering event, count every day including weekends and legal holidays, and include the last day. If the last day falls on a Saturday, Sunday, or legal holiday, the period continues to the next day that is not one of those. When service is made by mail, 3 days are added under Rule 6(d).",
-   "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:4",
-   "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
+   "title": "Asset Purchase Agreement (Excerpt) — Cedar & Pine Bakery Co. / Harlan Mills Bakery",
+   "location": "8.4 Holdback to 8.6 Exclusive Remedy",
+   "text": "8.4 Holdback\nBuyer shall hold back $64,000 (10% of the purchase price) from the amount paid at Closing as security for Seller's indemnification obligations. Any portion of the holdback not subject to a pending claim shall be released to Seller 18 months after the Closing Date.\n\n8.5 Claims Procedure\nA party seeking indemnification must give written notice describing the claim in reasonable detail within 30 days after learning of it. For third-party claims, the indemnifying party may assume the defense with counsel reasonably acceptable to the indemnified party within 15 days after notice.\n\n8.6 Exclusive Remedy\nExcept for fraud and claims for injunctive relief, this Article 8 is the exclusive remedy of the parties for any breach of this Agreement after the Closing.",
+   "id": "law-firm:Cedar_and_Pine_Asset_Purchase_Agreement_Excerpt:1",
+   "filename": "Cedar_and_Pine_Asset_Purchase_Agreement_Excerpt.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "5. Firm Internal Buffer",
-   "text": "The firm treats every court deadline as due 2 business days earlier than the actual date. Drafts of any filing must reach the responsible attorney 5 business days before the actual deadline.",
-   "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:5",
-   "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
+   "title": "Henley Outdoor Supply LLC v. Redstone Logistics, Inc. — Case Summary Memo",
+   "location": "Overview to Claims and Damages",
+   "text": "Overview\nFictional sample document for demonstration purposes. Internal attorney work product. Matter 26-BUS-0031. Responsible attorney: Thomas Marlowe. Associate: Mei Lin Chow. Paralegal: Jordan Pike. Last updated September 30, 2026.\n\nCourt and Parties\n- Court: United States District Court for the Western District of Lakeland (fictional), Case No. 2:26-cv-00418, assigned to the Hon. Elena Alvarez.\n- Plaintiff (our client): Henley Outdoor Supply LLC, an online retailer of camping and outdoor gear. Client contact: Rachel Henley, CEO.\n- Defendant: Redstone Logistics, Inc., a third-party warehousing and order fulfillment company. Counsel: Brian Castellanos, Weller Grant LLP.\n\nThe Dispute in Brief\nHenley and Redstone signed a Warehousing and Fulfillment Services Agreement dated March 1, 2024 (the \"Agreement\"). Henley alleges Redstone breached the Agreement during the 2025 peak season by (1) missing the 48-hour shipping standard on more than 22% of orders between October and December 2025, and (2) failing to report inventory shrinkage of 1,940 units. Henley terminated the Agreement on January 9, 2026.\nThe complaint was filed February 10, 2026 and served on Redstone the same week. Redstone filed its answer and a counterclaim on March 5, 2026, claiming $186,400 in unpaid storage and early-termination fees.\n\nClaims and Damages\n| Item | Amount |\n|---|---|\n| Lost sales from late shipments (expert estimate, preliminary) | $412,000 |\n| Value of missing inventory (1,940 units at cost) | $97,350 |\n| Expedited replacement shipping paid by Henley | $38,900 |\n| Total claimed by Henley | $548,250 |\n| Redstone counterclaim (unpaid fees) | $186,400 |",
+   "id": "law-firm:Henley_v_Redstone_Case_Summary:0",
+   "filename": "Henley_v_Redstone_Case_Summary.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "6. Extensions",
-   "text": "- Extension requests to opposing counsel must be confirmed in writing (email is acceptable) and calendared the same day.\n- A stipulated extension of a court deadline is not effective until the court approves it if the rules or the judge's order require approval. Until approval, the original deadline stays on the calendar.",
-   "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:6",
-   "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
+   "title": "Henley Outdoor Supply LLC v. Redstone Logistics, Inc. — Case Summary Memo",
+   "location": "Key Facts to Strategy and Next Steps",
+   "text": "Key Facts\n- Section 4.2 of the Agreement requires Redstone to ship 98% of orders within 48 hours of receipt during \"Peak Season\" (October 1 – December 31).\n- Section 9.3 caps Redstone's liability at the fees paid in the prior 12 months unless the breach results from gross negligence or willful misconduct. Fees paid in the 12 months before termination were $264,000. Overcoming the cap is the central legal issue.\n- At a June 3, 2025 planning meeting, Redstone's operations manager, Karen Pruitt, was told Henley expected peak-season volume roughly double 2024 levels. Pruitt's deposition (taken September 17, 2026) is key to showing Redstone knew it was understaffed.\n\nStrategy and Next Steps\n1. Use the Pruitt testimony and Redstone's internal staffing emails to argue gross negligence to get around the liability cap.\n2. Retain a damages expert (shortlist: two candidates; decision by October 31, 2026).\n3. Court-ordered mediation must be completed by November 20, 2026. Client authority for settlement has not yet been given; Thomas Marlowe will discuss with Rachel Henley before mediation.\n4. Depose Redstone's CEO, Paul Danner, in November 2026.",
+   "id": "law-firm:Henley_v_Redstone_Case_Summary:1",
+   "filename": "Henley_v_Redstone_Case_Summary.md",
    "public": false
   },
   {
-   "title": "Marlowe Kessler LLP — Litigation Calendaring & Deadlines Policy",
-   "location": "7. When a Deadline Is At Risk",
-   "text": "If a deadline may be missed, the responsible attorney must notify the Managing Partner, Thomas Marlowe, immediately. The firm's malpractice carrier must be notified of any missed deadline within 24 hours of discovery.",
-   "id": "law-firm:Litigation_Calendaring_and_Deadlines_Policy:7",
-   "filename": "Litigation_Calendaring_and_Deadlines_Policy.md",
+   "title": "Deposition of Karen Pruitt (Excerpt) — Henley Outdoor Supply LLC v. Redstone Logistics, Inc.",
+   "location": "Overview to Pages 44–46: Staffing Decisions",
+   "text": "Overview\nFictional sample document for demonstration purposes. Case No. 2:26-cv-00418 (fictional). Deposition taken September 17, 2026. Witness: Karen Pruitt, Operations Manager, Redstone Logistics, Inc. Examining attorney: Thomas Marlowe for Plaintiff. Defending attorney: Brian Castellanos for Defendant. Excerpt from pages 41–47 of the transcript, prepared by Jordan Pike.\n\nPages 41–43: The June 3, 2025 Meeting\nQ. Ms. Pruitt, did you attend a meeting with Henley Outdoor Supply on June 3, 2025?\nA. Yes. It was a planning call for the holiday season.\nQ. Who else attended?\nA. From Henley, Rachel Henley and their logistics coordinator, I think his name was Tyler. From our side, me and our account manager, Sophie Lang.\nQ. What did Henley tell you about expected volume for the 2025 peak season?\nA. They said they expected about double the order volume from the year before. They had a big wholesale deal and some promotions planned.\nQ. Did you write that down?\nA. I took notes in my notebook, and I sent a summary email to Sophie and to Paul Danner afterward.\nQ. Paul Danner is Redstone's CEO?\nA. Yes.\nQ. What did your summary email say about staffing?\nA. I said that if the volume came in at double, we would need about 14 additional seasonal pickers starting in October.\n\nPages 44–46: Staffing Decisions\nQ. Did Redstone hire 14 additional seasonal pickers for the 2025 peak season?\nA. No.\nQ. How many did it hire?\nA. Six, I believe.\nQ. Who made that decision?\nA. Paul approved the seasonal budget. I asked for fourteen. The budget covered six.\nQ. Did you tell anyone at Henley that you would only have six additional pickers?\nMR. CASTELLANOS: Objection, form.\nA. Not directly. No.\nQ. Were you aware in November 2025 that orders were going out late?\nA. Yes. We were behind most of November and into December.",
+   "id": "law-firm:Henley_v_Redstone_Pruitt_Deposition_Excerpt:0",
+   "filename": "Henley_v_Redstone_Pruitt_Deposition_Excerpt.md",
+   "public": false
+  },
+  {
+   "title": "Deposition of Karen Pruitt (Excerpt) — Henley Outdoor Supply LLC v. Redstone Logistics, Inc.",
+   "location": "Page 47: Inventory Counts",
+   "text": "Q. Redstone's agreement required monthly cycle counts of Henley's inventory, correct?\nA. That's my understanding.\nQ. Were cycle counts done in October, November, and December 2025?\nA. October, yes. November and December, no. We didn't have the people.\nQ. So the shortage of about 1,940 units wasn't reported to Henley until January?\nA. That's correct. It came out in the January count.",
+   "id": "law-firm:Henley_v_Redstone_Pruitt_Deposition_Excerpt:1",
+   "filename": "Henley_v_Redstone_Pruitt_Deposition_Excerpt.md",
+   "public": false
+  },
+  {
+   "title": "Scheduling Order — Henley Outdoor Supply LLC v. Redstone Logistics, Inc.",
+   "location": "Overview to Mediation",
+   "text": "Overview\nFictional sample document for demonstration purposes. United States District Court for the Western District of Lakeland (fictional). Case No. 2:26-cv-00418. Entered April 6, 2026 by the Hon. Elena Alvarez, United States District Judge.\n\nOrder\nHaving reviewed the parties' Rule 26(f) report, the Court ORDERS that the following deadlines govern this case. These deadlines will not be extended except on a showing of good cause, and a request to extend must be filed before the deadline expires.\n\nDeadlines\n| Event | Deadline |\n|---|---|\n| Motions to amend pleadings or join parties | June 1, 2026 |\n| Completion of court-ordered mediation | November 20, 2026 |\n| Close of fact discovery | January 15, 2027 |\n| Plaintiff's expert disclosures | February 12, 2027 |\n| Defendant's expert disclosures | March 12, 2027 |\n| Close of expert discovery | April 16, 2027 |\n| Dispositive motions (including summary judgment) | May 14, 2027 |\n| Final pretrial conference | August 2, 2027 at 10:00 a.m. |\n| Jury trial (estimated 5 days) | August 23, 2027 at 9:00 a.m. |\n\nDiscovery Limits\n- Each side may take no more than 8 depositions without leave of Court. Each deposition is limited to one day of 7 hours.\n- Interrogatories are limited to 25 per party, including discrete subparts, as provided in Federal Rule of Civil Procedure 33.\n- All discovery requests must be served early enough that responses are due before the close of fact discovery.\n\nMediation\nThe parties shall complete mediation with a mutually agreed private mediator by November 20, 2026, and file a joint notice of the result within 7 days after the mediation. Party representatives with full settlement authority must attend in person.",
+   "id": "law-firm:Henley_v_Redstone_Scheduling_Order:0",
+   "filename": "Henley_v_Redstone_Scheduling_Order.md",
+   "public": false
+  },
+  {
+   "title": "Scheduling Order — Henley Outdoor Supply LLC v. Redstone Logistics, Inc.",
+   "location": "Discovery Disputes",
+   "text": "Before filing any discovery motion, counsel must meet and confer in person or by video and then request a telephone conference with the Court. Discovery motions filed without a conference with the Court will be denied without prejudice.",
+   "id": "law-firm:Henley_v_Redstone_Scheduling_Order:1",
+   "filename": "Henley_v_Redstone_Scheduling_Order.md",
+   "public": false
+  },
+  {
+   "title": "Standing Order for Civil Cases — Hon. Elena Alvarez",
+   "location": "Overview to Settlement",
+   "text": "Overview\nFictional sample document for demonstration purposes. United States District Court for the Western District of Lakeland (fictional). Applies to all civil cases assigned to Judge Alvarez. Revised January 2026.\n\nBriefs and Page Limits\n- Opening briefs on dispositive motions (including summary judgment): 25 pages.\n- Opposition briefs: 25 pages.\n- Reply briefs: 12 pages.\n- All other motions: 15 pages for opening and opposition briefs, 8 pages for replies.\n- Page limits exclude the caption, tables of contents and authorities, signature block, and exhibits.\n- Text must be at least 12-point font, double-spaced, with footnotes at least 11-point. Footnotes may not be used to evade page limits.\n\nSummary Judgment\n- Only one motion for summary judgment per side is allowed without leave of Court.\n- Any motion for summary judgment must include a separate Statement of Undisputed Material Facts in numbered paragraphs, each supported by a citation to the record. The statement may not exceed 15 pages.\n\nCourtesy Copies\nPaper courtesy copies are required for any filing (including exhibits) longer than 50 pages, delivered to chambers within 2 business days of electronic filing.\n\nHearings and Continuances\n- Motions are decided on the papers unless the Court sets a hearing.\n- Requests for continuance of any deadline must be filed at least 7 days before the deadline and state the number of prior continuances.\n\nSettlement\nThe parties must notify chambers by email within 24 hours if the case settles in whole or in part.",
+   "id": "law-firm:Judge_Alvarez_Standing_Order:0",
+   "filename": "Judge_Alvarez_Standing_Order.md",
    "public": false
   },
   {
@@ -2218,65 +2194,17 @@
   },
   {
    "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Approved by the Management Committee, February 2026.",
+   "location": "Overview to 4. Confidentiality Rules for Staff",
+   "text": "Overview\nFictional sample document for demonstration purposes. Approved by the Management Committee, February 2026.\n\n1. Retention Periods\n| Record type | Retention after matter closes |\n|---|---|\n| General client files (business, family law) | 7 years |\n| Estate planning files | Life of the client plus 7 years |\n| Trust account records (IOLTA ledgers, bank statements) | 7 years |\n| Files involving a minor | 7 years after the minor turns 18 |\n| Conflict check records | Permanent |\nOriginal wills and trusts are never destroyed by the firm. If the client cannot be located at the end of the retention period, originals are kept in the fire-rated vault.\n\n2. Closing a Matter\n- The responsible attorney sends a closing letter that states the matter is concluded and explains how long the file will be kept.\n- Client-provided original documents are returned with the closing letter, by certified mail or in-person pickup.\n- The file is marked closed in Clio within 5 business days of the closing letter.\n\n3. Destruction\nFiles past their retention date are reviewed each January by the Office Administrator. Paper files are shredded by the firm's bonded shredding vendor, which provides a certificate of destruction. Electronic files are deleted from Clio and NetDocuments and the deletion is logged.\n\n4. Confidentiality Rules for Staff\n- Client matters are never discussed in public places, on personal social media, or with family members.\n- Client documents may only be stored in NetDocuments or Clio. Personal Dropbox, Google Drive, or email accounts must never be used.\n- Email to clients containing sensitive documents must use the NetDocuments secure share link rather than an attachment.\n- Printing at home is not permitted.",
    "id": "law-firm:Records_Retention_and_Confidentiality_Policy:0",
    "filename": "Records_Retention_and_Confidentiality_Policy.md",
    "public": false
   },
   {
    "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "1. Retention Periods",
-   "text": "| Record type | Retention after matter closes |\n|---|---|\n| General client files (business, family law) | 7 years |\n| Estate planning files | Life of the client plus 7 years |\n| Trust account records (IOLTA ledgers, bank statements) | 7 years |\n| Files involving a minor | 7 years after the minor turns 18 |\n| Conflict check records | Permanent |\nOriginal wills and trusts are never destroyed by the firm. If the client cannot be located at the end of the retention period, originals are kept in the fire-rated vault.",
+   "location": "5. Remote Work to 7. Data Breach Response",
+   "text": "5. Remote Work\n- Attorneys and paralegals may work remotely up to 2 days per week with practice-group leader approval. Reception and the intake coordinator are in-office roles.\n- Remote work requires the firm-issued laptop, the firm VPN, and a private workspace where calls cannot be overheard.\n- Public Wi-Fi may only be used with the VPN connected.\n\n6. Use of AI Tools\n- Staff may use only firm-approved AI tools that keep client data private and do not train on it. The approved tool list is maintained by the Office Administrator.\n- No client names, facts, or documents may be pasted into public AI chatbots.\n- Any AI-assisted draft must be reviewed line by line by an attorney before it is sent to a client, court, or opposing counsel.\n\n7. Data Breach Response\nAny suspected loss of a device or unauthorized access must be reported to the Office Administrator and the Managing Partner, Thomas Marlowe, immediately and no later than 1 hour after discovery.",
    "id": "law-firm:Records_Retention_and_Confidentiality_Policy:1",
-   "filename": "Records_Retention_and_Confidentiality_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "2. Closing a Matter",
-   "text": "- The responsible attorney sends a closing letter that states the matter is concluded and explains how long the file will be kept.\n- Client-provided original documents are returned with the closing letter, by certified mail or in-person pickup.\n- The file is marked closed in Clio within 5 business days of the closing letter.",
-   "id": "law-firm:Records_Retention_and_Confidentiality_Policy:2",
-   "filename": "Records_Retention_and_Confidentiality_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "3. Destruction",
-   "text": "Files past their retention date are reviewed each January by the Office Administrator. Paper files are shredded by the firm's bonded shredding vendor, which provides a certificate of destruction. Electronic files are deleted from Clio and NetDocuments and the deletion is logged.",
-   "id": "law-firm:Records_Retention_and_Confidentiality_Policy:3",
-   "filename": "Records_Retention_and_Confidentiality_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "4. Confidentiality Rules for Staff",
-   "text": "- Client matters are never discussed in public places, on personal social media, or with family members.\n- Client documents may only be stored in NetDocuments or Clio. Personal Dropbox, Google Drive, or email accounts must never be used.\n- Email to clients containing sensitive documents must use the NetDocuments secure share link rather than an attachment.\n- Printing at home is not permitted.",
-   "id": "law-firm:Records_Retention_and_Confidentiality_Policy:4",
-   "filename": "Records_Retention_and_Confidentiality_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "5. Remote Work",
-   "text": "- Attorneys and paralegals may work remotely up to 2 days per week with practice-group leader approval. Reception and the intake coordinator are in-office roles.\n- Remote work requires the firm-issued laptop, the firm VPN, and a private workspace where calls cannot be overheard.\n- Public Wi-Fi may only be used with the VPN connected.",
-   "id": "law-firm:Records_Retention_and_Confidentiality_Policy:5",
-   "filename": "Records_Retention_and_Confidentiality_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "6. Use of AI Tools",
-   "text": "- Staff may use only firm-approved AI tools that keep client data private and do not train on it. The approved tool list is maintained by the Office Administrator.\n- No client names, facts, or documents may be pasted into public AI chatbots.\n- Any AI-assisted draft must be reviewed line by line by an attorney before it is sent to a client, court, or opposing counsel.",
-   "id": "law-firm:Records_Retention_and_Confidentiality_Policy:6",
-   "filename": "Records_Retention_and_Confidentiality_Policy.md",
-   "public": false
-  },
-  {
-   "title": "Marlowe Kessler LLP — Records Retention & Confidentiality Policy",
-   "location": "7. Data Breach Response",
-   "text": "Any suspected loss of a device or unauthorized access must be reported to the Office Administrator and the Managing Partner, Thomas Marlowe, immediately and no later than 1 hour after discovery.",
-   "id": "law-firm:Records_Retention_and_Confidentiality_Policy:7",
    "filename": "Records_Retention_and_Confidentiality_Policy.md",
    "public": false
   }
@@ -2284,153 +2212,49 @@
  "property-management": [
   {
    "title": "Larkspur Property Management — Maintenance Response & Vendor Standards",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Internal operations standard for the maintenance team. Revised January 2026.",
+   "location": "Overview to 3. Vendor Requirements",
+   "text": "Overview\nFictional sample document for demonstration purposes. Internal operations standard for the maintenance team. Revised January 2026.\n\n1. Priority Levels and Response Times\n| Priority | Examples | First response | Resolution target |\n|---|---|---|---|\n| P1 Emergency | Active leak, no A/C above 90°F, sewage backup, no power, unsecured door | Technician on site within 4 hours | Make safe the same day |\n| P2 Urgent | Refrigerator not cooling, only toilet not working, water heater out | Contact within 4 business hours | 2 business days |\n| P3 Routine | Dripping faucet, cabinet hinge, ceiling fan, garbage disposal | Contact within 1 business day | 5 business days |\n| P4 Cosmetic | Paint touch-up, blinds, minor drywall | Contact within 2 business days | 10 business days or at turnover |\nIf a P1 A/C repair cannot be completed the same day, the resident is provided portable cooling units within 6 hours. If the home is still without A/C after 24 hours, Larkspur offers a hotel stipend of up to $150 per night.\n\n2. Summer Readiness\nEvery property receives an A/C service (coil cleaning, refrigerant check, filter change) each April. Residents receive 48 hours' notice. HVAC filters are replaced every 90 days by the resident; Larkspur ships filters to residents quarterly at no charge.\n\n3. Vendor Requirements\nAll vendors must have, before receiving any work order:\n- An active contractor license where the trade requires one (for example, state contractor licenses for plumbing, electrical, HVAC, and roofing).\n- General liability insurance of at least $1,000,000 per occurrence, naming Larkspur Property Management as additional insured.\n- Workers' compensation coverage, or a signed sole-proprietor exemption.\n- A signed W-9 and vendor agreement.\nCertificates of insurance are tracked in AppFolio and vendors are suspended automatically when a certificate expires.",
    "id": "property-management:Maintenance_and_Vendor_Standards:0",
    "filename": "Maintenance_and_Vendor_Standards.md",
    "public": false
   },
   {
    "title": "Larkspur Property Management — Maintenance Response & Vendor Standards",
-   "location": "1. Priority Levels and Response Times",
-   "text": "| Priority | Examples | First response | Resolution target |\n|---|---|---|---|\n| P1 Emergency | Active leak, no A/C above 90°F, sewage backup, no power, unsecured door | Technician on site within 4 hours | Make safe the same day |\n| P2 Urgent | Refrigerator not cooling, only toilet not working, water heater out | Contact within 4 business hours | 2 business days |\n| P3 Routine | Dripping faucet, cabinet hinge, ceiling fan, garbage disposal | Contact within 1 business day | 5 business days |\n| P4 Cosmetic | Paint touch-up, blinds, minor drywall | Contact within 2 business days | 10 business days or at turnover |\nIf a P1 A/C repair cannot be completed the same day, the resident is provided portable cooling units within 6 hours. If the home is still without A/C after 24 hours, Larkspur offers a hotel stipend of up to $150 per night.",
+   "location": "4. Pricing and Markups to 6. Quality Checks",
+   "text": "4. Pricing and Markups\n- Vendor invoices are passed to owners at cost. Larkspur does not add markups to vendor invoices.\n- In-house maintenance technician labor is billed at $65 per hour with a 1-hour minimum, and $95 per hour after hours or on weekends.\n- Trip charges for no-access (resident not home despite notice) are $45 and are charged to the resident.\n\n5. Make-Ready (Turnover) Standard\nVacant homes must be rent-ready within 7 calendar days of move-out. The checklist includes: professional cleaning, rekeying all exterior locks, replacing HVAC filter and smoke detector batteries, testing all appliances, and a photo walkthrough of every room uploaded to AppFolio.\n\n6. Quality Checks\nThe maintenance coordinator calls 1 in 5 residents after a completed work order to confirm the issue is resolved. Any vendor with three callbacks for the same issue in 90 days is placed on review.",
    "id": "property-management:Maintenance_and_Vendor_Standards:1",
    "filename": "Maintenance_and_Vendor_Standards.md",
    "public": false
   },
   {
-   "title": "Larkspur Property Management — Maintenance Response & Vendor Standards",
-   "location": "2. Summer Readiness",
-   "text": "Every property receives an A/C service (coil cleaning, refrigerant check, filter change) each April. Residents receive 48 hours' notice. HVAC filters are replaced every 90 days by the resident; Larkspur ships filters to residents quarterly at no charge.",
-   "id": "property-management:Maintenance_and_Vendor_Standards:2",
-   "filename": "Maintenance_and_Vendor_Standards.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Maintenance Response & Vendor Standards",
-   "location": "3. Vendor Requirements",
-   "text": "All vendors must have, before receiving any work order:\n- An active contractor license where the trade requires one (for example, state contractor licenses for plumbing, electrical, HVAC, and roofing).\n- General liability insurance of at least $1,000,000 per occurrence, naming Larkspur Property Management as additional insured.\n- Workers' compensation coverage, or a signed sole-proprietor exemption.\n- A signed W-9 and vendor agreement.\nCertificates of insurance are tracked in AppFolio and vendors are suspended automatically when a certificate expires.",
-   "id": "property-management:Maintenance_and_Vendor_Standards:3",
-   "filename": "Maintenance_and_Vendor_Standards.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Maintenance Response & Vendor Standards",
-   "location": "4. Pricing and Markups",
-   "text": "- Vendor invoices are passed to owners at cost. Larkspur does not add markups to vendor invoices.\n- In-house maintenance technician labor is billed at $65 per hour with a 1-hour minimum, and $95 per hour after hours or on weekends.\n- Trip charges for no-access (resident not home despite notice) are $45 and are charged to the resident.",
-   "id": "property-management:Maintenance_and_Vendor_Standards:4",
-   "filename": "Maintenance_and_Vendor_Standards.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Maintenance Response & Vendor Standards",
-   "location": "5. Make-Ready (Turnover) Standard",
-   "text": "Vacant homes must be rent-ready within 7 calendar days of move-out. The checklist includes: professional cleaning, rekeying all exterior locks, replacing HVAC filter and smoke detector batteries, testing all appliances, and a photo walkthrough of every room uploaded to AppFolio.",
-   "id": "property-management:Maintenance_and_Vendor_Standards:5",
-   "filename": "Maintenance_and_Vendor_Standards.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Maintenance Response & Vendor Standards",
-   "location": "6. Quality Checks",
-   "text": "The maintenance coordinator calls 1 in 5 residents after a completed work order to confirm the issue is resolved. Any vendor with three callbacks for the same issue in 90 days is placed on review.",
-   "id": "property-management:Maintenance_and_Vendor_Standards:6",
-   "filename": "Maintenance_and_Vendor_Standards.md",
-   "public": false
-  },
-  {
    "title": "Larkspur Property Management — Owner Management Agreement Summary",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Plain-language summary of the standard Owner Management Agreement, 2026 edition. The signed agreement controls if anything here differs.",
+   "location": "Overview to 3. Repair Approval Limits",
+   "text": "Overview\nFictional sample document for demonstration purposes. Plain-language summary of the standard Owner Management Agreement, 2026 edition. The signed agreement controls if anything here differs.\n\n1. Management Fees\n| Service | Fee |\n|---|---|\n| Monthly management fee (single-family and condos) | 8% of rent collected |\n| Monthly management fee (portfolios of 5+ doors) | 7% of rent collected |\n| Leasing fee (new resident placement) | 50% of one month's rent |\n| Lease renewal fee | $250 |\n| Setup fee (new property onboarding) | $199, one time |\n| Eviction coordination | $300 plus attorney and court costs |\nNo management fee is charged on months when the property is vacant.\n\n2. Owner Statements and Payouts\n- Owner statements are published in the Owner Portal on the 10th of each month.\n- Owner distributions are sent by ACH on the 12th of each month (or the next business day).\n- Larkspur holds an operating reserve of $300 per property in the trust account to cover routine repairs.\n\n3. Repair Approval Limits\n- Larkspur may approve any single repair up to $500 without contacting the owner.\n- Repairs between $500 and $2,500 require owner approval by email or Owner Portal. If the owner does not respond within 48 hours, Larkspur will call the owner once more before proceeding only if the repair affects habitability.\n- Repairs over $2,500 require two written bids and owner approval, except emergencies.\n- Emergencies that threaten health, safety, or the property (for example, a burst pipe or an A/C failure during summer) may be handled immediately regardless of cost, with the owner notified within 24 hours.",
    "id": "property-management:Owner_Management_Agreement_Summary:0",
    "filename": "Owner_Management_Agreement_Summary.md",
    "public": false
   },
   {
    "title": "Larkspur Property Management — Owner Management Agreement Summary",
-   "location": "1. Management Fees",
-   "text": "| Service | Fee |\n|---|---|\n| Monthly management fee (single-family and condos) | 8% of rent collected |\n| Monthly management fee (portfolios of 5+ doors) | 7% of rent collected |\n| Leasing fee (new resident placement) | 50% of one month's rent |\n| Lease renewal fee | $250 |\n| Setup fee (new property onboarding) | $199, one time |\n| Eviction coordination | $300 plus attorney and court costs |\nNo management fee is charged on months when the property is vacant.",
+   "location": "4. Resident Screening Standards to 6. Ending the Agreement",
+   "text": "4. Resident Screening Standards\n- Minimum gross household income of 3 times the monthly rent.\n- No evictions in the past 5 years and no unpaid balances owed to a prior landlord.\n- Credit is reviewed but there is no single minimum score; applicants under 600 may qualify with an additional deposit of half a month's rent.\n- All adult occupants (18+) must apply. Screening criteria are applied identically to every applicant in compliance with fair housing laws.\n- Larkspur does not use blanket criminal-history bans. A conviction is reviewed individually by the Leasing Manager, considering the nature of the offense and how long ago it occurred.\n- Whenever information in a screening report contributes to a denial, a co-signer requirement, or an additional deposit, Larkspur sends the applicant an adverse action notice (template AA-1) by email within 3 business days. The notice names the screening company that supplied the report.\n- The application fee is $55 per adult and is non-refundable once screening has been run.\n\n5. Leasing Guarantee\nIf a resident placed by Larkspur is evicted for non-payment within the first 6 months of the lease, the next resident is placed with no leasing fee.\n\n6. Ending the Agreement\nEither party may terminate with 30 days' written notice after the initial 12-month term. If the owner terminates during the initial term, a cancellation fee of $500 applies. Larkspur transfers all leases, deposits, and records to the owner or new manager within 10 business days of termination.",
    "id": "property-management:Owner_Management_Agreement_Summary:1",
    "filename": "Owner_Management_Agreement_Summary.md",
    "public": false
   },
   {
-   "title": "Larkspur Property Management — Owner Management Agreement Summary",
-   "location": "2. Owner Statements and Payouts",
-   "text": "- Owner statements are published in the Owner Portal on the 10th of each month.\n- Owner distributions are sent by ACH on the 12th of each month (or the next business day).\n- Larkspur holds an operating reserve of $300 per property in the trust account to cover routine repairs.",
-   "id": "property-management:Owner_Management_Agreement_Summary:2",
-   "filename": "Owner_Management_Agreement_Summary.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Owner Management Agreement Summary",
-   "location": "3. Repair Approval Limits",
-   "text": "- Larkspur may approve any single repair up to $500 without contacting the owner.\n- Repairs between $500 and $2,500 require owner approval by email or Owner Portal. If the owner does not respond within 48 hours, Larkspur will call the owner once more before proceeding only if the repair affects habitability.\n- Repairs over $2,500 require two written bids and owner approval, except emergencies.\n- Emergencies that threaten health, safety, or the property (for example, a burst pipe or an A/C failure during summer) may be handled immediately regardless of cost, with the owner notified within 24 hours.",
-   "id": "property-management:Owner_Management_Agreement_Summary:3",
-   "filename": "Owner_Management_Agreement_Summary.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Owner Management Agreement Summary",
-   "location": "4. Resident Screening Standards",
-   "text": "- Minimum gross household income of 3 times the monthly rent.\n- No evictions in the past 5 years and no unpaid balances owed to a prior landlord.\n- Credit is reviewed but there is no single minimum score; applicants under 600 may qualify with an additional deposit of half a month's rent.\n- All adult occupants (18+) must apply. Screening criteria are applied identically to every applicant in compliance with fair housing laws.\n- Larkspur does not use blanket criminal-history bans. A conviction is reviewed individually by the Leasing Manager, considering the nature of the offense and how long ago it occurred.\n- Whenever information in a screening report contributes to a denial, a co-signer requirement, or an additional deposit, Larkspur sends the applicant an adverse action notice (template AA-1) by email within 3 business days. The notice names the screening company that supplied the report.\n- The application fee is $55 per adult and is non-refundable once screening has been run.",
-   "id": "property-management:Owner_Management_Agreement_Summary:4",
-   "filename": "Owner_Management_Agreement_Summary.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Owner Management Agreement Summary",
-   "location": "5. Leasing Guarantee",
-   "text": "If a resident placed by Larkspur is evicted for non-payment within the first 6 months of the lease, the next resident is placed with no leasing fee.",
-   "id": "property-management:Owner_Management_Agreement_Summary:5",
-   "filename": "Owner_Management_Agreement_Summary.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Owner Management Agreement Summary",
-   "location": "6. Ending the Agreement",
-   "text": "Either party may terminate with 30 days' written notice after the initial 12-month term. If the owner terminates during the initial term, a cancellation fee of $500 applies. Larkspur transfers all leases, deposits, and records to the owner or new manager within 10 business days of termination.",
-   "id": "property-management:Owner_Management_Agreement_Summary:6",
-   "filename": "Owner_Management_Agreement_Summary.md",
-   "public": false
-  },
-  {
    "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "Overview",
-   "text": "Source: https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-landlords-need-know (U.S. government work, public domain).\nAs a landlord – or property manager or other housing provider – you evaluate housing applications or decide whether to renew a current tenant's lease. You might decide to run a tenant background check using a company that compiles background information. These tenant background checks can include a variety of information, such as rental and eviction history, credit history, or criminal records.\nTenant background check reports are consumer reports. When you use consumer reports to make tenant decisions, you must comply with the Fair Credit Reporting Act (FCRA). The Federal Trade Commission (FTC) enforces the FCRA.",
+   "location": "Overview to What is a Consumer Report?",
+   "text": "Overview\nSource: https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-landlords-need-know (U.S. government work, public domain).\nAs a landlord – or property manager or other housing provider – you evaluate housing applications or decide whether to renew a current tenant's lease. You might decide to run a tenant background check using a company that compiles background information. These tenant background checks can include a variety of information, such as rental and eviction history, credit history, or criminal records.\nTenant background check reports are consumer reports. When you use consumer reports to make tenant decisions, you must comply with the Fair Credit Reporting Act (FCRA). The Federal Trade Commission (FTC) enforces the FCRA.\n\nFCRA Basics\nYou must take certain steps before you can get a consumer report and after you take an adverse action based on that report.\n\nWhat is a Consumer Report?\nConsumer reporting agencies (CRAs) prepare consumer reports for other businesses, including landlords. A consumer report may contain information such as a person's credit characteristics, rental history, or criminal history. These reports are covered by the FCRA. Examples of these reports include:\n- A credit report from a credit bureau, such as Trans Union, Experian, and Equifax or an affiliated company;\n- A report from a tenant screening company that describes the applicant's rental history based on reports from previous landlords or housing court records;\n- A report from a background check company that describes the applicant's criminal history;\n- A report from a tenant screening company that describes the applicant's rental history and criminal history, and also includes a credit report;\n- A risk score or recommendation from a tenant screening company about the applicant based on criteria you've selected; and\n- A report from a reference checking service that contacts previous landlords, employers, or other parties listed on the rental application on behalf of the rental property owner.",
    "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:0",
    "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
    "public": true
   },
   {
    "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "FCRA Basics",
-   "text": "You must take certain steps before you can get a consumer report and after you take an adverse action based on that report.",
+   "location": "What is an Adverse Action? to Complying with the FCRA: Before You Get a Consumer Report",
+   "text": "What is an Adverse Action?\nAn adverse action is any action by a landlord that is unfavorable to the interests of a rental applicant or tenant. Examples of common adverse actions by landlords include:\n- Denying the application;\n- Requiring a co-signer on the lease;\n- Requiring a deposit that would not be required for another applicant;\n- Requiring a larger deposit than might be required for another applicant; and\n- Charging a higher amount for rent than for another applicant.\n\nComplying with the FCRA: Before You Get a Consumer Report\nYou can only get a consumer report if you have a permissible purpose. Landlords may get consumer reports on applicants and tenants who apply to rent housing or renew a lease. You may also get written permission from applicants or tenants to show that you have a permissible purpose.\nYou must certify to the company from which you are getting the consumer report that you will use the report only for housing purposes. You may not use the consumer report for another purpose.\nIt's also a good idea to review other applicable federal and state laws related to screening tenants. For example, a blanket policy of refusing to rent to anyone with a criminal record may violate the Fair Housing Act.",
    "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:1",
-   "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
-   "public": true
-  },
-  {
-   "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "What is a Consumer Report?",
-   "text": "Consumer reporting agencies (CRAs) prepare consumer reports for other businesses, including landlords. A consumer report may contain information such as a person's credit characteristics, rental history, or criminal history. These reports are covered by the FCRA. Examples of these reports include:\n- A credit report from a credit bureau, such as Trans Union, Experian, and Equifax or an affiliated company;\n- A report from a tenant screening company that describes the applicant's rental history based on reports from previous landlords or housing court records;\n- A report from a background check company that describes the applicant's criminal history;\n- A report from a tenant screening company that describes the applicant's rental history and criminal history, and also includes a credit report;\n- A risk score or recommendation from a tenant screening company about the applicant based on criteria you've selected; and\n- A report from a reference checking service that contacts previous landlords, employers, or other parties listed on the rental application on behalf of the rental property owner.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:2",
-   "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
-   "public": true
-  },
-  {
-   "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "What is an Adverse Action?",
-   "text": "An adverse action is any action by a landlord that is unfavorable to the interests of a rental applicant or tenant. Examples of common adverse actions by landlords include:\n- Denying the application;\n- Requiring a co-signer on the lease;\n- Requiring a deposit that would not be required for another applicant;\n- Requiring a larger deposit than might be required for another applicant; and\n- Charging a higher amount for rent than for another applicant.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:3",
-   "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
-   "public": true
-  },
-  {
-   "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "Complying with the FCRA: Before You Get a Consumer Report",
-   "text": "You can only get a consumer report if you have a permissible purpose. Landlords may get consumer reports on applicants and tenants who apply to rent housing or renew a lease. You may also get written permission from applicants or tenants to show that you have a permissible purpose.\nYou must certify to the company from which you are getting the consumer report that you will use the report only for housing purposes. You may not use the consumer report for another purpose.\nIt's also a good idea to review other applicable federal and state laws related to screening tenants. For example, a blanket policy of refusing to rent to anyone with a criminal record may violate the Fair Housing Act.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:4",
    "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
    "public": true
   },
@@ -2438,7 +2262,7 @@
    "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
    "location": "Complying with the FCRA: After You Take an Adverse Action",
    "text": "If you reject an applicant, increase the rent or deposit, require a co-signer, or take any other adverse action based partly or completely on information in a consumer report, you must give the applicant or tenant a notice of that fact in writing, electronically, or orally.\nAn adverse action notice tells people about their rights to see information being reported about them and to dispute inaccurate information. The notice must include:\n- the name, address, and phone number of the CRA that supplied the report;\n- a statement that the CRA that supplied the report did not make the decision to take the unfavorable action and can't give specific reasons for it; and\n- a notice of the person's right to dispute the accuracy or completeness of any information the CRA furnished, and to get a free report from the CRA if the person asks for it within 60 days.\nThe adverse action notice is required even if information in the consumer report wasn't the primary reason for the decision. Even if the information in the report played only a small part in the overall decision, you must notify the applicant or tenant.\nWhile oral adverse action notices are allowed under the FCRA, written notices are the best practice and benefit both you and the applicant or tenant. Written notices allow you to provide proof of FCRA compliance. Written notices also better enable applicants and tenants to assert their rights to request a copy of the report from the CRA and to dispute any errors in the report.\nIf you use a credit score in deciding to take an adverse action against an applicant or tenant, you have additional obligations. You must give the applicant or tenant written or electronic notice that includes",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:5",
+   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:2",
    "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
    "public": true
   },
@@ -2446,7 +2270,7 @@
    "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
    "location": "Complying with the FCRA: After You Take an Adverse Action",
    "text": "of the report from the CRA and to dispute any errors in the report.\nIf you use a credit score in deciding to take an adverse action against an applicant or tenant, you have additional obligations. You must give the applicant or tenant written or electronic notice that includes the credit score, a description of the score (its source, the date it was created, and the range of scores under that credit model), and the key factors that adversely affected the credit score, listed in the order of their importance based on their effect on the credit score.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:6",
+   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:3",
    "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
    "public": true
   },
@@ -2454,7 +2278,7 @@
    "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
    "location": "Take the Case Of (Examples)",
    "text": "- You order a consumer report from a CRA. Information in the report leads to further investigation of the applicant. You deny the rental application because of that investigation. You must give the applicant an adverse action notice because the information in the report prompted the adverse action in this case.\n- A person with a bankruptcy on their credit report applies for an apartment. Rather than deny the application, you offer to rent the apartment but require a security deposit that is double the normal amount. You must give the applicant an adverse action notice because the credit report influenced your decision to require a higher security deposit from the applicant.\n- You hire a reference checking service to verify information included on a rental application. Because the service reports that the applicant does not work for the employer listed on the application, you deny the rental application. You must give the applicant an adverse action notice. The report is a consumer report from a CRA (the agency checking the references provided by the consumer on the application), and its report influenced your decision to deny the application.\n- You make it a practice to approve an application if the applicant shows an adequate income or has a favorable credit report. Because an applicant has an inadequate income and a bad credit report, you deny their application. You must give the applicant an adverse action notice because the credit report influenced the denial, even though income was another factor.\n- You order an applicant's criminal history report from a CRA. Because the report shows that the applicant has a felony conviction, you deny the rental application. You must give the applicant an adverse action notice because the report is a consumer report and it influenced",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:7",
+   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:4",
    "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
    "public": true
   },
@@ -2462,95 +2286,31 @@
    "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
    "location": "Take the Case Of (Examples)",
    "text": "was another factor.\n- You order an applicant's criminal history report from a CRA. Because the report shows that the applicant has a felony conviction, you deny the rental application. You must give the applicant an adverse action notice because the report is a consumer report and it influenced your decision to deny the application.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:8",
+   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:5",
    "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
    "public": true
   },
   {
    "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "Additional Requirements for Investigative Reports",
-   "text": "Landlords who use \"investigative reports\" – reports based on personal interviews concerning a person's character, general reputation, personal characteristics, and lifestyle – have additional obligations under the FCRA. These obligations include giving written notice that you may request or have requested an investigative consumer report and giving a statement that the person has a right to request additional disclosures and a summary of the scope and substance of the report. (See 15 U.S.C. section 1681d(a), (b)).",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:9",
-   "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
-   "public": true
-  },
-  {
-   "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "Disposing of Consumer Reports",
-   "text": "When you're done using a consumer report, you must securely dispose of the report and any information you gathered from it. That can include burning, pulverizing, or shredding paper documents and disposing of electronic information so that it can't be read or reconstructed.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:10",
-   "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
-   "public": true
-  },
-  {
-   "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "If You Report Information to a Consumer Reporting Agency",
-   "text": "If you report information, like late rent payments or evictions, to a CRA, you have legal obligations under the FCRA and the FCRA's Furnisher Rule.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:11",
-   "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
-   "public": true
-  },
-  {
-   "title": "Using Consumer Reports: What Landlords Need to Know (Federal Trade Commission, July 2023)",
-   "location": "For More Information",
-   "text": "- Getting consumer reports: Section 604(a)(3)(F), 15 U.S.C. § 1681b(a)(3)(F), and Section 604(f), 15 U.S.C. § 1681b(f).\n- Taking an adverse action: Section 615(a), 15 U.S.C. § 1681m(a).\n- Using investigative consumer reports: Section 606, 15 U.S.C. § 1681d.",
-   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:12",
+   "location": "Additional Requirements for Investigative Reports to For More Information",
+   "text": "Additional Requirements for Investigative Reports\nLandlords who use \"investigative reports\" – reports based on personal interviews concerning a person's character, general reputation, personal characteristics, and lifestyle – have additional obligations under the FCRA. These obligations include giving written notice that you may request or have requested an investigative consumer report and giving a statement that the person has a right to request additional disclosures and a summary of the scope and substance of the report. (See 15 U.S.C. section 1681d(a), (b)).\n\nDisposing of Consumer Reports\nWhen you're done using a consumer report, you must securely dispose of the report and any information you gathered from it. That can include burning, pulverizing, or shredding paper documents and disposing of electronic information so that it can't be read or reconstructed.\n\nIf You Report Information to a Consumer Reporting Agency\nIf you report information, like late rent payments or evictions, to a CRA, you have legal obligations under the FCRA and the FCRA's Furnisher Rule.\n\nFor More Information\n- Getting consumer reports: Section 604(a)(3)(F), 15 U.S.C. § 1681b(a)(3)(F), and Section 604(f), 15 U.S.C. § 1681b(f).\n- Taking an adverse action: Section 615(a), 15 U.S.C. § 1681m(a).\n- Using investigative consumer reports: Section 606, 15 U.S.C. § 1681d.",
+   "id": "property-management:FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know:6",
    "filename": "FTC_Using_Consumer_Reports_What_Landlords_Need_to_Know.md",
    "public": true
   },
   {
    "title": "Larkspur Property Management — Resident Handbook",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Applies to all residential properties managed by Larkspur. Version 2026.1.",
+   "location": "Overview to 3. Pets",
+   "text": "Overview\nFictional sample document for demonstration purposes. Applies to all residential properties managed by Larkspur. Version 2026.1.\n\n1. Rent Payment\n- Rent is due on the 1st of each month. Payments are made through the Resident Portal (ACH free; debit card $2.95 fee; credit card 2.9% fee).\n- A grace period runs through 11:59 p.m. on the 3rd. Starting on the 4th, a late fee of $75 is charged, plus $10 per day until paid, capped at $175 per month.\n- Returned payments (NSF) incur a $35 fee. After two returned payments in 12 months, the resident must pay by certified funds or money order for the remainder of the lease.\n\n2. Maintenance Requests\n- Submit all non-emergency requests through the Resident Portal with photos. Phone requests are accepted only for emergencies.\n- Emergencies (no heat in winter, no A/C when outside temperature is above 90°F, active water leak, sewage backup, gas smell, no electricity, broken exterior door lock) should be called in to the 24/7 line at (800) 555-0148. For a gas smell, leave the home and call the gas utility first.\n- By entering a maintenance request, residents give permission for a technician to enter during business hours (8 a.m. – 5 p.m., Monday – Friday) unless the request says otherwise.\n\n3. Pets\n- Maximum of 2 pets per home. Dogs on the restricted breed list and any animal over 80 pounds are not permitted.\n- One-time pet fee: $300 per pet (non-refundable). Monthly pet rent: $35 per pet.\n- Assistance animals and service animals are not pets: no pet fee, pet rent, or breed/weight restriction applies. Requests are reviewed under our reasonable-accommodation process within 10 business days.\n- Unauthorized pets result in a $250 charge plus back pet rent from the date the pet was first observed.",
    "id": "property-management:Resident_Handbook:0",
    "filename": "Resident_Handbook.md",
    "public": false
   },
   {
    "title": "Larkspur Property Management — Resident Handbook",
-   "location": "1. Rent Payment",
-   "text": "- Rent is due on the 1st of each month. Payments are made through the Resident Portal (ACH free; debit card $2.95 fee; credit card 2.9% fee).\n- A grace period runs through 11:59 p.m. on the 3rd. Starting on the 4th, a late fee of $75 is charged, plus $10 per day until paid, capped at $175 per month.\n- Returned payments (NSF) incur a $35 fee. After two returned payments in 12 months, the resident must pay by certified funds or money order for the remainder of the lease.",
+   "location": "4. Move-Out and Security Deposit to 6. Community Rules",
+   "text": "4. Move-Out and Security Deposit\n- Residents must give written notice to vacate at least 30 days before the end of the lease. Notice is submitted through the Resident Portal.\n- A move-out inspection is completed within 2 business days of key return. Residents are welcome to attend.\n- The itemized deposit statement and any refund are mailed within 14 business days of move-out to the forwarding address on file.\n- Standard cleaning charge if the home is not left clean: $225 (homes under 1,500 sq ft) or $325 (1,500 sq ft and over). Carpet cleaning is charged only if carpets are stained or soiled beyond normal wear.\n\n5. Breaking a Lease Early\nResidents who need to leave before the lease ends may choose the Early Termination Option: 60 days' written notice plus an early termination fee equal to one month's rent. Rent is due through the 60-day notice period. Active-duty military residents with PCS or deployment orders may terminate with 30 days' notice and no fee.\n\n6. Community Rules\n- Quiet hours: 10 p.m. – 7 a.m.\n- Vehicles must be operable and currently registered. Boats, RVs, and trailers may not be parked on the property for more than 24 hours.\n- Satellite dishes may not be attached to the roof. Smoke detectors must never be disabled; residents replace batteries, Larkspur replaces failed units.",
    "id": "property-management:Resident_Handbook:1",
-   "filename": "Resident_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Resident Handbook",
-   "location": "2. Maintenance Requests",
-   "text": "- Submit all non-emergency requests through the Resident Portal with photos. Phone requests are accepted only for emergencies.\n- Emergencies (no heat in winter, no A/C when outside temperature is above 90°F, active water leak, sewage backup, gas smell, no electricity, broken exterior door lock) should be called in to the 24/7 line at (800) 555-0148. For a gas smell, leave the home and call the gas utility first.\n- By entering a maintenance request, residents give permission for a technician to enter during business hours (8 a.m. – 5 p.m., Monday – Friday) unless the request says otherwise.",
-   "id": "property-management:Resident_Handbook:2",
-   "filename": "Resident_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Resident Handbook",
-   "location": "3. Pets",
-   "text": "- Maximum of 2 pets per home. Dogs on the restricted breed list and any animal over 80 pounds are not permitted.\n- One-time pet fee: $300 per pet (non-refundable). Monthly pet rent: $35 per pet.\n- Assistance animals and service animals are not pets: no pet fee, pet rent, or breed/weight restriction applies. Requests are reviewed under our reasonable-accommodation process within 10 business days.\n- Unauthorized pets result in a $250 charge plus back pet rent from the date the pet was first observed.",
-   "id": "property-management:Resident_Handbook:3",
-   "filename": "Resident_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Resident Handbook",
-   "location": "4. Move-Out and Security Deposit",
-   "text": "- Residents must give written notice to vacate at least 30 days before the end of the lease. Notice is submitted through the Resident Portal.\n- A move-out inspection is completed within 2 business days of key return. Residents are welcome to attend.\n- The itemized deposit statement and any refund are mailed within 14 business days of move-out to the forwarding address on file.\n- Standard cleaning charge if the home is not left clean: $225 (homes under 1,500 sq ft) or $325 (1,500 sq ft and over). Carpet cleaning is charged only if carpets are stained or soiled beyond normal wear.",
-   "id": "property-management:Resident_Handbook:4",
-   "filename": "Resident_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Resident Handbook",
-   "location": "5. Breaking a Lease Early",
-   "text": "Residents who need to leave before the lease ends may choose the Early Termination Option: 60 days' written notice plus an early termination fee equal to one month's rent. Rent is due through the 60-day notice period. Active-duty military residents with PCS or deployment orders may terminate with 30 days' notice and no fee.",
-   "id": "property-management:Resident_Handbook:5",
-   "filename": "Resident_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Larkspur Property Management — Resident Handbook",
-   "location": "6. Community Rules",
-   "text": "- Quiet hours: 10 p.m. – 7 a.m.\n- Vehicles must be operable and currently registered. Boats, RVs, and trailers may not be parked on the property for more than 24 hours.\n- Satellite dishes may not be attached to the roof. Smoke detectors must never be disabled; residents replace batteries, Larkspur replaces failed units.",
-   "id": "property-management:Resident_Handbook:6",
    "filename": "Resident_Handbook.md",
    "public": false
   }
@@ -2558,57 +2318,17 @@
  "accounting": [
   {
    "title": "Pell & Arden CPAs — Engagement & Fee Guide",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Internal guide for partners and managers quoting new work. Tax year 2025 season (filed in 2026).",
+   "location": "Overview to 3. Engagement Letters",
+   "text": "Overview\nFictional sample document for demonstration purposes. Internal guide for partners and managers quoting new work. Tax year 2025 season (filed in 2026).\n\n1. Who We Serve\nPell & Arden serves owner-managed businesses with revenue under $25 million and their owners. Core services: business and individual tax returns, monthly bookkeeping and advisory, payroll oversight, and reviewed (not audited) financial statements. The firm does not perform audits of public companies or SEC filings.\n\n2. Standard Fees\n| Service | Starting fee |\n|---|---|\n| Individual return (Form 1040), W-2 income only | $450 |\n| Individual return with Schedule C (sole proprietor) | $850 |\n| Each rental property (Schedule E) | $175 per property |\n| S corporation return (Form 1120-S) | $1,950 |\n| Partnership / multi-member LLC return (Form 1065) | $2,150 |\n| C corporation return (Form 1120) | $2,450 |\n| Each additional state return | $225 |\n| Monthly bookkeeping (up to 150 transactions) | $650 per month |\n| Reviewed financial statements | from $6,500 |\n| IRS notice response (simple, one notice) | $350 |\nRush fee: 25% surcharge for returns requested with fewer than 10 business days before the filing deadline. Fees for prior-year catch-up returns are quoted at 1.5 times the current fee.\n\n3. Engagement Letters\n- No work starts until the client has signed the engagement letter in SafeSend and paid the deposit.\n- Deposit: 50% of the quoted fee for new clients; returning clients in good standing pay no deposit.\n- Every engagement letter states the services, the tax years covered, the fee or fee basis, what the firm will not do (for example, it does not detect fraud), and the client's responsibility to provide complete and accurate records.\n- Engagement letters are renewed every year; the firm never relies on a prior year's letter.",
    "id": "accounting:Engagement_and_Fee_Guide:0",
    "filename": "Engagement_and_Fee_Guide.md",
    "public": false
   },
   {
    "title": "Pell & Arden CPAs — Engagement & Fee Guide",
-   "location": "1. Who We Serve",
-   "text": "Pell & Arden serves owner-managed businesses with revenue under $25 million and their owners. Core services: business and individual tax returns, monthly bookkeeping and advisory, payroll oversight, and reviewed (not audited) financial statements. The firm does not perform audits of public companies or SEC filings.",
+   "location": "4. Client Acceptance to 6. Scope Changes",
+   "text": "4. Client Acceptance\nBefore accepting a new client, the manager must:\n- Confirm identity with a government-issued photo ID for individuals and formation documents for businesses.\n- Ask for the last 2 years of filed returns and any open IRS or state notices.\n- Run the firm's independence and conflict check (the firm will not prepare returns for both parties in an active divorce, or for two business partners in a dispute).\n- Decline any prospect who asks the firm to take a position the manager believes lacks substantial authority, or who refuses to provide records.\n\n5. Payment Terms\nInvoices are due on receipt. Completed returns are released for e-filing only after the invoice is paid in full. Balances over 60 days past due pause all work for that client, including bookkeeping.\n\n6. Scope Changes\nIf a client brings items not covered by the quote (for example, a sale of a business, a new rental property, foreign accounts, or cryptocurrency activity over 50 transactions), the manager sends a written scope change before doing the extra work. Cryptocurrency activity is billed at $95 per hour.",
    "id": "accounting:Engagement_and_Fee_Guide:1",
-   "filename": "Engagement_and_Fee_Guide.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Engagement & Fee Guide",
-   "location": "2. Standard Fees",
-   "text": "| Service | Starting fee |\n|---|---|\n| Individual return (Form 1040), W-2 income only | $450 |\n| Individual return with Schedule C (sole proprietor) | $850 |\n| Each rental property (Schedule E) | $175 per property |\n| S corporation return (Form 1120-S) | $1,950 |\n| Partnership / multi-member LLC return (Form 1065) | $2,150 |\n| C corporation return (Form 1120) | $2,450 |\n| Each additional state return | $225 |\n| Monthly bookkeeping (up to 150 transactions) | $650 per month |\n| Reviewed financial statements | from $6,500 |\n| IRS notice response (simple, one notice) | $350 |\nRush fee: 25% surcharge for returns requested with fewer than 10 business days before the filing deadline. Fees for prior-year catch-up returns are quoted at 1.5 times the current fee.",
-   "id": "accounting:Engagement_and_Fee_Guide:2",
-   "filename": "Engagement_and_Fee_Guide.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Engagement & Fee Guide",
-   "location": "3. Engagement Letters",
-   "text": "- No work starts until the client has signed the engagement letter in SafeSend and paid the deposit.\n- Deposit: 50% of the quoted fee for new clients; returning clients in good standing pay no deposit.\n- Every engagement letter states the services, the tax years covered, the fee or fee basis, what the firm will not do (for example, it does not detect fraud), and the client's responsibility to provide complete and accurate records.\n- Engagement letters are renewed every year; the firm never relies on a prior year's letter.",
-   "id": "accounting:Engagement_and_Fee_Guide:3",
-   "filename": "Engagement_and_Fee_Guide.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Engagement & Fee Guide",
-   "location": "4. Client Acceptance",
-   "text": "Before accepting a new client, the manager must:\n- Confirm identity with a government-issued photo ID for individuals and formation documents for businesses.\n- Ask for the last 2 years of filed returns and any open IRS or state notices.\n- Run the firm's independence and conflict check (the firm will not prepare returns for both parties in an active divorce, or for two business partners in a dispute).\n- Decline any prospect who asks the firm to take a position the manager believes lacks substantial authority, or who refuses to provide records.",
-   "id": "accounting:Engagement_and_Fee_Guide:4",
-   "filename": "Engagement_and_Fee_Guide.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Engagement & Fee Guide",
-   "location": "5. Payment Terms",
-   "text": "Invoices are due on receipt. Completed returns are released for e-filing only after the invoice is paid in full. Balances over 60 days past due pause all work for that client, including bookkeeping.",
-   "id": "accounting:Engagement_and_Fee_Guide:5",
-   "filename": "Engagement_and_Fee_Guide.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Engagement & Fee Guide",
-   "location": "6. Scope Changes",
-   "text": "If a client brings items not covered by the quote (for example, a sale of a business, a new rental property, foreign accounts, or cryptocurrency activity over 50 transactions), the manager sends a written scope change before doing the extra work. Cryptocurrency activity is billed at $95 per hour.",
-   "id": "accounting:Engagement_and_Fee_Guide:6",
    "filename": "Engagement_and_Fee_Guide.md",
    "public": false
   },
@@ -4654,65 +4374,17 @@
   },
   {
    "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Applies to the 2026 filing season (tax year 2025).",
+   "location": "Overview to 3. Vehicle and Travel Expenses",
+   "text": "Overview\nFictional sample document for demonstration purposes. Applies to the 2026 filing season (tax year 2025).\n\n1. Internal Deadlines\nThe firm sets its own document deadlines ahead of the federal due dates so returns can be reviewed properly.\n| Return type | Client documents due to the firm | If documents arrive later |\n|---|---|---|\n| S corporation and partnership returns | February 15 | Extension is filed automatically |\n| Individual returns | March 15 | Extension is filed automatically |\n| C corporation returns (calendar year) | March 15 | Extension is filed automatically |\nClients are told in writing that an extension extends the time to file, not the time to pay. Estimated tax still owed must be paid by the original due date to avoid penalties and interest; the firm calculates an extension payment for every extended client.\n\n2. Document Checklist (Individuals)\n- All W-2s, 1099s (NEC, MISC, INT, DIV, B, R, K), and K-1s.\n- Form 1098 mortgage interest statements and property tax bills.\n- Records of estimated tax payments made, with dates and amounts.\n- For business owners: the year-end profit-and-loss statement and balance sheet, plus a mileage log if a vehicle is used for business.\n- Charitable contribution receipts; a written acknowledgment from the charity is required for any single gift of $250 or more.\n- Health insurance Form 1095-A if coverage was bought through the Marketplace.\n\n3. Vehicle and Travel Expenses\nThe firm follows IRS Publication 463 for travel, gift, and car expenses. Clients who deduct business use of a car must keep a contemporaneous mileage log showing the date, destination, business purpose, and miles for each trip. Reconstructed logs prepared at tax time are flagged in review. Clients asking about business gifts are reminded that the deduction for business gifts is generally limited to $25 per recipient per year.",
    "id": "accounting:Tax_Season_Client_Procedures:0",
    "filename": "Tax_Season_Client_Procedures.md",
    "public": false
   },
   {
    "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "1. Internal Deadlines",
-   "text": "The firm sets its own document deadlines ahead of the federal due dates so returns can be reviewed properly.\n| Return type | Client documents due to the firm | If documents arrive later |\n|---|---|---|\n| S corporation and partnership returns | February 15 | Extension is filed automatically |\n| Individual returns | March 15 | Extension is filed automatically |\n| C corporation returns (calendar year) | March 15 | Extension is filed automatically |\nClients are told in writing that an extension extends the time to file, not the time to pay. Estimated tax still owed must be paid by the original due date to avoid penalties and interest; the firm calculates an extension payment for every extended client.",
+   "location": "4. Record Keeping Advice to Clients to 7. IRS Notices",
+   "text": "4. Record Keeping Advice to Clients\nThe firm's standard advice follows IRS Publication 583. Clients are told to keep records that support income, deductions, and credits until the period of limitations for that return runs out, and to keep employment tax records for at least 4 years. Records relating to property (purchase price, improvements, depreciation) should be kept until the period of limitations expires for the year the property is sold.\n\n5. Secure Document Exchange\n- Clients upload documents only through the SmartVault client portal. The firm never accepts tax documents by regular email.\n- Staff must never request a full Social Security number by phone or email.\n- Signed e-file authorizations (Form 8879) are collected through SafeSend; returns are not transmitted until the authorization is received.\n\n6. Review Standard\nEvery return is prepared by one staff member and reviewed by a different CPA. Returns with any of the following require a second, partner-level review: a balance due over $25,000, a first-year S corporation, the sale of a business or rental property, or any foreign reporting.\n\n7. IRS Notices\nClients forward any IRS or state notice through the portal within 5 days of receipt. The firm responds or requests more time before the response date on the notice. Notice responses are billed separately unless the notice resulted from a firm error, in which case there is no charge and any penalty caused by the firm's error is reimbursed.",
    "id": "accounting:Tax_Season_Client_Procedures:1",
-   "filename": "Tax_Season_Client_Procedures.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "2. Document Checklist (Individuals)",
-   "text": "- All W-2s, 1099s (NEC, MISC, INT, DIV, B, R, K), and K-1s.\n- Form 1098 mortgage interest statements and property tax bills.\n- Records of estimated tax payments made, with dates and amounts.\n- For business owners: the year-end profit-and-loss statement and balance sheet, plus a mileage log if a vehicle is used for business.\n- Charitable contribution receipts; a written acknowledgment from the charity is required for any single gift of $250 or more.\n- Health insurance Form 1095-A if coverage was bought through the Marketplace.",
-   "id": "accounting:Tax_Season_Client_Procedures:2",
-   "filename": "Tax_Season_Client_Procedures.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "3. Vehicle and Travel Expenses",
-   "text": "The firm follows IRS Publication 463 for travel, gift, and car expenses. Clients who deduct business use of a car must keep a contemporaneous mileage log showing the date, destination, business purpose, and miles for each trip. Reconstructed logs prepared at tax time are flagged in review. Clients asking about business gifts are reminded that the deduction for business gifts is generally limited to $25 per recipient per year.",
-   "id": "accounting:Tax_Season_Client_Procedures:3",
-   "filename": "Tax_Season_Client_Procedures.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "4. Record Keeping Advice to Clients",
-   "text": "The firm's standard advice follows IRS Publication 583. Clients are told to keep records that support income, deductions, and credits until the period of limitations for that return runs out, and to keep employment tax records for at least 4 years. Records relating to property (purchase price, improvements, depreciation) should be kept until the period of limitations expires for the year the property is sold.",
-   "id": "accounting:Tax_Season_Client_Procedures:4",
-   "filename": "Tax_Season_Client_Procedures.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "5. Secure Document Exchange",
-   "text": "- Clients upload documents only through the SmartVault client portal. The firm never accepts tax documents by regular email.\n- Staff must never request a full Social Security number by phone or email.\n- Signed e-file authorizations (Form 8879) are collected through SafeSend; returns are not transmitted until the authorization is received.",
-   "id": "accounting:Tax_Season_Client_Procedures:5",
-   "filename": "Tax_Season_Client_Procedures.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "6. Review Standard",
-   "text": "Every return is prepared by one staff member and reviewed by a different CPA. Returns with any of the following require a second, partner-level review: a balance due over $25,000, a first-year S corporation, the sale of a business or rental property, or any foreign reporting.",
-   "id": "accounting:Tax_Season_Client_Procedures:6",
-   "filename": "Tax_Season_Client_Procedures.md",
-   "public": false
-  },
-  {
-   "title": "Pell & Arden CPAs — Tax Season Client Procedures",
-   "location": "7. IRS Notices",
-   "text": "Clients forward any IRS or state notice through the portal within 5 days of receipt. The firm responds or requests more time before the response date on the notice. Notice responses are billed separately unless the notice resulted from a firm error, in which case there is no charge and any penalty caused by the firm's error is reimbursed.",
-   "id": "accounting:Tax_Season_Client_Procedures:7",
    "filename": "Tax_Season_Client_Procedures.md",
    "public": false
   }
@@ -4720,121 +4392,33 @@
  "real-estate": [
   {
    "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. For all licensed agents affiliated with Bellwether Realty Group. Edition 2026.",
+   "location": "Overview to 3. Buyer Representation",
+   "text": "Overview\nFictional sample document for demonstration purposes. For all licensed agents affiliated with Bellwether Realty Group. Edition 2026.\n\n1. Commission Splits\n| Plan | Agent / Brokerage split | Cap |\n|---|---|---|\n| New Agent Plan (first 12 months) | 60 / 40 | No cap |\n| Standard Plan | 75 / 25 | Brokerage share capped at $18,000 per anniversary year |\n| Team Plan | 80 / 20 on team-generated deals | Team leader pays the brokerage share |\nAfter an agent reaches the cap, they pay a $195 transaction fee per closed deal for the rest of the anniversary year. Every agent pays a $395 transaction fee per closing before reaching the cap, plus $49 per month for technology (CRM, e-signature, transaction management).\n\n2. Referral Fees\n- Outbound referrals to agents at other brokerages: the referral agreement must be signed before the client is introduced. Typical referral fee is 25% of the receiving agent's side.\n- Inbound referral fees are paid by the brokerage, not by the agent personally, and only after the transaction has closed and funded.\n\n3. Buyer Representation\n- A signed written buyer representation agreement is required before an agent tours any home with a buyer, including new construction and open houses attended together.\n- The agreement must state the amount or rate of compensation the agent will receive (a specific dollar amount or percentage, never \"whatever the seller offers\") and that compensation is negotiable.\n- Agents may not receive compensation from any source that exceeds the amount in the buyer agreement.",
    "id": "real-estate:Agent_Policy_and_Commission_Manual:0",
    "filename": "Agent_Policy_and_Commission_Manual.md",
    "public": false
   },
   {
    "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "1. Commission Splits",
-   "text": "| Plan | Agent / Brokerage split | Cap |\n|---|---|---|\n| New Agent Plan (first 12 months) | 60 / 40 | No cap |\n| Standard Plan | 75 / 25 | Brokerage share capped at $18,000 per anniversary year |\n| Team Plan | 80 / 20 on team-generated deals | Team leader pays the brokerage share |\nAfter an agent reaches the cap, they pay a $195 transaction fee per closed deal for the rest of the anniversary year. Every agent pays a $395 transaction fee per closing before reaching the cap, plus $49 per month for technology (CRM, e-signature, transaction management).",
+   "location": "4. Listing Standards to 7. Escalations",
+   "text": "4. Listing Standards\n- Every listing gets professional photos (minimum 25 images), a floor plan, and a 3D tour for homes listed over $500,000. The brokerage pays for photos on the first 3 listings of each new agent.\n- Listings must be entered in the MLS within 1 business day of the listing agreement's start date, unless the seller signs the office exclusive form.\n- Coming-soon listings may not be shown to buyers until they go active.\n- Price reductions require a signed amendment from all sellers before the MLS is updated.\n\n5. Earnest Money\n- Earnest money must be delivered to the title or escrow company within 3 business days of contract acceptance, unless the contract says otherwise.\n- Agents may never hold earnest money checks overnight in their car or home. Checks are dropped at the office safe if the title company is closed.\n\n6. Advertising Rules\nAll advertising (including social media posts) must show the brokerage name, Bellwether Realty Group, at least as prominently as the agent's or team's name. Team names may not include the words \"realty,\" \"brokerage,\" or \"real estate company.\"\n\n7. Escalations\nAgents must contact the Managing Broker, Renee Castellano, immediately for: any claim of misrepresentation, earnest money disputes, inspection disputes that may cancel a contract, or any fair housing concern. Agents may not give legal or tax advice; refer clients to an attorney or CPA.",
    "id": "real-estate:Agent_Policy_and_Commission_Manual:1",
    "filename": "Agent_Policy_and_Commission_Manual.md",
    "public": false
   },
   {
-   "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "2. Referral Fees",
-   "text": "- Outbound referrals to agents at other brokerages: the referral agreement must be signed before the client is introduced. Typical referral fee is 25% of the receiving agent's side.\n- Inbound referral fees are paid by the brokerage, not by the agent personally, and only after the transaction has closed and funded.",
-   "id": "real-estate:Agent_Policy_and_Commission_Manual:2",
-   "filename": "Agent_Policy_and_Commission_Manual.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "3. Buyer Representation",
-   "text": "- A signed written buyer representation agreement is required before an agent tours any home with a buyer, including new construction and open houses attended together.\n- The agreement must state the amount or rate of compensation the agent will receive (a specific dollar amount or percentage, never \"whatever the seller offers\") and that compensation is negotiable.\n- Agents may not receive compensation from any source that exceeds the amount in the buyer agreement.",
-   "id": "real-estate:Agent_Policy_and_Commission_Manual:3",
-   "filename": "Agent_Policy_and_Commission_Manual.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "4. Listing Standards",
-   "text": "- Every listing gets professional photos (minimum 25 images), a floor plan, and a 3D tour for homes listed over $500,000. The brokerage pays for photos on the first 3 listings of each new agent.\n- Listings must be entered in the MLS within 1 business day of the listing agreement's start date, unless the seller signs the office exclusive form.\n- Coming-soon listings may not be shown to buyers until they go active.\n- Price reductions require a signed amendment from all sellers before the MLS is updated.",
-   "id": "real-estate:Agent_Policy_and_Commission_Manual:4",
-   "filename": "Agent_Policy_and_Commission_Manual.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "5. Earnest Money",
-   "text": "- Earnest money must be delivered to the title or escrow company within 3 business days of contract acceptance, unless the contract says otherwise.\n- Agents may never hold earnest money checks overnight in their car or home. Checks are dropped at the office safe if the title company is closed.",
-   "id": "real-estate:Agent_Policy_and_Commission_Manual:5",
-   "filename": "Agent_Policy_and_Commission_Manual.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "6. Advertising Rules",
-   "text": "All advertising (including social media posts) must show the brokerage name, Bellwether Realty Group, at least as prominently as the agent's or team's name. Team names may not include the words \"realty,\" \"brokerage,\" or \"real estate company.\"",
-   "id": "real-estate:Agent_Policy_and_Commission_Manual:6",
-   "filename": "Agent_Policy_and_Commission_Manual.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Agent Policy & Commission Manual",
-   "location": "7. Escalations",
-   "text": "Agents must contact the Managing Broker, Renee Castellano, immediately for: any claim of misrepresentation, earnest money disputes, inspection disputes that may cancel a contract, or any fair housing concern. Agents may not give legal or tax advice; refer clients to an attorney or CPA.",
-   "id": "real-estate:Agent_Policy_and_Commission_Manual:7",
-   "filename": "Agent_Policy_and_Commission_Manual.md",
-   "public": false
-  },
-  {
    "title": "Bellwether Realty Group — Buyer Transaction Timeline & Checklist",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. Standard timeline agents walk buyers through after an offer is accepted. Dates are counted from contract acceptance unless noted. Always follow the dates in the signed purchase contract if they differ.",
+   "location": "Overview to 3. Day 10 – 21: Appraisal and Insurance",
+   "text": "Overview\nFictional sample document for demonstration purposes. Standard timeline agents walk buyers through after an offer is accepted. Dates are counted from contract acceptance unless noted. Always follow the dates in the signed purchase contract if they differ.\n\n1. Day 0 – 3: Contract Accepted\n- Send the fully signed contract to the buyer, the lender, and the title/escrow company the same day.\n- Earnest money delivered to title within 3 business days.\n- Buyer submits the loan application to their lender, if not already done. The lender must provide a Loan Estimate within 3 business days of receiving the application. Agents should encourage buyers to compare Loan Estimates from more than one lender.\n\n2. Day 1 – 10: Inspection Period\n- Book the home inspection within 2 days of acceptance. Recommended add-ons: sewer scope for homes built before 1980, roof inspection for roofs over 15 years old, and termite inspection where required by the lender or the contract.\n- The agent attends the last 30 minutes of the inspection to hear the inspector's summary.\n- Repair requests or cancellation notices must be delivered in writing before the inspection period ends. Missing this date usually means the buyer accepts the home as-is.\n\n3. Day 10 – 21: Appraisal and Insurance\n- The lender orders the appraisal. If the appraisal comes in below the contract price, the agent schedules a call with the buyer within 24 hours to review options: renegotiate, pay the difference, or cancel if the contract has an appraisal contingency.\n- The buyer must get homeowners insurance quotes in the first week. If the home is in a flood zone, the lender will require flood insurance; buyers should get a flood quote early because it can significantly change the monthly payment.",
    "id": "real-estate:Buyer_Transaction_Timeline:0",
    "filename": "Buyer_Transaction_Timeline.md",
    "public": false
   },
   {
    "title": "Bellwether Realty Group — Buyer Transaction Timeline & Checklist",
-   "location": "1. Day 0 – 3: Contract Accepted",
-   "text": "- Send the fully signed contract to the buyer, the lender, and the title/escrow company the same day.\n- Earnest money delivered to title within 3 business days.\n- Buyer submits the loan application to their lender, if not already done. The lender must provide a Loan Estimate within 3 business days of receiving the application. Agents should encourage buyers to compare Loan Estimates from more than one lender.",
+   "location": "4. Day 21 – 27: Final Loan Approval to 6. After Closing",
+   "text": "4. Day 21 – 27: Final Loan Approval\n- Buyers must not open new credit, change jobs, or make large deposits or purchases without talking to the lender first.\n- The buyer must receive the Closing Disclosure at least 3 business days before closing. Agents review it with the buyer side by side with the latest Loan Estimate and ask the lender about any differences.\n\n5. Day 28 – 30: Final Walkthrough and Closing\n- Final walkthrough within 24 hours before closing. Confirm agreed repairs are done (ask for receipts) and that included appliances and fixtures are present.\n- Wire fraud warning: buyers must call the title company at a phone number they already know (from the contract or the title company's website, not from an email) to confirm wiring instructions. Bellwether agents never send wiring instructions.\n- Bring a government-issued photo ID to closing.\n\n6. After Closing\n- Agent delivers the closing gift within 7 days and schedules a check-in call at 30 days.\n- Reminder to the buyer: keep the Closing Disclosure and all closing documents permanently with their property records.",
    "id": "real-estate:Buyer_Transaction_Timeline:1",
-   "filename": "Buyer_Transaction_Timeline.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Buyer Transaction Timeline & Checklist",
-   "location": "2. Day 1 – 10: Inspection Period",
-   "text": "- Book the home inspection within 2 days of acceptance. Recommended add-ons: sewer scope for homes built before 1980, roof inspection for roofs over 15 years old, and termite inspection where required by the lender or the contract.\n- The agent attends the last 30 minutes of the inspection to hear the inspector's summary.\n- Repair requests or cancellation notices must be delivered in writing before the inspection period ends. Missing this date usually means the buyer accepts the home as-is.",
-   "id": "real-estate:Buyer_Transaction_Timeline:2",
-   "filename": "Buyer_Transaction_Timeline.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Buyer Transaction Timeline & Checklist",
-   "location": "3. Day 10 – 21: Appraisal and Insurance",
-   "text": "- The lender orders the appraisal. If the appraisal comes in below the contract price, the agent schedules a call with the buyer within 24 hours to review options: renegotiate, pay the difference, or cancel if the contract has an appraisal contingency.\n- The buyer must get homeowners insurance quotes in the first week. If the home is in a flood zone, the lender will require flood insurance; buyers should get a flood quote early because it can significantly change the monthly payment.",
-   "id": "real-estate:Buyer_Transaction_Timeline:3",
-   "filename": "Buyer_Transaction_Timeline.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Buyer Transaction Timeline & Checklist",
-   "location": "4. Day 21 – 27: Final Loan Approval",
-   "text": "- Buyers must not open new credit, change jobs, or make large deposits or purchases without talking to the lender first.\n- The buyer must receive the Closing Disclosure at least 3 business days before closing. Agents review it with the buyer side by side with the latest Loan Estimate and ask the lender about any differences.",
-   "id": "real-estate:Buyer_Transaction_Timeline:4",
-   "filename": "Buyer_Transaction_Timeline.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Buyer Transaction Timeline & Checklist",
-   "location": "5. Day 28 – 30: Final Walkthrough and Closing",
-   "text": "- Final walkthrough within 24 hours before closing. Confirm agreed repairs are done (ask for receipts) and that included appliances and fixtures are present.\n- Wire fraud warning: buyers must call the title company at a phone number they already know (from the contract or the title company's website, not from an email) to confirm wiring instructions. Bellwether agents never send wiring instructions.\n- Bring a government-issued photo ID to closing.",
-   "id": "real-estate:Buyer_Transaction_Timeline:5",
-   "filename": "Buyer_Transaction_Timeline.md",
-   "public": false
-  },
-  {
-   "title": "Bellwether Realty Group — Buyer Transaction Timeline & Checklist",
-   "location": "6. After Closing",
-   "text": "- Agent delivers the closing gift within 7 days and schedules a check-in call at 30 days.\n- Reminder to the buyer: keep the Closing Disclosure and all closing documents permanently with their property records.",
-   "id": "real-estate:Buyer_Transaction_Timeline:6",
    "filename": "Buyer_Transaction_Timeline.md",
    "public": false
   },
@@ -5170,121 +4754,33 @@
  "insurance": [
   {
    "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. How CSRs and producers help clients report and follow claims. Effective February 2026.",
+   "location": "Overview to 4. Flood Claims",
+   "text": "Overview\nFictional sample document for demonstration purposes. How CSRs and producers help clients report and follow claims. Effective February 2026.\n\n1. First Notice of Loss (FNOL)\n- When a client calls about a loss, the CSR first confirms everyone is safe. For a fire, active water leak, or gas smell, the client is told to contact emergency services or the utility first.\n- The CSR reports the claim to the carrier within 4 business hours of the client's call (same day for any injury or any loss over $25,000). If the carrier offers 24/7 direct reporting, the CSR gives the client the carrier's claims number as well.\n- The claim number, adjuster name, and adjuster phone number are entered in the agency management system and emailed to the client.\n\n2. Information to Collect\n- Date, time, and location of the loss, and how it happened.\n- Photos or video of the damage before cleanup, if safe.\n- For auto: the other driver's name, insurer, policy number, plate number, and the police report number.\n- For property: a list of damaged items; receipts if available.\n\n3. Mitigation\nClients are told to take reasonable steps to prevent further damage (for example, tarping a roof or turning off the water) and to keep the receipts. Clients should not throw away damaged property until the adjuster has seen it or agrees in writing.\n\n4. Flood Claims\n- Flood losses are reported to the flood carrier (NFIP or private), not the homeowners carrier. Many clients have both; CSRs check the file before reporting.\n- Clients are reminded that NFIP claims have their own proof-of-loss deadlines and procedures described in the policy; the CSR sends the client FEMA's NFIP Summary of Coverage and the claims section of the policy.",
    "id": "insurance:Claims_Assistance_Procedure:0",
    "filename": "Claims_Assistance_Procedure.md",
    "public": false
   },
   {
    "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "1. First Notice of Loss (FNOL)",
-   "text": "- When a client calls about a loss, the CSR first confirms everyone is safe. For a fire, active water leak, or gas smell, the client is told to contact emergency services or the utility first.\n- The CSR reports the claim to the carrier within 4 business hours of the client's call (same day for any injury or any loss over $25,000). If the carrier offers 24/7 direct reporting, the CSR gives the client the carrier's claims number as well.\n- The claim number, adjuster name, and adjuster phone number are entered in the agency management system and emailed to the client.",
+   "location": "5. Follow-Up Standard to 7. Claims and Renewals",
+   "text": "5. Follow-Up Standard\n| Claim size | Agency check-in |\n|---|---|\n| Under $10,000 | 7 days after FNOL, then at closing |\n| $10,000 – $100,000 | Every 7 days until the adjuster's estimate is received |\n| Over $100,000 or any injury | Producer calls the client every 7 days; Agency Principal is informed |\n\n6. Disputes\nIf a client disagrees with the carrier's decision, the agency may help the client understand the denial letter and the policy wording, and request the carrier's claim supervisor review. The agency does not give legal advice and does not represent the client against the carrier. Clients considering legal action or a public adjuster are told they may consult an attorney.\n\n7. Claims and Renewals\nAny open claim is flagged at renewal. Clients with 2 or more property claims in 3 years are reviewed by the producer for possible remarketing before the renewal date.",
    "id": "insurance:Claims_Assistance_Procedure:1",
    "filename": "Claims_Assistance_Procedure.md",
    "public": false
   },
   {
-   "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "2. Information to Collect",
-   "text": "- Date, time, and location of the loss, and how it happened.\n- Photos or video of the damage before cleanup, if safe.\n- For auto: the other driver's name, insurer, policy number, plate number, and the police report number.\n- For property: a list of damaged items; receipts if available.",
-   "id": "insurance:Claims_Assistance_Procedure:2",
-   "filename": "Claims_Assistance_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "3. Mitigation",
-   "text": "Clients are told to take reasonable steps to prevent further damage (for example, tarping a roof or turning off the water) and to keep the receipts. Clients should not throw away damaged property until the adjuster has seen it or agrees in writing.",
-   "id": "insurance:Claims_Assistance_Procedure:3",
-   "filename": "Claims_Assistance_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "4. Flood Claims",
-   "text": "- Flood losses are reported to the flood carrier (NFIP or private), not the homeowners carrier. Many clients have both; CSRs check the file before reporting.\n- Clients are reminded that NFIP claims have their own proof-of-loss deadlines and procedures described in the policy; the CSR sends the client FEMA's NFIP Summary of Coverage and the claims section of the policy.",
-   "id": "insurance:Claims_Assistance_Procedure:4",
-   "filename": "Claims_Assistance_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "5. Follow-Up Standard",
-   "text": "| Claim size | Agency check-in |\n|---|---|\n| Under $10,000 | 7 days after FNOL, then at closing |\n| $10,000 – $100,000 | Every 7 days until the adjuster's estimate is received |\n| Over $100,000 or any injury | Producer calls the client every 7 days; Agency Principal is informed |",
-   "id": "insurance:Claims_Assistance_Procedure:5",
-   "filename": "Claims_Assistance_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "6. Disputes",
-   "text": "If a client disagrees with the carrier's decision, the agency may help the client understand the denial letter and the policy wording, and request the carrier's claim supervisor review. The agency does not give legal advice and does not represent the client against the carrier. Clients considering legal action or a public adjuster are told they may consult an attorney.",
-   "id": "insurance:Claims_Assistance_Procedure:6",
-   "filename": "Claims_Assistance_Procedure.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Claims Assistance Procedure",
-   "location": "7. Claims and Renewals",
-   "text": "Any open claim is flagged at renewal. Clients with 2 or more property claims in 3 years are reviewed by the producer for possible remarketing before the renewal date.",
-   "id": "insurance:Claims_Assistance_Procedure:7",
-   "filename": "Claims_Assistance_Procedure.md",
-   "public": false
-  },
-  {
    "title": "Northgate Insurance Agency — Producer Handbook",
-   "location": "Overview",
-   "text": "Fictional sample document for demonstration purposes. For licensed producers and customer service representatives (CSRs). Independent agency writing personal lines and small commercial. Edition 2026.",
+   "location": "Overview to 3. Quoting Standards",
+   "text": "Overview\nFictional sample document for demonstration purposes. For licensed producers and customer service representatives (CSRs). Independent agency writing personal lines and small commercial. Edition 2026.\n\n1. Commissions\n| Line | New business | Renewal |\n|---|---|---|\n| Personal auto and home | 50% of agency commission | 25% of agency commission |\n| Small commercial (BOP, general liability, commercial auto) | 40% of agency commission | 20% of agency commission |\n| Flood (NFIP and private) | 50% of agency commission | 25% of agency commission |\n| Life and disability | 60% of agency commission | 10% of agency commission |\nCommissions are paid on the 15th of the month after the agency receives payment from the carrier. If a policy cancels within the first 90 days, the producer's new-business commission is charged back.\n\n2. Binding Authority\n- Producers may bind only within the binding authority granted by each carrier, as listed in the Carrier Authority Grid in the agency management system.\n- No coverage may be bound during a binding moratorium (for example, when a named storm is within the carrier's moratorium area). CSRs check the Moratorium Board before binding any property policy.\n- Commercial policies with total insured values over $5 million require Agency Principal approval (Marcus Bell) before binding.\n\n3. Quoting Standards\n- Every homeowners quote must include a flood discussion, documented in the client file, even if the home is outside a high-risk flood zone. Standard homeowners policies do not cover flood.\n- Personal auto quotes must offer uninsured/underinsured motorist limits equal to the bodily injury limits. If the client chooses lower limits, the client signs the rejection or selection form.\n- Umbrella coverage is offered to every client with a home value over $500,000 or a teenage driver.",
    "id": "insurance:Producer_Handbook:0",
    "filename": "Producer_Handbook.md",
    "public": false
   },
   {
    "title": "Northgate Insurance Agency — Producer Handbook",
-   "location": "1. Commissions",
-   "text": "| Line | New business | Renewal |\n|---|---|---|\n| Personal auto and home | 50% of agency commission | 25% of agency commission |\n| Small commercial (BOP, general liability, commercial auto) | 40% of agency commission | 20% of agency commission |\n| Flood (NFIP and private) | 50% of agency commission | 25% of agency commission |\n| Life and disability | 60% of agency commission | 10% of agency commission |\nCommissions are paid on the 15th of the month after the agency receives payment from the carrier. If a policy cancels within the first 90 days, the producer's new-business commission is charged back.",
+   "location": "4. Flood Insurance Rules of Thumb to 6. Errors & Omissions Prevention",
+   "text": "4. Flood Insurance Rules of Thumb\n- New NFIP policies usually take effect 30 days after purchase. Exceptions exist (for example, when the policy is required in connection with a new loan). Producers must confirm the effective date with the carrier and never promise immediate coverage.\n- Clients who need building coverage above the NFIP maximum are offered an excess flood policy.\n- Explain to clients that the NFIP summary of coverage is not the policy; the policy controls.\n\n5. Renewals\n- Renewal review starts 60 days before expiration for personal lines and 90 days for commercial.\n- Any renewal with a premium increase over 15% triggers a remarket to at least 2 other carriers.\n- Clients receive a written renewal summary at least 30 days before expiration.\n\n6. Errors & Omissions Prevention\n- Every coverage recommendation the client declines is documented in the client file with the date.\n- Coverage changes requested by phone are confirmed back to the client by email the same day.\n- Producers never tell a client a loss \"will be covered.\" They say the claim will be reported and the carrier makes the coverage decision.",
    "id": "insurance:Producer_Handbook:1",
-   "filename": "Producer_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Producer Handbook",
-   "location": "2. Binding Authority",
-   "text": "- Producers may bind only within the binding authority granted by each carrier, as listed in the Carrier Authority Grid in the agency management system.\n- No coverage may be bound during a binding moratorium (for example, when a named storm is within the carrier's moratorium area). CSRs check the Moratorium Board before binding any property policy.\n- Commercial policies with total insured values over $5 million require Agency Principal approval (Marcus Bell) before binding.",
-   "id": "insurance:Producer_Handbook:2",
-   "filename": "Producer_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Producer Handbook",
-   "location": "3. Quoting Standards",
-   "text": "- Every homeowners quote must include a flood discussion, documented in the client file, even if the home is outside a high-risk flood zone. Standard homeowners policies do not cover flood.\n- Personal auto quotes must offer uninsured/underinsured motorist limits equal to the bodily injury limits. If the client chooses lower limits, the client signs the rejection or selection form.\n- Umbrella coverage is offered to every client with a home value over $500,000 or a teenage driver.",
-   "id": "insurance:Producer_Handbook:3",
-   "filename": "Producer_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Producer Handbook",
-   "location": "4. Flood Insurance Rules of Thumb",
-   "text": "- New NFIP policies usually take effect 30 days after purchase. Exceptions exist (for example, when the policy is required in connection with a new loan). Producers must confirm the effective date with the carrier and never promise immediate coverage.\n- Clients who need building coverage above the NFIP maximum are offered an excess flood policy.\n- Explain to clients that the NFIP summary of coverage is not the policy; the policy controls.",
-   "id": "insurance:Producer_Handbook:4",
-   "filename": "Producer_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Producer Handbook",
-   "location": "5. Renewals",
-   "text": "- Renewal review starts 60 days before expiration for personal lines and 90 days for commercial.\n- Any renewal with a premium increase over 15% triggers a remarket to at least 2 other carriers.\n- Clients receive a written renewal summary at least 30 days before expiration.",
-   "id": "insurance:Producer_Handbook:5",
-   "filename": "Producer_Handbook.md",
-   "public": false
-  },
-  {
-   "title": "Northgate Insurance Agency — Producer Handbook",
-   "location": "6. Errors & Omissions Prevention",
-   "text": "- Every coverage recommendation the client declines is documented in the client file with the date.\n- Coverage changes requested by phone are confirmed back to the client by email the same day.\n- Producers never tell a client a loss \"will be covered.\" They say the claim will be reported and the carrier makes the coverage decision.",
-   "id": "insurance:Producer_Handbook:6",
    "filename": "Producer_Handbook.md",
    "public": false
   },

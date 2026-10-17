@@ -35,7 +35,7 @@ for assistant, questions in tests.items():
         times.append(seconds)
         answer = data["answer"].lower()
         files = [s["filename"] for s in data["sources"]]
-        ok_text = all(e.lower() in answer for e in t["expect"])
+        ok_text = all(any(alt.lower() in answer for alt in e.split("|")) for e in t["expect"])
         ok_source = not t["source"] or any(any(part in f for part in t["source"].split("|")) for f in files)
         ok = ok_text and ok_source
         passed += ok

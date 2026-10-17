@@ -79,15 +79,42 @@ def chunk_markdown(path: Path):
     if buf:
         sections.append((heading, "\n".join(buf)))
 
+    # Each section keeps its heading and line breaks (as their own tokens) so lists
+    # and tables stay readable when quoted.
+    prepared = []
     for heading, body in sections:
-        # Keep line breaks (as their own tokens) so lists and tables stay readable when quoted.
         lines = [line.strip() for line in clean(body).splitlines() if line.strip()]
         tokens = " \n ".join(lines).split(" ")
-        if sum(t != "\n" for t in tokens) < 5:
-            continue
-        for start, end in split_words(tokens):
-            text = " ".join(tokens[start:end]).replace(" \n ", "\n").strip("\n ")
-            yield {"title": title, "location": heading, "text": text}
+        if sum(t != "\n" for t in tokens) >= 5:
+            prepared.append((heading, tokens))
+
+    def as_text(tokens):
+        return " ".join(tokens).replace(" \n ", "\n").strip("\n ")
+
+    def words(tokens):
+        return sum(t != "\n" for t in tokens)
+
+    # Merge neighbouring short sections into one passage of up to CHUNK_WORDS words, so
+    # related rules (for example 8.1 to 8.4 of a contract) stay together. Long sections
+    # are split on their own with overlap.
+    group = []
+    for heading, tokens in prepared + [(None, None)]:
+        fits = tokens is not None and sum(words(t) for _, t in group) + words(tokens) <= CHUNK_WORDS
+        if group and not fits:
+            if len(group) == 1:
+                location, text = group[0][0], as_text(group[0][1])
+            else:
+                location = f"{group[0][0]} to {group[-1][0]}"
+                text = "\n\n".join(f"{h}\n{as_text(t)}" for h, t in group)
+            yield {"title": title, "location": location, "text": text}
+            group = []
+        if tokens is None:
+            break
+        if words(tokens) > CHUNK_WORDS:
+            for start, end in split_words(tokens):
+                yield {"title": title, "location": heading, "text": as_text(tokens[start:end])}
+        else:
+            group.append((heading, tokens))
 
 
 def chunk_pdf(path: Path):

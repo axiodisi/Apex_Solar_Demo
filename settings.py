@@ -8,7 +8,7 @@ load_dotenv(Path(__file__).parent / ".env")  # local development only; Render se
 
 PINECONE_INDEX = os.getenv("PINECONE_INDEX", "apex-solar-demo")
 EMBED_MODEL = os.getenv("EMBED_MODEL", "text-embedding-3-small")
-CHAT_MODEL = os.getenv("CHAT_MODEL", "gpt-4o-mini")
+CHAT_MODEL = os.getenv("CHAT_MODEL", "gpt-4.1-mini")
 DEFAULT_ASSISTANT = os.getenv("DEFAULT_ASSISTANT", "law-firm")
 
 # Sites allowed to call the API from a browser.

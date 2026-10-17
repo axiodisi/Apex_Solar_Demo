@@ -1,49 +1,353 @@
 {
   "law-firm": [
-    {"q": "What retainer do we require for a family law matter?", "expect": ["5,000"], "source": "Fee_Schedule"},
-    {"q": "A client's trust balance dropped to $1,200 on a divorce case. What happens now?", "expect": ["5,000", "10 days"], "source": "Fee_Schedule"},
-    {"q": "Is the family law consultation free?", "expect": ["150"], "source": "Client_Intake"},
-    {"q": "Who can approve a conflict waiver?", "expect": ["Andrea Kessler"], "source": "Client_Intake"},
-    {"q": "How many days does a defendant have to answer a complaint after being served?", "expect": ["21"], "source": "Rules_of_Civil_Procedure|Litigation"},
-    {"q": "How many interrogatories can a party serve without leave of court?", "expect": ["25"], "source": "Rules_of_Civil_Procedure|Litigation"},
-    {"q": "How long do we keep estate planning files after the matter closes?", "expect": ["7 years"], "source": "Records_Retention"},
-    {"q": "Can I paste a client's contract into ChatGPT to summarize it?", "expect": ["no", "public"], "source": "Records_Retention"},
-    {"q": "What is our parental leave policy?", "expect": ["couldn't find"], "source": ""}
+    {
+      "q": "What retainer do we require for a family law matter?",
+      "expect": [
+        "5,000"
+      ],
+      "source": "Fee_Schedule"
+    },
+    {
+      "q": "A client's trust balance dropped to $1,200 on a divorce case. What happens now?",
+      "expect": [
+        "5,000",
+        "10 days"
+      ],
+      "source": "Fee_Schedule"
+    },
+    {
+      "q": "Is the family law consultation free?",
+      "expect": [
+        "150"
+      ],
+      "source": "Client_Intake"
+    },
+    {
+      "q": "Who can approve a conflict waiver?",
+      "expect": [
+        "Andrea Kessler"
+      ],
+      "source": "Client_Intake"
+    },
+    {
+      "q": "How many days does a defendant have to answer a complaint after being served?",
+      "expect": [
+        "21"
+      ],
+      "source": "Rules_of_Civil_Procedure|Litigation"
+    },
+    {
+      "q": "How many interrogatories can a party serve without leave of court?",
+      "expect": [
+        "25"
+      ],
+      "source": "Rules_of_Civil_Procedure|Litigation|Scheduling_Order"
+    },
+    {
+      "q": "How long do we keep estate planning files after the matter closes?",
+      "expect": [
+        "7 years"
+      ],
+      "source": "Records_Retention"
+    },
+    {
+      "q": "Can I paste a client's contract into ChatGPT to summarize it?",
+      "expect": [
+        "no",
+        "public"
+      ],
+      "source": "Records_Retention"
+    },
+    {
+      "q": "What is our parental leave policy?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    },
+    {
+      "q": "Who founded Marlowe Kessler?",
+      "expect": [
+        "Thomas Marlowe",
+        "Andrea Kessler"
+      ],
+      "source": "Firm_Overview"
+    },
+    {
+      "q": "When does fact discovery close in Henley v. Redstone?",
+      "expect": [
+        "January 15, 2027"
+      ],
+      "source": "Scheduling_Order"
+    },
+    {
+      "q": "What did Karen Pruitt say about the June 3, 2025 meeting?",
+      "expect": [
+        "double"
+      ],
+      "source": "Pruitt"
+    },
+    {
+      "q": "How many seasonal pickers did Pruitt ask for in the Henley case?",
+      "expect": [
+        "14|fourteen"
+      ],
+      "source": "Pruitt"
+    },
+    {
+      "q": "Have we ever represented Redstone Logistics?",
+      "expect": [
+        "2023"
+      ],
+      "source": "Matter_Index"
+    },
+    {
+      "q": "What's the page limit for a reply brief on summary judgment in front of Judge Alvarez?",
+      "expect": [
+        "12"
+      ],
+      "source": "Standing_Order"
+    },
+    {
+      "q": "What indemnification cap do we use in our buyer-side asset purchase agreements?",
+      "expect": [
+        "25%"
+      ],
+      "source": "Asset_Purchase"
+    },
+    {
+      "q": "How many depositions can each side take in the Henley case?",
+      "expect": [
+        "8"
+      ],
+      "source": "Scheduling_Order"
+    },
+    {
+      "q": "What is Redstone's liability cap and how do we plan to get around it?",
+      "expect": [
+        "gross negligence"
+      ],
+      "source": "Case_Summary"
+    },
+    {
+      "q": "Who is the mediator in Henley v. Redstone?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    },
+    {
+      "q": "When is the Henley discovery cutoff, and when do we need to be done internally?",
+      "expect": [
+        "January 15, 2027",
+        "January 13"
+      ],
+      "source": "Scheduling_Order"
+    }
   ],
   "property-management": [
-    {"q": "How much is the late fee if rent is paid on the 6th?", "expect": ["75", "10"], "source": "Resident_Handbook"},
-    {"q": "Can a tenant with an emotional support animal be charged pet rent?", "expect": ["no"], "source": "Resident_Handbook"},
-    {"q": "What is the repair amount we can approve without calling the owner?", "expect": ["500"], "source": "Owner_Management"},
-    {"q": "We required an applicant with a low credit score to pay an extra deposit. Do we owe them a notice?", "expect": ["adverse action"], "source": "FTC|Owner_Management"},
-    {"q": "The A/C is out and it's 104 degrees. How fast does a tech need to be there?", "expect": ["4 hours"], "source": "Maintenance"},
-    {"q": "What are the insurance requirements for vendors?", "expect": ["1,000,000"], "source": "Maintenance"},
-    {"q": "Do we allow short-term rentals like Airbnb?", "expect": ["couldn't find"], "source": ""}
+    {
+      "q": "How much is the late fee if rent is paid on the 6th?",
+      "expect": [
+        "75",
+        "10"
+      ],
+      "source": "Resident_Handbook"
+    },
+    {
+      "q": "Can a tenant with an emotional support animal be charged pet rent?",
+      "expect": [
+        "no"
+      ],
+      "source": "Resident_Handbook"
+    },
+    {
+      "q": "What is the repair amount we can approve without calling the owner?",
+      "expect": [
+        "500"
+      ],
+      "source": "Owner_Management"
+    },
+    {
+      "q": "We required an applicant with a low credit score to pay an extra deposit. Do we owe them a notice?",
+      "expect": [
+        "adverse action"
+      ],
+      "source": "FTC|Owner_Management"
+    },
+    {
+      "q": "The A/C is out and it's 104 degrees. How fast does a tech need to be there?",
+      "expect": [
+        "4 hours"
+      ],
+      "source": "Maintenance"
+    },
+    {
+      "q": "What are the insurance requirements for vendors?",
+      "expect": [
+        "1,000,000"
+      ],
+      "source": "Maintenance"
+    },
+    {
+      "q": "Do we allow short-term rentals like Airbnb?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    }
   ],
   "accounting": [
-    {"q": "What do we charge for an S corp return?", "expect": ["1,950"], "source": "Engagement"},
-    {"q": "When do individual clients need to get us their documents?", "expect": ["March 15"], "source": "Tax_Season"},
-    {"q": "How much can a client deduct for business gifts to one customer?", "expect": ["25"], "source": "Pub_463|Tax_Season"},
-    {"q": "How long should a business keep employment tax records?", "expect": ["4 years"], "source": "Pub_583|Tax_Season"},
-    {"q": "Which returns need a partner-level review?", "expect": ["25,000"], "source": "Tax_Season"},
-    {"q": "A client has 300 crypto trades. How do we bill that?", "expect": ["95"], "source": "Engagement"},
-    {"q": "What is our policy on remote work during tax season?", "expect": ["couldn't find"], "source": ""}
+    {
+      "q": "What do we charge for an S corp return?",
+      "expect": [
+        "1,950"
+      ],
+      "source": "Engagement"
+    },
+    {
+      "q": "When do individual clients need to get us their documents?",
+      "expect": [
+        "March 15"
+      ],
+      "source": "Tax_Season"
+    },
+    {
+      "q": "How much can a client deduct for business gifts to one customer?",
+      "expect": [
+        "25"
+      ],
+      "source": "Pub_463|Tax_Season"
+    },
+    {
+      "q": "How long should a business keep employment tax records?",
+      "expect": [
+        "4 years"
+      ],
+      "source": "Pub_583|Tax_Season"
+    },
+    {
+      "q": "Which returns need a partner-level review?",
+      "expect": [
+        "25,000"
+      ],
+      "source": "Tax_Season"
+    },
+    {
+      "q": "A client has 300 crypto trades. How do we bill that?",
+      "expect": [
+        "95"
+      ],
+      "source": "Engagement"
+    },
+    {
+      "q": "What is our policy on remote work during tax season?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    }
   ],
   "real-estate": [
-    {"q": "What's the commission split for a brand new agent?", "expect": ["60"], "source": "Agent_Policy"},
-    {"q": "Can I show a house to a buyer before they sign anything?", "expect": ["buyer representation agreement"], "source": "Agent_Policy"},
-    {"q": "When does earnest money have to be delivered?", "expect": ["3 business days"], "source": "Agent_Policy|Buyer_Transaction"},
-    {"q": "How many days before closing must the buyer get the Closing Disclosure?", "expect": ["3 business days"], "source": "Buyer_Transaction"},
-    {"q": "What should a buyer do to avoid wire fraud?", "expect": ["call"], "source": "Buyer_Transaction"},
-    {"q": "What is mortgage insurance and when is it required?", "expect": ["20%"], "source": "CFPB"},
-    {"q": "What's our policy on dual agency?", "expect": ["couldn't find"], "source": ""}
+    {
+      "q": "What's the commission split for a brand new agent?",
+      "expect": [
+        "60"
+      ],
+      "source": "Agent_Policy"
+    },
+    {
+      "q": "Can I show a house to a buyer before they sign anything?",
+      "expect": [
+        "buyer representation agreement"
+      ],
+      "source": "Agent_Policy"
+    },
+    {
+      "q": "When does earnest money have to be delivered?",
+      "expect": [
+        "3 business days"
+      ],
+      "source": "Agent_Policy|Buyer_Transaction"
+    },
+    {
+      "q": "How many days before closing must the buyer get the Closing Disclosure?",
+      "expect": [
+        "3 business days"
+      ],
+      "source": "Buyer_Transaction"
+    },
+    {
+      "q": "What should a buyer do to avoid wire fraud?",
+      "expect": [
+        "call"
+      ],
+      "source": "Buyer_Transaction"
+    },
+    {
+      "q": "What is mortgage insurance and when is it required?",
+      "expect": [
+        "20%"
+      ],
+      "source": "CFPB"
+    },
+    {
+      "q": "What's our policy on dual agency?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    }
   ],
   "insurance": [
-    {"q": "How much renewal commission do I earn on personal auto?", "expect": ["25%"], "source": "Producer_Handbook"},
-    {"q": "Does flood insurance cover a client's swimming pool?", "expect": ["not"], "source": "FEMA"},
-    {"q": "Is jewelry covered under NFIP contents coverage?", "expect": ["2,500"], "source": "FEMA"},
-    {"q": "Client just bought a flood policy today. Are they covered tomorrow?", "expect": ["30 days"], "source": "Producer_Handbook"},
-    {"q": "How fast do we need to report a claim to the carrier?", "expect": ["4 business hours"], "source": "Claims"},
-    {"q": "When do we start reviewing a commercial renewal?", "expect": ["90 days"], "source": "Producer_Handbook"},
-    {"q": "What cyber liability carriers do we use?", "expect": ["couldn't find"], "source": ""}
+    {
+      "q": "How much renewal commission do I earn on personal auto?",
+      "expect": [
+        "25%"
+      ],
+      "source": "Producer_Handbook"
+    },
+    {
+      "q": "Does flood insurance cover a client's swimming pool?",
+      "expect": [
+        "not"
+      ],
+      "source": "FEMA"
+    },
+    {
+      "q": "Is jewelry covered under NFIP contents coverage?",
+      "expect": [
+        "2,500"
+      ],
+      "source": "FEMA"
+    },
+    {
+      "q": "Client just bought a flood policy today. Are they covered tomorrow?",
+      "expect": [
+        "30 days"
+      ],
+      "source": "Producer_Handbook"
+    },
+    {
+      "q": "How fast do we need to report a claim to the carrier?",
+      "expect": [
+        "4 business hours"
+      ],
+      "source": "Claims"
+    },
+    {
+      "q": "When do we start reviewing a commercial renewal?",
+      "expect": [
+        "90 days"
+      ],
+      "source": "Producer_Handbook"
+    },
+    {
+      "q": "What cyber liability carriers do we use?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    }
   ]
 }
