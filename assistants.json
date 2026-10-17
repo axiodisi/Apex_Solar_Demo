@@ -1,0 +1,27 @@
+{
+  "law-firm": {
+    "company": "Marlowe Kessler LLP",
+    "description": "a law firm with Estate Planning, Business & Contracts, and Family Law practice groups",
+    "audience": "attorneys, paralegals, and staff"
+  },
+  "property-management": {
+    "company": "Larkspur Property Management",
+    "description": "a residential property management company",
+    "audience": "property managers, leasing agents, and maintenance coordinators"
+  },
+  "accounting": {
+    "company": "Pell & Arden CPAs",
+    "description": "a CPA firm serving owner-managed businesses",
+    "audience": "CPAs, tax preparers, and client service staff"
+  },
+  "real-estate": {
+    "company": "Bellwether Realty Group",
+    "description": "a residential real estate brokerage",
+    "audience": "real estate agents and transaction coordinators"
+  },
+  "insurance": {
+    "company": "Northgate Insurance Agency",
+    "description": "an independent insurance agency writing personal lines and small commercial",
+    "audience": "producers and customer service representatives"
+  }
+}

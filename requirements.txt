@@ -1,6 +1,7 @@
-fastapi
-uvicorn
-pinecone
-openai
-PyMuPDF
-python-multipart
+fastapi==0.143.3
+uvicorn==0.54.0
+pinecone==10.0.0
+openai==3.33.0
+pymupdf==1.28.2
+rank-bm25==0.2.2
+python-dotenv==1.2.4
