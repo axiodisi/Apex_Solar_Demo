@@ -2227,6 +2227,86 @@
    "public": false
   },
   {
+   "title": "Resident Ledger and Delinquency Notes — 22 Alder Court, Unit B (Lindqvist)",
+   "location": "Overview to Lease Basics",
+   "text": "Overview\nFictional sample document for demonstration purposes. Resident ledger excerpt from AppFolio with collections notes. Owner: Gretchen Halvorsen. Resident: Corey Lindqvist. Property manager: Kayla Brennan. Run date: October 17, 2026.\n\nLease Basics\n- Lease term: March 1, 2026 – February 28, 2027. Monthly rent: $1,450. No pets. Security deposit: $1,450.\n- Late fees follow the Resident Handbook: rent is late starting the 4th; a $75 late fee is posted on the 4th, then $10 per day starting the 5th until paid, capped at $175 per month in total late fees.\n- How late fees are counted on this ledger: the $75 fee is posted on the 4th, and daily $10 fees count the 5th through the day payment is received. Example: rent paid on the 6th = $75 + $20 (the 5th and the 6th) = $95. The $175 cap is reached on the 14th.",
+   "id": "property-management:Alder_Court_22B_Delinquency_Ledger:0",
+   "filename": "Alder_Court_22B_Delinquency_Ledger.md",
+   "public": false
+  },
+  {
+   "title": "Resident Ledger and Delinquency Notes — 22 Alder Court, Unit B (Lindqvist)",
+   "location": "Ledger: September – October 2026 to Returned Payment History",
+   "text": "Ledger: September – October 2026\n| Date | Description | Charge | Payment | Balance |\n|---|---|---|---|---|\n| Sep 1, 2026 | September rent | $1,450.00 | | $1,450.00 |\n| Sep 4, 2026 | Late fee (initial) | $75.00 | | $1,525.00 |\n| Sep 8, 2026 | Daily late fees, Sep 5 – Sep 8 (4 days × $10) | $40.00 | | $1,565.00 |\n| Sep 8, 2026 | Payment — ACH | | $1,565.00 | $0.00 |\n| Oct 1, 2026 | October rent | $1,450.00 | | $1,450.00 |\n| Oct 4, 2026 | Late fee (initial) | $75.00 | | $1,525.00 |\n| Oct 6, 2026 | Payment — ACH | | $1,450.00 | $75.00 |\n| Oct 9, 2026 | Payment returned (NSF) — reverses Oct 6 payment | $1,450.00 | | $1,525.00 |\n| Oct 9, 2026 | Returned payment (NSF) fee | $35.00 | | $1,560.00 |\n| Oct 14, 2026 | Daily late fees, Oct 5 – Oct 14 (10 days × $10; $175 monthly cap reached) | $100.00 | | $1,660.00 |\n**Balance due as of October 17, 2026: $1,660.00** ($1,450 October rent + $175 late fees + $35 NSF fee). No further October late fees can be charged because the monthly cap has been reached.\nA returned payment is treated as never received, so the October daily late fees run from the 5th.\n\nReturned Payment History\n- First returned payment: May 5, 2026 (May rent, $1,450, NSF). Repaid by money order May 8.\n- Second returned payment: October 9, 2026.\nBecause this is the second returned payment within 12 months, Corey must pay by certified funds or money order for the rest of the lease (through February 28, 2027). Online ACH and card payments were blocked on his Resident Portal account on October 9.",
+   "id": "property-management:Alder_Court_22B_Delinquency_Ledger:1",
+   "filename": "Alder_Court_22B_Delinquency_Ledger.md",
+   "public": false
+  },
+  {
+   "title": "Resident Ledger and Delinquency Notes — 22 Alder Court, Unit B (Lindqvist)",
+   "location": "Collections Notes",
+   "text": "- Monday, October 12, 2026: Kayla sent the past-due notice through the Resident Portal and by email, and left a voicemail.\n- Wednesday, October 14, 2026: Corey called. He had a reduction in work hours and proposed paying the balance in two installments.\n- Proposed payment plan (sent to the owner for approval October 15): $830 by money order on Friday, October 23, 2026 and $830 on Friday, November 6, 2026, totaling $1,660. November rent of $1,450 is still due November 1 and is not part of the plan.\n- Owner instruction (Gretchen Halvorsen, October 15): approve the plan; hold any eviction referral until October 31, 2026. If the October 23 installment is missed, Kayla will ask Gretchen whether to refer the file to the eviction attorney (eviction coordination fee $300 plus attorney and court costs, charged to the owner).\n- Larkspur staff must not give Corey legal advice about the eviction process; refer questions to the owner's attorney or local legal aid.",
+   "id": "property-management:Alder_Court_22B_Delinquency_Ledger:2",
+   "filename": "Alder_Court_22B_Delinquency_Ledger.md",
+   "public": false
+  },
+  {
+   "title": "Larkspur Property Management — Owner File: Gretchen Halvorsen",
+   "location": "Overview to 418 Juniper Ridge Drive — Property Details",
+   "text": "Overview\nFictional sample document for demonstration purposes. Owner profile exported from AppFolio with property manager notes. Property manager: Kayla Brennan. Maintenance coordinator: Omar Haddad. Leasing Manager: Tessa Morrow. Last updated October 16, 2026.\n\nOwner Contact and Preferences\n- Owner: Gretchen Halvorsen. Prefers email for approvals; call her cell only for emergencies or anything affecting habitability.\n- Owner since: Management agreement signed February 2, 2024 (initial 12-month term ended February 1, 2025; now month-to-month with 30 days' notice).\n- Portfolio: 2 doors, so the standard 8% management fee applies (not the 5+ door rate).\n- **Custom repair approval limit: $350.** Gretchen's signed agreement lowers the standard $500 no-approval limit to $350 for both of her properties. Any repair over $350 needs her approval by email or Owner Portal, except emergencies.\n- Gretchen wants two bids on any job over $1,500 (stricter than the standard $2,500 two-bid rule).\n- Operating reserve: $300 per property held in trust ($600 total).\n\nProperties\n| Property | Type | Beds/Baths | Sq ft | Current resident | Monthly rent |\n|---|---|---|---|---|---|\n| 418 Juniper Ridge Drive | Single-family home | 3 bd / 2 ba | 1,640 | Andre and Sofia Whitaker | $2,150 |\n| 22 Alder Court, Unit B | Condo | 2 bd / 1 ba | 960 | Corey Lindqvist | $1,450 |\n\n418 Juniper Ridge Drive — Property Details\n- Built 1998. Roof replaced 2011 (asphalt shingle). HVAC (3-ton split system) installed 2014; compressor replaced July 2026. Water heater (50-gallon gas) installed 2017.\n- Home warranty: none. Gretchen let the warranty lapse in 2025 and prefers Larkspur's vendors.\n- Owner's landlord insurance: Cascade Mutual, policy DP-5521873, deductible $1,000.\n- Resident pays electric, gas, water, and lawn care. Owner pays property taxes and insurance directly.",
+   "id": "property-management:Halvorsen_Owner_File:0",
+   "filename": "Halvorsen_Owner_File.md",
+   "public": false
+  },
+  {
+   "title": "Larkspur Property Management — Owner File: Gretchen Halvorsen",
+   "location": "22 Alder Court, Unit B — Property Details to Manager Notes",
+   "text": "22 Alder Court, Unit B — Property Details\n- Built 2006. HOA: Alder Court Owners Association, dues $315 per month, paid by Larkspur from rent and shown on the owner statement. HOA covers roof, exterior, and landscaping.\n- Water heater (40-gallon electric) installed 2019. Appliances replaced 2022.\n- Resident pays electric and internet. Water and trash are included in the HOA dues.\n\nSeptember 2026 Owner Statement — 418 Juniper Ridge Drive\n| Line | Amount |\n|---|---|\n| Rent collected | $2,150.00 |\n| Pet rent collected | $35.00 |\n| Total collected | $2,185.00 |\n| Management fee (8% of rent and pet rent collected) | −$174.80 |\n| WO-26-1187 kitchen faucet cartridge (in-house tech) | −$185.00 |\n| Net distribution | $1,825.20 |\nThe distribution was sent by ACH on Monday, September 14, 2026, because the 12th fell on a Saturday.\n\nManager Notes\n- October 16, 2026 (Kayla): Roof leak bids for Juniper are waiting on Gretchen's approval; see the work order history. Corey Lindqvist at Alder Court is behind on October rent after a returned payment; see the delinquency ledger. Gretchen asked to hold any eviction referral until October 31 while a payment plan is tried.",
+   "id": "property-management:Halvorsen_Owner_File:1",
+   "filename": "Halvorsen_Owner_File.md",
+   "public": false
+  },
+  {
+   "title": "Lease Summary — 418 Juniper Ridge Drive (Whitaker)",
+   "location": "Overview to Responsibilities",
+   "text": "Overview\nFictional sample document for demonstration purposes. Abstract of the signed residential lease and renewal for an owner property managed by Larkspur Property Management. Owner: Gretchen Halvorsen. Property manager: Kayla Brennan. The signed lease controls if anything here differs.\n\nParties and Term\n- Residents: Andre Whitaker and Sofia Whitaker (both adults on the lease). Occupants: their two children.\n- Original lease: August 1, 2025 – July 31, 2026, at $2,075 per month.\n- Renewal: signed June 19, 2026 for August 1, 2026 – July 31, 2027, at $2,150 per month (a $75 increase, 3.6%). Larkspur charged the owner the $250 lease renewal fee on the July statement.\n- Renewal offer for the next term must go out by May 1, 2027 (at least 90 days before the lease ends), per Gretchen's instructions.\n\nMoney\n| Item | Amount |\n|---|---|\n| Monthly rent (from August 1, 2026) | $2,150 |\n| Monthly pet rent (1 dog) | $35 |\n| Total monthly charges | $2,185 |\n| Security deposit (held in Larkspur trust account) | $2,075 |\n| Pet fee (one-time, non-refundable, paid August 2025) | $300 |\nThe security deposit was not increased at renewal. Rent is due on the 1st; late fees follow the Resident Handbook.\n\nPets\nOne dog: \"Biscuit,\" a 45-pound Labrador mix, approved July 2025. No other pets are authorized. A second pet requires a new pet application and an additional $300 pet fee and $35 per month pet rent.\n\nResponsibilities\n- Residents pay electric, gas, and water, and maintain the lawn and yard (mowing, watering, leaf removal).\n- Residents replace HVAC filters every 90 days using the filters Larkspur ships quarterly.\n- Owner is responsible for the roof, HVAC, water heater, plumbing, electrical, and appliances supplied with the home (refrigerator, range, dishwasher, garbage disposal). The washer and dryer belong to the residents.",
+   "id": "property-management:Juniper_Ridge_418_Lease_Summary:0",
+   "filename": "Juniper_Ridge_418_Lease_Summary.md",
+   "public": false
+  },
+  {
+   "title": "Lease Summary — 418 Juniper Ridge Drive (Whitaker)",
+   "location": "Special Terms",
+   "text": "- Residents may install a fenced garden bed in the back yard but must remove it at move-out if the owner asks.\n- No smoking anywhere inside the home or garage.\n- Parking: two vehicles in the driveway and garage. No boats or trailers.\n- Early termination: the standard Early Termination Option applies (60 days' written notice plus a fee equal to one month's rent).",
+   "id": "property-management:Juniper_Ridge_418_Lease_Summary:1",
+   "filename": "Juniper_Ridge_418_Lease_Summary.md",
+   "public": false
+  },
+  {
+   "title": "Work Order History — 418 Juniper Ridge Drive (2026)",
+   "location": "Overview to Work Order Log",
+   "text": "Overview\nFictional sample document for demonstration purposes. Export of 2026 work orders from AppFolio with coordinator notes. Owner: Gretchen Halvorsen (approval limit $350; two bids over $1,500). Residents: Andre and Sofia Whitaker. Maintenance coordinator: Omar Haddad. Run date: October 16, 2026.\n\nWork Order Log\n| WO no. | Opened | Issue | Priority | Vendor | Cost | Status |\n|---|---|---|---|---|---|---|\n| WO-26-0214 | Feb 9, 2026 | Garbage disposal jammed and leaking | P3 Routine | Larkspur in-house tech | $410.00 (new disposal installed) | Completed Feb 12; owner approved by email Feb 10 |\n| WO-26-0533 | Apr 14, 2026 | Annual A/C service | Scheduled | Polar Air Heating & Cooling | $129.00 | Completed Apr 20 |\n| WO-26-0902 | Jul 18, 2026 | No A/C, outside temperature 101°F | P1 Emergency | Polar Air Heating & Cooling | $2,860.00 (compressor replacement) | Completed Jul 19 |\n| WO-26-1187 | Sep 2, 2026 | Kitchen faucet dripping | P3 Routine | Larkspur in-house tech | $185.00 | Completed Sep 3 |\n| WO-26-1342 | Oct 5, 2026 | Water stain on primary bedroom ceiling after rain; active drip | P2 Urgent | See roof bids below | Pending | Awaiting owner approval |\nTotal 2026 completed repair spending: $3,584.00 ($410 + $129 + $2,860 + $185).",
+   "id": "property-management:Juniper_Ridge_418_Work_Order_History:0",
+   "filename": "Juniper_Ridge_418_Work_Order_History.md",
+   "public": false
+  },
+  {
+   "title": "Work Order History — 418 Juniper Ridge Drive (2026)",
+   "location": "WO-26-0902 — Emergency A/C Failure (July 2026) to WO-26-1342 — Roof Leak (Open)",
+   "text": "WO-26-0902 — Emergency A/C Failure (July 2026)\nAndre Whitaker called the 24/7 line at 2:10 p.m. on Saturday, July 18, 2026. Polar Air was on site at 4:35 p.m., within the 4-hour P1 standard, and found a failed compressor. A replacement could not be installed the same day, so Omar delivered two portable A/C units at 7:15 p.m. The compressor was replaced on Sunday, July 19, and cooling was restored by 3:00 p.m., under 24 hours after the call, so no hotel stipend was owed. Because this was an emergency affecting habitability, Larkspur approved the $2,860 repair without waiting for the owner, and Kayla Brennan emailed Gretchen Halvorsen at 8:00 a.m. on July 19, within 24 hours. The old compressor was under no warranty (system installed 2014).\n\nWO-26-1342 — Roof Leak (Open)\nThe in-house tech placed a bucket and tarped the damaged area on October 5 to stop the drip (mitigation, $95, to be billed with the final repair). He found missing and lifted shingles over the primary bedroom. Bids:\n| Roofer | Bid | Scope | Certificate of insurance |\n|---|---|---|---|\n| Summit Roofing Co. | $3,400 | Replace damaged decking and shingles over primary bedroom, new flashing at vent | Current through March 31, 2027 |\n| Arrowhead Roofing | $3,950 | Same scope plus ridge vent | **Expired September 30, 2026 — vendor suspended in AppFolio** |\nBecause Arrowhead is suspended, its bid cannot be used as one of the two required bids. Omar requested a third bid from Crestline Roofing; it is due Tuesday, October 20, 2026. Kayla emailed both bids to Gretchen on Thursday, October 8 and has not heard back as of October 16. Gretchen also asked whether the leak could be an insurance claim; her landlord policy deductible is $1,000, and Kayla told her Larkspur does not decide coverage and she should contact her insurer.",
+   "id": "property-management:Juniper_Ridge_418_Work_Order_History:1",
+   "filename": "Juniper_Ridge_418_Work_Order_History.md",
+   "public": false
+  },
+  {
+   "title": "Work Order History — 418 Juniper Ridge Drive (2026)",
+   "location": "Coordinator Notes",
+   "text": "- After the July compressor replacement, Polar Air recommended budgeting for a full HVAC system replacement within 3 years (estimate $8,500 – $10,500).\n- Resident follow-up call on WO-26-0902 (July 21): Andre confirmed the A/C is working well.",
+   "id": "property-management:Juniper_Ridge_418_Work_Order_History:2",
+   "filename": "Juniper_Ridge_418_Work_Order_History.md",
+   "public": false
+  },
+  {
    "title": "Larkspur Property Management — Owner Management Agreement Summary",
    "location": "Overview to 3. Repair Approval Limits",
    "text": "Overview\nFictional sample document for demonstration purposes. Plain-language summary of the standard Owner Management Agreement, 2026 edition. The signed agreement controls if anything here differs.\n\n1. Management Fees\n| Service | Fee |\n|---|---|\n| Monthly management fee (single-family and condos) | 8% of rent collected |\n| Monthly management fee (portfolios of 5+ doors) | 7% of rent collected |\n| Leasing fee (new resident placement) | 50% of one month's rent |\n| Lease renewal fee | $250 |\n| Setup fee (new property onboarding) | $199, one time |\n| Eviction coordination | $300 plus attorney and court costs |\nNo management fee is charged on months when the property is vacant.\n\n2. Owner Statements and Payouts\n- Owner statements are published in the Owner Portal on the 10th of each month.\n- Owner distributions are sent by ACH on the 12th of each month (or the next business day).\n- Larkspur holds an operating reserve of $300 per property in the trust account to cover routine repairs.\n\n3. Repair Approval Limits\n- Larkspur may approve any single repair up to $500 without contacting the owner.\n- Repairs between $500 and $2,500 require owner approval by email or Owner Portal. If the owner does not respond within 48 hours, Larkspur will call the owner once more before proceeding only if the repair affects habitability.\n- Repairs over $2,500 require two written bids and owner approval, except emergencies.\n- Emergencies that threaten health, safety, or the property (for example, a burst pipe or an A/C failure during summer) may be handled immediately regardless of cost, with the owner notified within 24 hours.",
@@ -2316,6 +2396,62 @@
   }
  ],
  "accounting": [
+  {
+   "title": "Pell & Arden CPAs — Client Engagement File: Brightwater Plumbing & Drain, Inc. and Dale & Monica Ferraro",
+   "location": "Overview to 2026 Engagement (Tax Year 2025)",
+   "text": "Overview\nFictional sample document for demonstration purposes. Client profile and engagement summary from the practice management system. Engagement partner: Margaret Arden. Manager: Jonah Kwiatkowski. Preparer: Lucia Benitez. Last updated October 16, 2026.\n\nClient Group\n| Client | Type | Returns we prepare | Client since |\n|---|---|---|---|\n| Brightwater Plumbing & Drain, Inc. | S corporation (S election effective January 1, 2019), calendar year | Form 1120-S, one state return | 2019 |\n| Dale and Monica Ferraro | Married filing jointly | Form 1040 with Schedule E (one rental), one additional state return for the rental, FBAR | 2019 |\n- Ownership of Brightwater: Dale Ferraro 50%, Monica Ferraro 50%.\n- Dale is President and runs the field crews (9 employees). Monica is Secretary/Treasurer and handles the books, payroll, and billing.\n- Rental property: 2210 Birch Hollow Road, a single-family rental in a neighboring state, owned jointly by Dale and Monica (not by the company).\n- Monica has a foreign bank account in Canada (inherited from her mother in 2023), so FBAR reporting is required every year.\n\n2026 Engagement (Tax Year 2025)\nEngagement letter signed in SafeSend on January 12, 2026. Returning client in good standing, so no deposit was required.\n| Service | Fee |\n|---|---|\n| Brightwater Form 1120-S | $1,950 |\n| Ferraro Form 1040 (base) | $450 |\n| Schedule E rental (1 property) | $175 |\n| Additional state return (rental state) | $225 |\n| FBAR (added by written scope change February 20, 2026) | $150 |\n| Total tax preparation | $2,950 |\n| Monthly bookkeeping for Brightwater (up to 150 transactions) | $650 per month ($7,800 per year) |\nAll 2026 tax invoices were paid in full on October 8, 2026, before the returns were released for e-filing.",
+   "id": "accounting:Brightwater_Plumbing_Engagement_File:0",
+   "filename": "Brightwater_Plumbing_Engagement_File.md",
+   "public": false
+  },
+  {
+   "title": "Pell & Arden CPAs — Client Engagement File: Brightwater Plumbing & Drain, Inc. and Dale & Monica Ferraro",
+   "location": "Filing Status (Tax Year 2025) to Key Contacts",
+   "text": "Filing Status (Tax Year 2025)\n| Return | Original due date | Extended due date | Filed | Notes |\n|---|---|---|---|---|\n| Brightwater 1120-S | March 16, 2026 | September 15, 2026 | Monday, September 14, 2026 | Extended because Monica's year-end books were late |\n| Ferraro 1040 and FBAR | April 15, 2026 | October 15, 2026 | Friday, October 9, 2026 | Form 8879 received in SafeSend October 8 |\nExtension payment of $18,000 was made April 15, 2026. The balance due of $2,315 was paid with the return on October 9.\n\nReview Requirements\nThe Ferraro 1040 requires a second, partner-level review by Margaret Arden every year because of the foreign account (FBAR) reporting. Brightwater is not a first-year S corporation, so its return gets the standard one-CPA review unless another trigger applies.\n\nOpen Items\n- IRS notice CP2000 for the Ferraros' 2024 return, received October 1, 2026. Response is due October 28, 2026. See the CP2000 notice file.\n- Dale's 2025 mileage log was reconstructed at tax time and flagged in review. Jonah sent Dale a mileage app recommendation on October 12, 2026 for 2026 tracking.\n- 2026 estimated tax: fourth-quarter payment of $9,500 due January 15, 2027.\n\nKey Contacts\n- Monica Ferraro, Secretary/Treasurer — primary contact for all documents and bookkeeping questions. Uploads through SmartVault.\n- Dale Ferraro — signs the 1120-S as President.",
+   "id": "accounting:Brightwater_Plumbing_Engagement_File:1",
+   "filename": "Brightwater_Plumbing_Engagement_File.md",
+   "public": false
+  },
+  {
+   "title": "Tax Year 2025 Return Review Notes — Brightwater Plumbing & Drain, Inc. and Dale & Monica Ferraro",
+   "location": "Overview to Brightwater Plumbing & Drain, Inc. (Form 1120-S)",
+   "text": "Overview\nFictional sample document for demonstration purposes. Preparer and reviewer notes saved with the 2025 returns. Prepared by Lucia Benitez; reviewed by Jonah Kwiatkowski; partner review by Margaret Arden on October 7, 2026. Use these notes when preparing the 2026 returns.\n\nBrightwater Plumbing & Drain, Inc. (Form 1120-S)\n| Item | 2025 | 2024 |\n|---|---|---|\n| Gross receipts | $1,284,600 | $1,152,300 |\n| Officer wages — Dale Ferraro | $96,000 | $90,000 |\n| Officer wages — Monica Ferraro | $48,000 | $45,000 |\n| Ordinary business income (page 1) | $186,420 | $171,880 |\n| Shareholder distributions (total) | $150,000 | $130,000 |\n| Each shareholder's K-1 ordinary income (50%) | $93,210 | $85,940 |\n- Officer wages were reviewed against the reasonable-compensation study in the file. Margaret's note: wages are reasonable for 2025; revisit if ordinary income exceeds $225,000 in 2026.\n- Distributions were made equally to both shareholders ($75,000 each), so there is no disproportionate distribution issue.\n- New equipment: a 2025 service van purchased June 2, 2025 for $58,400, depreciated in full under bonus depreciation. If the van is sold early, expect depreciation recapture.\n- Shareholder basis worksheets are updated and saved in the file. Both shareholders had positive stock basis at year end, so all distributions were tax-free return of basis.",
+   "id": "accounting:Ferraro_2025_Return_Review_Notes:0",
+   "filename": "Ferraro_2025_Return_Review_Notes.md",
+   "public": false
+  },
+  {
+   "title": "Tax Year 2025 Return Review Notes — Brightwater Plumbing & Drain, Inc. and Dale & Monica Ferraro",
+   "location": "Dale & Monica Ferraro (Form 1040) to Reviewer Flags for 2026",
+   "text": "Dale & Monica Ferraro (Form 1040)\n| Item | 2025 |\n|---|---|\n| W-2 wages (Dale $96,000 + Monica $48,000) | $144,000 |\n| K-1 ordinary income from Brightwater (2 × $93,210) | $186,420 |\n| Rental net loss, 2210 Birch Hollow Road | ($2,140), suspended as a passive loss |\n| Interest income | $1,085 |\n- Rental: the 2025 rental loss of $2,140 is suspended because the Ferraros' income is too high to deduct it. The suspended passive loss carryforward to 2026 is $6,880 (prior carryforward $4,740 + 2025 loss $2,140). It will be released when the property is sold.\n- FBAR: Monica's Canadian account had a highest balance during 2025 of $14,300 (converted to U.S. dollars), over the $10,000 reporting threshold. FBAR filed October 9, 2026 with the return.\n- Charitable gifts: $3,600 total, including one gift of $1,200 to Riverbend Food Bank with written acknowledgment in the file.\n- Estimated tax for 2026 was set at $9,500 per quarter ($38,000 total), based on 2025 tax. Payments made: April 15, June 15, and September 15, 2026. Fourth payment due January 15, 2027.\n\nReviewer Flags for 2026\n1. Mileage: Dale's 2025 log for his personal truck was reconstructed at tax time (11,240 business miles claimed). Reviewer flagged it; the deduction was kept but the client was warned in writing that 2026 needs a contemporaneous log.\n2. 1099 issuance: Brightwater paid two subcontractors over $600 in 2025 and issued 1099-NECs on time. Confirm W-9s are on file for any new subcontractors in 2026.\n3. Lucia missed the 2024 Form 1099-INT from Harbor Point Bank ($312) last year; see the CP2000 file. For 2026, Lucia will reconcile every document in SmartVault against the return before review.",
+   "id": "accounting:Ferraro_2025_Return_Review_Notes:1",
+   "filename": "Ferraro_2025_Return_Review_Notes.md",
+   "public": false
+  },
+  {
+   "title": "IRS Notice File — CP2000 for Dale & Monica Ferraro, Tax Year 2024",
+   "location": "Overview to What the IRS Proposes",
+   "text": "Overview\nFictional sample document for demonstration purposes. Notice summary and response plan. Client: Dale and Monica Ferraro (Form 1040, married filing jointly). Responsible: Jonah Kwiatkowski (manager); approved by Margaret Arden (partner). Last updated October 16, 2026.\n\nThe Notice\n- Notice type: CP2000, Proposed changes to your 2024 Form 1040 (an automated underreporter notice comparing the return to information returns; it is not an audit and not a bill).\n- Notice date: Monday, September 28, 2026. Client received it Thursday, October 1, 2026 and uploaded it to SmartVault on Friday, October 2, 2026 (within the firm's 5-day standard).\n- **Response due date: Wednesday, October 28, 2026.** Internal target: mail and fax the response by Friday, October 23, 2026.\n\nWhat the IRS Proposes\n| Item not on the return | Payer | Amount |\n|---|---|---|\n| Form 1099-NEC nonemployee compensation, issued to Monica Ferraro | Lakeside Property Group | $4,200 |\n| Form 1099-INT interest | Harbor Point Bank | $312 |\n| Proposed change | Amount |\n|---|---|\n| Additional tax (income tax and self-employment tax) | $1,605 |\n| Accuracy-related penalty (20% of $1,605) | $321 |\n| Interest through the notice date | $118 |\n| Total proposed amount due | $2,044 |",
+   "id": "accounting:Ferraro_IRS_CP2000_Notice_File:0",
+   "filename": "Ferraro_IRS_CP2000_Notice_File.md",
+   "public": false
+  },
+  {
+   "title": "IRS Notice File — CP2000 for Dale & Monica Ferraro, Tax Year 2024",
+   "location": "Our Analysis to Response Plan",
+   "text": "Our Analysis\n1. **$4,200 from Lakeside Property Group — disagree.** The payment was for drain work Brightwater Plumbing & Drain, Inc. performed (invoice BW-24-0917, paid November 14, 2024). It was deposited into Brightwater's business account and is included in Brightwater's 2024 gross receipts on its 1120-S. Lakeside issued the 1099-NEC under Monica's Social Security number instead of the company's EIN by mistake. Jonah asked Lakeside for a corrected 1099 on October 7, 2026; if it does not arrive before the response is sent, we will include the invoice, the bank deposit record, and the 1120-S page showing gross receipts.\n2. **$312 from Harbor Point Bank — agree.** The 1099-INT was uploaded to SmartVault on March 3, 2025 but was missed in preparation. This is a firm error. The tax on $312 at the Ferraros' 24% bracket is about $75. Without the $4,200 item, the remaining understatement is too small for the accuracy-related penalty, so we expect the IRS to drop the $321 penalty and recompute interest on the $75 only.\n\nResponse Plan\n- Check the \"I do not agree with some or all of the changes\" box on the response form, sign as authorized under Form 2848 (on file, covers 2022–2026), and attach a cover letter, the supporting documents, and the agreed $312 item.\n- Do not pay the $2,044 proposed amount. The Ferraros may pay the corrected tax on the $312 (about $75) when the IRS issues its revised notice.\n- If the response cannot be completed by October 28, call the number on the notice to request more time before the due date.",
+   "id": "accounting:Ferraro_IRS_CP2000_Notice_File:1",
+   "filename": "Ferraro_IRS_CP2000_Notice_File.md",
+   "public": false
+  },
+  {
+   "title": "IRS Notice File — CP2000 for Dale & Monica Ferraro, Tax Year 2024",
+   "location": "Billing to Client Communication",
+   "text": "Billing\nBecause the notice resulted partly from a firm error (the missed 1099-INT), Margaret Arden decided on October 5, 2026 that there is no charge for this notice response (normally $350). Pell & Arden will also reimburse the Ferraros for any interest the IRS charges on the $312 item.\n\nClient Communication\nMonica Ferraro was told by phone and secure portal message on October 5 that the firm will handle the response, that most of the proposed change is an error by Lakeside, and that the firm missed the $312 interest form and will cover the related cost. She agreed to the plan.",
+   "id": "accounting:Ferraro_IRS_CP2000_Notice_File:2",
+   "filename": "Ferraro_IRS_CP2000_Notice_File.md",
+   "public": false
+  },
   {
    "title": "Pell & Arden CPAs — Engagement & Fee Guide",
    "location": "Overview to 3. Engagement Letters",
@@ -4749,9 +4885,137 @@
    "id": "real-estate:CFPB_Your_Home_Loan_Toolkit_2026:40",
    "filename": "CFPB_Your_Home_Loan_Toolkit_2026.pdf",
    "public": true
+  },
+  {
+   "title": "Activity Log — 1127 Sycamore Bend Lane (Obi Purchase)",
+   "location": "Overview to September 2026",
+   "text": "Overview\nFictional sample document for demonstration purposes. Communication and activity log from the transaction management system. Buyer's agent: Leah Vance. Transaction coordinator: Bianca Sorensen. Buyers: Nathaniel and Grace Obi.\n\nSeptember 2026\n- Sat, Sep 12 — First meeting with the Obis. Leah had them sign the buyer representation agreement (flat $11,500 compensation) before touring any home, as Bellwether policy requires; agents may not show a buyer any home until the agreement is signed.\n- Sat, Sep 26 — Second showing of 1127 Sycamore Bend Lane. Grace asked about the age of the roof; listing disclosures show it was replaced in 2009.\n- Mon, Sep 28 — Offer submitted at $485,000 with $7,500 earnest money.\n- Tue, Sep 29 — Sellers accepted. Bianca sent the signed contract to the buyers, Teresa Yuen at Maple Federal Credit Union, and Will Hartman at Keystone Title the same day.\n- Wed, Sep 30 — Bianca booked the inspection with sewer scope and roof add-ons for October 2.",
+   "id": "real-estate:Sycamore_Bend_1127_Activity_Log:0",
+   "filename": "Sycamore_Bend_1127_Activity_Log.md",
+   "public": false
+  },
+  {
+   "title": "Activity Log — 1127 Sycamore Bend Lane (Obi Purchase)",
+   "location": "October 2026",
+   "text": "- Thu, Oct 1 — Nathaniel delivered the earnest money check to Keystone Title. Receipt uploaded.\n- Fri, Oct 2 — Inspection completed. Inspector flagged the sewer line, water heater, GFCI outlets, shingles, and a missing smoke detector.\n- Mon, Oct 5 — Rapid Rooter Plumbing quote for the sewer line: $4,800 (obtained by the sellers' agent, Craig Dunmore).\n- Wed, Oct 7 — Leah sent the written repair request to Craig.\n- Fri, Oct 9 — Sellers responded at 1:30 p.m.; Amendment #1 signed by all parties by 6:45 p.m., before the 11:59 p.m. inspection deadline.\n- Mon, Oct 12 — Lender confirmed the total seller credits ($5,500) are allowed.\n- Tue, Oct 13 — Homeowners insurance bound with Northgate Insurance Agency, effective October 30; evidence of insurance sent to Teresa.\n- Wed, Oct 14 — Appraisal received at $478,000.\n- Thu, Oct 15 — Leah's call with the Obis about the $7,000 appraisal gap. The Obis chose to offer splitting the gap. Leah notified Managing Broker Renee Castellano because the gap could have cancelled the contract.\n- Fri, Oct 16 — Amendment #2 signed: price $481,500, buyers pay $3,500 above appraisal in cash, appraisal contingency waived. Bianca texted Grace for her latest pay stub (needed for final loan approval by October 23).",
+   "id": "real-estate:Sycamore_Bend_1127_Activity_Log:1",
+   "filename": "Sycamore_Bend_1127_Activity_Log.md",
+   "public": false
+  },
+  {
+   "title": "Activity Log — 1127 Sycamore Bend Lane (Obi Purchase)",
+   "location": "Notes for the Agent",
+   "text": "- Grace starts a new role at her same employer on November 2, 2026. Teresa said this is fine because it is after closing and the employer and pay are the same, but the Obis should not make other job changes or open new credit before closing.\n- The Obis want to schedule a sewer re-scope after the sellers' repair; Leah to ask Craig for access the week of October 26.\n- Closing gift: Leah plans a framed print of the house; deliver within 7 days after closing.",
+   "id": "real-estate:Sycamore_Bend_1127_Activity_Log:2",
+   "filename": "Sycamore_Bend_1127_Activity_Log.md",
+   "public": false
+  },
+  {
+   "title": "Contract Terms and Amendments — 1127 Sycamore Bend Lane",
+   "location": "Overview to Purchase Contract — Key Terms",
+   "text": "Overview\nFictional sample document for demonstration purposes. Abstract of the signed residential purchase contract (accepted September 29, 2026) and its amendments, prepared by transaction coordinator Bianca Sorensen for buyer's agent Leah Vance. Buyers: Nathaniel and Grace Obi. Sellers: Harold and June Pratt. The signed contract and amendments control if anything here differs.\n\nPurchase Contract — Key Terms\n- Price: $485,000 (later changed by Amendment #2). Earnest money: $7,500, held by Keystone Title & Escrow.\n- Financing contingency: conventional loan of 90% of the purchase price or appraised value, whichever is less. Final loan approval due by October 23, 2026.\n- Appraisal contingency: if the appraisal is below the price, the buyers may cancel with a refund of earnest money, or the parties may renegotiate, by written notice by October 20, 2026.\n- Inspection contingency: 10 days after acceptance (through October 9, 2026). The buyers may cancel or submit a written repair request.\n- Seller concessions: the sellers pay up to $4,000 of the buyers' closing costs and the buyer's agent compensation of $11,500.\n- Home warranty: sellers pay for a one-year home warranty up to $550, ordered by the buyers' agent.\n- Included items: refrigerator, range, dishwasher, microwave, garage door openers and remotes, window coverings, and the backyard shed. Excluded: the washer and dryer, and the dining room chandelier (sellers will replace it with a standard light fixture before closing).\n- Possession: at closing, upon funding.\n- Title insurance: owner's policy paid by sellers.",
+   "id": "real-estate:Sycamore_Bend_1127_Contract_Terms_and_Amendments:0",
+   "filename": "Sycamore_Bend_1127_Contract_Terms_and_Amendments.md",
+   "public": false
+  },
+  {
+   "title": "Contract Terms and Amendments — 1127 Sycamore Bend Lane",
+   "location": "Amendment #1 — Inspection Response (signed by all parties October 9, 2026) to Amendment #2 — Appraisal Gap (signed by all parties October 16, 2026)",
+   "text": "Amendment #1 — Inspection Response (signed by all parties October 9, 2026)\nInspection by Jordan Ames, ClearView Home Inspections, on Friday, October 2, 2026, with sewer scope and roof inspection add-ons (home built 1974; roof 17 years old). Leah attended the last 30 minutes.\n| Inspection item | Buyers' request (sent October 7) | Agreed resolution |\n|---|---|---|\n| Sewer scope: root intrusion and a sag (\"belly\") in the main line, about 40 feet from the house | Seller repairs | Sellers will hire a licensed plumber to repair the line (quote $4,800 from Rapid Rooter Plumbing) and provide receipts by October 27, 2026 |\n| Water heater installed 2009, at end of expected life | $1,200 credit | Included in $1,500 credit |\n| No GFCI outlets at kitchen counters | Seller repairs | Included in $1,500 credit; buyers will handle after closing |\n| 4 damaged shingles; roof otherwise serviceable | Seller repairs | Buyers accept as-is |\n| Missing smoke detector in basement bedroom | Seller installs | Sellers will install before walkthrough |\nSeller credit for inspection items: $1,500 at closing, in addition to the $4,000 closing-cost credit. Total seller credits: $5,500. The lender confirmed on October 12 that total credits are within the loan program's limit.\n\nAmendment #2 — Appraisal Gap (signed by all parties October 16, 2026)\nThe appraisal (dated October 14, 2026) came in at $478,000, $7,000 below the $485,000 price. Leah called the Obis on October 15, within 24 hours of receiving the appraisal, and reviewed their options: renegotiate, pay the difference, or cancel under the appraisal contingency.\nAgreed terms:\n- Price reduced by $3,500, from $485,000 to $481,500.\n- The buyers pay the remaining $3,500 above the appraised value in cash at closing.\n- The buyers waive the appraisal contingency.\n- All other terms unchanged.\nThe loan amount is now $430,200 (90% of $478,000).",
+   "id": "real-estate:Sycamore_Bend_1127_Contract_Terms_and_Amendments:1",
+   "filename": "Sycamore_Bend_1127_Contract_Terms_and_Amendments.md",
+   "public": false
+  },
+  {
+   "title": "Transaction File — 1127 Sycamore Bend Lane (Obi Purchase)",
+   "location": "Overview to Price and Financing",
+   "text": "Overview\nFictional sample document for demonstration purposes. Live buyer-side transaction summary from the transaction management system. Buyer's agent: Leah Vance (Bellwether Realty Group, Standard Plan). Transaction coordinator: Bianca Sorensen. Managing Broker: Renee Castellano. Last updated Friday, October 16, 2026.\n\nParties and Contacts\n| Role | Name | Company |\n|---|---|---|\n| Buyers (our clients) | Nathaniel and Grace Obi | — |\n| Sellers | Harold and June Pratt | — |\n| Listing agent | Craig Dunmore | Summit Key Realty |\n| Lender / loan officer | Teresa Yuen | Maple Federal Credit Union |\n| Title and escrow officer | Will Hartman | Keystone Title & Escrow |\n| Home inspector | Jordan Ames | ClearView Home Inspections |\n\nProperty\n- 1127 Sycamore Bend Lane: single-family home, 4 bedrooms / 2.5 baths, 2,180 sq ft, built 1974. Roof is 17 years old. Not in a flood zone.\n- MLS listing price: $495,000.\n\nPrice and Financing\n| Item | Amount |\n|---|---|\n| Original contract price | $485,000 |\n| Appraised value (appraisal dated October 14, 2026) | $478,000 |\n| Price after Amendment #2 (signed October 16, 2026) | $481,500 |\n| Loan: conventional, 90% of appraised value | $430,200 |\n| Buyers' down payment ($481,500 − $430,200) | $51,300 |\n| Earnest money (credited toward the buyers' funds at closing) | $7,500 |\n| Seller credit toward buyers' closing costs (contract) | $4,000 |\n| Seller credit for inspection items (Amendment #1) | $1,500 |\nThe down payment is 10% of the appraised value ($47,800) plus the $3,500 the buyers agreed to pay above the appraised value ($481,500 − $478,000).",
+   "id": "real-estate:Sycamore_Bend_1127_Transaction_Summary:0",
+   "filename": "Sycamore_Bend_1127_Transaction_Summary.md",
+   "public": false
+  },
+  {
+   "title": "Transaction File — 1127 Sycamore Bend Lane (Obi Purchase)",
+   "location": "Key Dates to Compensation",
+   "text": "Key Dates\nContract accepted (Day 0): Tuesday, September 29, 2026.\n| Deadline | Date | Status |\n|---|---|---|\n| Earnest money to Keystone Title (3 business days) | Friday, October 2, 2026 | Done — delivered October 1 |\n| Inspection period ends (10 days, 11:59 p.m.) | Friday, October 9, 2026 | Done — Amendment #1 signed October 9 |\n| Appraisal contingency deadline | Tuesday, October 20, 2026 | Resolved by Amendment #2 |\n| Loan contingency (final loan approval) deadline | Friday, October 23, 2026 | Open — lender waiting on Grace's updated pay stub |\n| Seller's sewer repair receipts due | Tuesday, October 27, 2026 | Open |\n| Closing Disclosure must be received by buyers | Tuesday, October 27, 2026 | Open |\n| Final walkthrough | Thursday, October 29, 2026, 4:00 p.m. | Scheduled |\n| Closing and possession | Friday, October 30, 2026, 10:00 a.m. at Keystone Title | Scheduled |\n\nCompensation\n- Buyer representation agreement signed September 12, 2026: Leah's compensation is a flat $11,500. Under the contract, the sellers pay this at closing. Any amount the sellers do not pay would be owed by the buyers, but the sellers agreed to pay all of it.\n- Leah's split (Standard Plan, 75/25): $8,625 to Leah, $2,875 to Bellwether, less the $395 transaction fee charged to Leah.",
+   "id": "real-estate:Sycamore_Bend_1127_Transaction_Summary:1",
+   "filename": "Sycamore_Bend_1127_Transaction_Summary.md",
+   "public": false
+  },
+  {
+   "title": "Transaction File — 1127 Sycamore Bend Lane (Obi Purchase)",
+   "location": "Open Tasks (as of October 16)",
+   "text": "1. Teresa Yuen needs Grace Obi's most recent pay stub to issue final loan approval; Bianca reminded Grace by text on October 16.\n2. Homeowners insurance is bound with Northgate Insurance Agency (effective October 30); the evidence of insurance was sent to the lender October 13.\n3. Confirm sellers' plumber completes the sewer line repair and sends receipts by October 27.\n4. Remind the buyers of the wire fraud procedure: call Keystone Title at the number on the contract before wiring funds.",
+   "id": "real-estate:Sycamore_Bend_1127_Transaction_Summary:2",
+   "filename": "Sycamore_Bend_1127_Transaction_Summary.md",
+   "public": false
   }
  ],
  "insurance": [
+  {
+   "title": "Northgate Insurance Agency — Account Policy Schedule: Brookside Coffee Roasters LLC",
+   "location": "Overview to Policies in Force (term December 1, 2025 – December 1, 2026)",
+   "text": "Overview\nFictional sample document for demonstration purposes. Account summary from the agency management system. Producer: Ethan Saldana. Account CSR: Hannah Kowalski. Agency Principal: Marcus Bell. Last updated October 16, 2026.\n\nClient\n- Named insured: Brookside Coffee Roasters LLC. Owner and main contact: Natalie Brooks.\n- Business: small-batch coffee roaster with a retail café and wholesale sales to 40 local cafés and grocers. 14 employees (6 full-time).\n- Location: 340 Mill Street, Suite 2 (ground floor of a two-story building, leased). The upstairs tenant is Pemberton Yoga Studio.\n- Client since December 1, 2021.\n\nPolicies in Force (term December 1, 2025 – December 1, 2026)\n| Coverage | Carrier | Policy no. | Key limits | Deductible | Annual premium |\n|---|---|---|---|---|---|\n| Businessowners policy (BOP): property and general liability | Cascade Mutual | BOP-4471902 | Business personal property $350,000; business income actual loss sustained up to 12 months (72-hour waiting period); equipment breakdown included; general liability $1,000,000 per occurrence / $2,000,000 aggregate | $2,500 property | $6,840 |\n| Commercial auto (one delivery van) | Trailhead Casualty | CA-208815 | $1,000,000 combined single limit; uninsured/underinsured motorist $1,000,000; comprehensive and collision | $1,000 | $3,120 |\n| Workers' compensation | Pinecrest Workers' Comp | WC-77310 | Statutory benefits; employer's liability $500,000 / $500,000 / $500,000 | None | $4,210 |\n| Commercial umbrella | Cascade Mutual | UMB-4471903 | $2,000,000 over the BOP liability, auto, and employer's liability | $10,000 retention (applies only when no underlying coverage) | $1,450 |\n| **Total** | | | | | **$15,620** |",
+   "id": "insurance:Brookside_Coffee_Policy_Schedule:0",
+   "filename": "Brookside_Coffee_Policy_Schedule.md",
+   "public": false
+  },
+  {
+   "title": "Northgate Insurance Agency — Account Policy Schedule: Brookside Coffee Roasters LLC",
+   "location": "Important Account Notes to Open Items",
+   "text": "Important Account Notes\n- The umbrella is written by Cascade Mutual only because Cascade also writes the BOP. If the BOP moves to another carrier, the umbrella must be re-quoted.\n- Additional insured: the landlord, Mill Street Properties LLC, is an additional insured on the BOP general liability, as the lease requires. The certificate of insurance was last sent to the landlord on December 2, 2025.\n- Wholesale customers: certificates of insurance are on file for 6 grocers that require them.\n\nCoverage Offered and Declined (E&O documentation)\n| Date | Coverage offered | Client decision |\n|---|---|---|\n| November 10, 2025 | Employment practices liability (EPLI), $500,000 limit, quoted at $1,180 | Declined by Natalie Brooks; signed declination in file |\n| November 10, 2025 | Increase business personal property limit to $425,000 after new roaster purchase | Declined; Natalie said she would revisit at the 2026 renewal |\n| November 10, 2025 | Spoilage coverage for refrigerated dairy (café) | Accepted; added to the BOP by endorsement, $10,000 limit |\n\nOpen Items\n- Open property claim from the August 2026 water leak (claim CM-26-118204). See the claim file.\n- BOP renewal (December 1, 2026) is being remarketed because the renewal increase is over 15%. See the renewal remarket file.",
+   "id": "insurance:Brookside_Coffee_Policy_Schedule:1",
+   "filename": "Brookside_Coffee_Policy_Schedule.md",
+   "public": false
+  },
+  {
+   "title": "Renewal Remarket — Brookside Coffee Roasters LLC, December 1, 2026",
+   "location": "Overview to Why the BOP Is Being Remarketed",
+   "text": "Overview\nFictional sample document for demonstration purposes. Producer worksheet comparing renewal options. Insured: Brookside Coffee Roasters LLC (owner Natalie Brooks). Producer: Ethan Saldana. Account CSR: Hannah Kowalski. Last updated October 16, 2026.\n\nTimeline\n- Policies expire December 1, 2026 (Tuesday).\n- Commercial renewal review started Wednesday, September 2, 2026 (90 days before expiration).\n- Cascade Mutual BOP renewal quote received Friday, September 18, 2026.\n- Client review meeting: Wednesday, October 21, 2026, 2:00 p.m. at the café.\n- Written renewal summary must reach the client at least 30 days before expiration. Thirty days before December 1 is Sunday, November 1, so Ethan will send it by Friday, October 30, 2026.\n- Natalie's decision needed by Friday, November 13, 2026 so the new policies can be bound before December 1.\n\nWhy the BOP Is Being Remarketed\nCascade Mutual's BOP renewal premium is $8,140, up $1,300 (19.0%) from the expiring $6,840. Cascade cited the open water claim (CM-26-118204) and a general property rate increase. Because the increase is over 15%, the BOP was remarketed to other carriers.",
+   "id": "insurance:Brookside_Coffee_Renewal_Remarket:0",
+   "filename": "Brookside_Coffee_Renewal_Remarket.md",
+   "public": false
+  },
+  {
+   "title": "Renewal Remarket — Brookside Coffee Roasters LLC, December 1, 2026",
+   "location": "BOP Quotes to Other Lines at Renewal (no remarket needed)",
+   "text": "BOP Quotes\nAll quotes: business personal property $350,000 (the client may revisit the $425,000 increase she declined last year), business income up to 12 months with 72-hour waiting period, general liability $1,000,000 / $2,000,000, and the landlord as additional insured.\n| Carrier | Annual premium | Property deductible | Equipment breakdown | Notes |\n|---|---|---|---|---|\n| Cascade Mutual (renewal) | $8,140 | $2,500 | Included | Same terms as expiring; keeps the umbrella with Cascade |\n| Harborview Specialty | $7,310 | $5,000 | Included | Lowest premium, but double the deductible |\n| Summit Ridge Insurance | $7,595 | $2,500 | Not included; available by endorsement for $410 ($8,005 total) | Requires the umbrella to move to Summit Ridge |\n| Lakemont Insurance | Declined to quote | — | — | Declined because of the open water claim |\n\nUmbrella\nCascade Mutual will only keep the $2,000,000 umbrella if it also writes the BOP. Summit Ridge quoted a matching $2,000,000 umbrella for $1,520. Harborview does not write umbrellas, so choosing Harborview would leave the client without an umbrella unless one is placed elsewhere; Ethan is asking a fourth carrier for a standalone umbrella quote.\n\nOther Lines at Renewal (no remarket needed)\n| Coverage | Expiring | Renewal | Change |\n|---|---|---|---|\n| Commercial auto (Trailhead Casualty) | $3,120 | $3,300 | +5.8% |\n| Workers' compensation (Pinecrest) | $4,210 | $4,050 | −3.8% (lower payroll classification rate) |",
+   "id": "insurance:Brookside_Coffee_Renewal_Remarket:1",
+   "filename": "Brookside_Coffee_Renewal_Remarket.md",
+   "public": false
+  },
+  {
+   "title": "Renewal Remarket — Brookside Coffee Roasters LLC, December 1, 2026",
+   "location": "Ethan's Recommendation",
+   "text": "Move the BOP and umbrella to Summit Ridge Insurance, with the equipment breakdown endorsement, because the roasters and packaging line are critical to the business and the deductible stays at $2,500.\n| Line | Recommended option | Premium |\n|---|---|---|\n| BOP with equipment breakdown | Summit Ridge | $8,005 |\n| Umbrella | Summit Ridge | $1,520 |\n| Commercial auto | Trailhead Casualty (renew) | $3,300 |\n| Workers' compensation | Pinecrest (renew) | $4,050 |\n| **Total recommended program** | | **$16,875** |\nComparison: the expiring program was $15,620. Renewing everything as offered with Cascade would be $8,140 + $1,450 umbrella (Cascade's umbrella renewal quote is unchanged) + $3,300 + $4,050 = $16,940. The recommended program saves $65 compared with renewing as-is, keeps the $2,500 deductible, and keeps equipment breakdown coverage.\nIf Natalie chooses the lowest-cost option instead, Ethan must document in the file that she was told about the higher $5,000 deductible and the umbrella gap.",
+   "id": "insurance:Brookside_Coffee_Renewal_Remarket:2",
+   "filename": "Brookside_Coffee_Renewal_Remarket.md",
+   "public": false
+  },
+  {
+   "title": "Claim File — Brookside Coffee Roasters LLC, Water Damage, August 2026",
+   "location": "Overview to Reporting (FNOL)",
+   "text": "Overview\nFictional sample document for demonstration purposes. Agency claim file and follow-up log. Insured: Brookside Coffee Roasters LLC (owner Natalie Brooks). Carrier: Cascade Mutual, BOP policy BOP-4471902. Account CSR: Hannah Kowalski. Producer: Ethan Saldana. Last updated October 16, 2026.\n\nLoss Summary\n- Carrier claim number: CM-26-118204.\n- Date of loss: weekend of August 22–23, 2026. Discovered Monday, August 24, 2026 at about 7:40 a.m. when staff opened the shop.\n- Cause: a failed water supply line under a sink at Pemberton Yoga Studio, the upstairs tenant, leaked through the ceiling into Brookside's storage room and packaging area.\n- Damage: green (unroasted) coffee inventory soaked, and the bag-sealing packaging machine shorted out. The café was closed from August 24 through September 1 for drying and cleanup.\n\nReporting (FNOL)\n- Natalie called the agency at 8:05 a.m. on August 24. Hannah confirmed no one was hurt and that the building manager had shut off the water.\n- Because the estimated loss was over $25,000, Hannah reported the claim to Cascade Mutual the same day, at 9:20 a.m.\n- Adjuster: Rob Delgado, Cascade Mutual, (800) 555-0193. Claim number and adjuster details were emailed to Natalie at 10:02 a.m.\n- Natalie was told to photograph everything before cleanup, keep the damaged machine and a sample of the damaged inventory until the adjuster saw them, and save receipts for the drying company.",
+   "id": "insurance:Brookside_Coffee_Water_Claim_File:0",
+   "filename": "Brookside_Coffee_Water_Claim_File.md",
+   "public": false
+  },
+  {
+   "title": "Claim File — Brookside Coffee Roasters LLC, Water Damage, August 2026",
+   "location": "Amounts to Subrogation",
+   "text": "Amounts\n| Item | Claimed by insured | Adjuster's estimate (received Tuesday, October 6, 2026) |\n|---|---|---|\n| Green coffee inventory (2,340 lbs) | $18,700 | $18,700 |\n| Packaging machine | $12,500 (replace) | $10,750 (repair; manufacturer confirmed repairable) |\n| Business personal property total | $31,200 | $29,450 |\n| Less deductible | | −$2,500 |\n| **Property payment** | | **$26,950 — paid by check Tuesday, October 13, 2026** |\n| Business income (closed August 24 – September 1) | $7,400 | Under review |\nBusiness income: the adjuster noted the 72-hour waiting period applies, so the first 3 days of closure are not covered. He asked for monthly profit-and-loss statements for 2025 and January–August 2026. Natalie will send them by Friday, October 30, 2026.\nNatalie disagreed with repairing instead of replacing the packaging machine. Hannah explained the adjuster's reasoning and asked Rob Delgado to have his claim supervisor review the decision (request sent October 8). The agency does not decide coverage and did not tell Natalie the machine would be replaced.\n\nSubrogation\nCascade Mutual opened a subrogation file against Pemberton Yoga Studio's liability insurer. If Cascade recovers, Brookside may get some or all of its $2,500 deductible back. No timeline was given.",
+   "id": "insurance:Brookside_Coffee_Water_Claim_File:1",
+   "filename": "Brookside_Coffee_Water_Claim_File.md",
+   "public": false
+  },
+  {
+   "title": "Claim File — Brookside Coffee Roasters LLC, Water Damage, August 2026",
+   "location": "Follow-Up Log",
+   "text": "Claim size is $10,000 – $100,000, so the agency checks in every 7 days until the adjuster's estimate is received.\n| Date | By | Note |\n|---|---|---|\n| Thu, Aug 27 | Hannah | Adjuster inspected the site; Natalie attended. |\n| Mon, Aug 31 | Hannah | Check-in; drying company finished. |\n| Tue, Sep 8 | Hannah | Check-in (Monday, September 7 was Labor Day). Inventory invoices sent to adjuster. |\n| Mon, Sep 14 | Hannah | Check-in; adjuster waiting on machine repair quote. |\n| Mon, Sep 21 | Hannah | Check-in; repair quote received by adjuster. |\n| Mon, Sep 28 | Hannah | Check-in; estimate in supervisor review. |\n| Mon, Oct 5 | Hannah | Check-in; estimate expected this week. |\n| Tue, Oct 6 | Hannah | Estimate received. Next check-in at claim closing. |\nThis claim is open and is flagged on the December 1, 2026 BOP renewal.",
+   "id": "insurance:Brookside_Coffee_Water_Claim_File:2",
+   "filename": "Brookside_Coffee_Water_Claim_File.md",
+   "public": false
+  },
   {
    "title": "Northgate Insurance Agency — Claims Assistance Procedure",
    "location": "Overview to 4. Flood Claims",

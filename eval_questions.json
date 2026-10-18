@@ -152,7 +152,7 @@
         "75",
         "10"
       ],
-      "source": "Resident_Handbook"
+      "source": "Resident_Handbook|Delinquency_Ledger"
     },
     {
       "q": "Can a tenant with an emotional support animal be charged pet rent?",
@@ -191,6 +191,73 @@
     },
     {
       "q": "Do we allow short-term rentals like Airbnb?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    },
+    {
+      "q": "What's Gretchen Halvorsen's repair approval limit?",
+      "expect": [
+        "350"
+      ],
+      "source": "Halvorsen"
+    },
+    {
+      "q": "How much does Corey Lindqvist owe right now, and how did it get that high?",
+      "expect": [
+        "1,660",
+        "35"
+      ],
+      "source": "Alder_Court"
+    },
+    {
+      "q": "Can Corey Lindqvist still pay rent online?",
+      "expect": [
+        "certified funds|money order"
+      ],
+      "source": "Alder_Court"
+    },
+    {
+      "q": "What's the status of the roof leak at 418 Juniper Ridge, and can we use the Arrowhead bid?",
+      "expect": [
+        "3,400",
+        "expired|suspended"
+      ],
+      "source": "Work_Order"
+    },
+    {
+      "q": "What do the Whitakers pay each month in total, and how much deposit are we holding?",
+      "expect": [
+        "2,185",
+        "2,075"
+      ],
+      "source": "Lease"
+    },
+    {
+      "q": "Did we owe the Whitakers a hotel stipend during the July A/C outage?",
+      "expect": [
+        "24 hours"
+      ],
+      "source": "Work_Order"
+    },
+    {
+      "q": "What was the owner distribution for Juniper Ridge in September?",
+      "expect": [
+        "1,825.20"
+      ],
+      "source": "Halvorsen"
+    },
+    {
+      "q": "When are Corey's payment plan installments due?",
+      "expect": [
+        "October 23",
+        "November 6"
+      ],
+      "source": "Alder_Court"
+    },
+    {
+      "q": "When does the Alder Court HOA hold its annual meeting?",
       "expect": [
         "couldn't find"
       ],
@@ -246,6 +313,73 @@
         "couldn't find"
       ],
       "source": ""
+    },
+    {
+      "q": "When is the Ferraros' CP2000 response due, and what's our position?",
+      "expect": [
+        "October 28",
+        "disagree"
+      ],
+      "source": "CP2000"
+    },
+    {
+      "q": "Are we billing the Ferraros for the CP2000 response?",
+      "expect": [
+        "firm error|no charge"
+      ],
+      "source": "CP2000"
+    },
+    {
+      "q": "Who issued the $4,200 1099-NEC to Monica, and why don't we agree with it?",
+      "expect": [
+        "Lakeside",
+        "Brightwater|EIN"
+      ],
+      "source": "CP2000"
+    },
+    {
+      "q": "What's the suspended passive loss carryforward on the Birch Hollow rental?",
+      "expect": [
+        "6,880"
+      ],
+      "source": "Review_Notes"
+    },
+    {
+      "q": "Why does the Ferraro 1040 need a partner-level review?",
+      "expect": [
+        "FBAR|foreign"
+      ],
+      "source": "Engagement|Review_Notes"
+    },
+    {
+      "q": "What did we charge the Brightwater group for 2025 tax prep in total?",
+      "expect": [
+        "2,950"
+      ],
+      "source": "Engagement"
+    },
+    {
+      "q": "When is the Ferraros' next estimated tax payment and how much is it?",
+      "expect": [
+        "January 15, 2027",
+        "9,500"
+      ],
+      "source": "Engagement|Review_Notes"
+    },
+    {
+      "q": "What officer wages did Dale and Monica take from Brightwater in 2025?",
+      "expect": [
+        "96,000",
+        "48,000"
+      ],
+      "source": "Review_Notes"
+    },
+    {
+      "q": "Who is Brightwater's workers' comp carrier?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
     }
   ],
   "real-estate": [
@@ -261,7 +395,7 @@
       "expect": [
         "buyer representation agreement"
       ],
-      "source": "Agent_Policy"
+      "source": "Agent_Policy|Activity_Log"
     },
     {
       "q": "When does earnest money have to be delivered?",
@@ -293,6 +427,73 @@
     },
     {
       "q": "What's our policy on dual agency?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    },
+    {
+      "q": "When is the Obi closing, and when do they need the Closing Disclosure by?",
+      "expect": [
+        "October 30",
+        "October 27"
+      ],
+      "source": "Sycamore_Bend"
+    },
+    {
+      "q": "What did we agree to after the Sycamore Bend appraisal came in low?",
+      "expect": [
+        "481,500",
+        "3,500"
+      ],
+      "source": "Sycamore_Bend"
+    },
+    {
+      "q": "What's the loan amount and down payment on the Obi deal now?",
+      "expect": [
+        "430,200",
+        "51,300"
+      ],
+      "source": "Sycamore_Bend"
+    },
+    {
+      "q": "What inspection repairs are the sellers doing at 1127 Sycamore Bend?",
+      "expect": [
+        "sewer"
+      ],
+      "source": "Contract_Terms"
+    },
+    {
+      "q": "What's the total seller credit at closing for the Obis?",
+      "expect": [
+        "5,500"
+      ],
+      "source": "Sycamore_Bend"
+    },
+    {
+      "q": "What's holding up final loan approval for the Obis, and what's the deadline?",
+      "expect": [
+        "pay stub",
+        "October 23"
+      ],
+      "source": "Sycamore_Bend"
+    },
+    {
+      "q": "Do the washer and dryer convey at 1127 Sycamore Bend?",
+      "expect": [
+        "exclu"
+      ],
+      "source": "Contract_Terms"
+    },
+    {
+      "q": "How much does Leah earn on the Obi deal after the brokerage split?",
+      "expect": [
+        "8,625|8,230"
+      ],
+      "source": "Transaction_Summary"
+    },
+    {
+      "q": "What are the HOA dues at 1127 Sycamore Bend Lane?",
       "expect": [
         "couldn't find"
       ],
@@ -344,6 +545,72 @@
     },
     {
       "q": "What cyber liability carriers do we use?",
+      "expect": [
+        "couldn't find"
+      ],
+      "source": ""
+    },
+    {
+      "q": "What's Brookside Coffee's BOP property deductible and contents limit?",
+      "expect": [
+        "2,500",
+        "350,000"
+      ],
+      "source": "Policy_Schedule"
+    },
+    {
+      "q": "How much has Cascade paid on the Brookside water claim, and what's still open?",
+      "expect": [
+        "26,950",
+        "business income"
+      ],
+      "source": "Claim_File"
+    },
+    {
+      "q": "Why was Brookside's packaging machine paid at $10,750 instead of $12,500?",
+      "expect": [
+        "repair"
+      ],
+      "source": "Claim_File"
+    },
+    {
+      "q": "Why are we remarketing Brookside's BOP?",
+      "expect": [
+        "19|15%"
+      ],
+      "source": "Remarket"
+    },
+    {
+      "q": "When does the written renewal summary have to go to Natalie Brooks?",
+      "expect": [
+        "October 30"
+      ],
+      "source": "Remarket"
+    },
+    {
+      "q": "What's Ethan's recommended renewal program for Brookside, and how does the cost compare to renewing with Cascade?",
+      "expect": [
+        "16,875",
+        "16,940|65"
+      ],
+      "source": "Remarket"
+    },
+    {
+      "q": "Has Brookside turned down any coverage we offered?",
+      "expect": [
+        "EPLI|employment practices"
+      ],
+      "source": "Policy_Schedule"
+    },
+    {
+      "q": "If Natalie picks Harborview for the BOP, what happens to her umbrella?",
+      "expect": [
+        "does not write|doesn't write|without an umbrella|fourth carrier|standalone"
+      ],
+      "source": "Remarket"
+    },
+    {
+      "q": "Who insures Natalie Brooks's personal home?",
       "expect": [
         "couldn't find"
       ],
